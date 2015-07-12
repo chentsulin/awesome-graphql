@@ -103,7 +103,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - https://github.com/rmosolgo/graphql-ruby-demo.
 
 <a name="video" />
-## Video
+## Videos
 
 * [React.js Conf 2015 - Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
 * [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
