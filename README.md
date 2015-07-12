@@ -26,7 +26,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="spec" />
 ## Specification
 
-* [facebook/graphql](http://facebook.github.io/graphql/) -
+* [facebook/graphql](http://facebook.github.io/graphql/) - Working Draft of the Specification for GraphQL created by Facebook.
 
 <a name="lib" />
 ## Library
