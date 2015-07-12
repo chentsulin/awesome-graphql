@@ -16,12 +16,17 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graphql-parser](https://github.com/ooflorent/graphql-parser)
         - [graphqljs](https://github.com/cobbweb/graphqljs)
         - [graphqlite](https://github.com/madjam002/graphqlite)
+        - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
     - [Java](#lib-java)
         - [graphql-java](https://github.com/andimarek/graphql-java)
     - [Go](#lib-go)
         - [go-graphql](https://github.com/cryptix/go-graphql)
+    - [Scala](#lib-scala)
+        - [graphql-scala](https://github.com/hrosenhorn/graphql-scala)
+    - [.NET](#lib-dotnet)
+        - [graphql-dotnet](https://github.com/joemcbride/graphql-dotnet)
     - [postgresSQL](#lib-pgsql)
         - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 - [Examples](#example)
@@ -31,6 +36,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo)
 - [Videos](#video)
     - [React.js Conf 2015 - Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
+    - [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
     - [Lee Byron - Exploring GraphQL at react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
     - [Nick Schrock & Dan Schafer - Creating a GraphQL Server at react-europe 2015](https://www.youtube.com/watch?v=gY48GW87Feo)
 
@@ -51,6 +57,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-parser](https://github.com/ooflorent/graphql-parser) - Experimental Facebook's GraphQL parser.
 * [graphqljs](https://github.com/cobbweb/graphqljs) - GraphQL parser written in JavaScript.
 * [graphqlite](https://github.com/madjam002/graphqlite) - A Javascript Parser for Facebook's GraphQL.
+* [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
  
 <a name="lib-rb" />
 ### Ruby Libraries
@@ -66,6 +73,16 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Go Libraries
 
 * [go-graphql](https://github.com/cryptix/go-graphql) - GraphQL packages for golang.
+
+<a name="lib-scala" />
+### Scala Libraries
+
+* [graphql-scala](https://github.com/hrosenhorn/graphql-scala) - An attempt to get GraphQL going with Scala.
+
+<a name="lib-dotnet" />
+### .NET Libraries
+
+*[graphql-dotnet](https://github.com/joemcbride/graphql-dotnet) - https://github.com/joemcbride/graphql-dotnet.
 
 <a name="lib-pgsql" />
 ### postgresSQL Libraries
@@ -89,6 +106,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Video
 
 * [React.js Conf 2015 - Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
+* [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 * [Lee Byron - Exploring GraphQL at react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
 * [Nick Schrock & Dan Schafer - Creating a GraphQL Server at react-europe 2015](https://www.youtube.com/watch?v=gY48GW87Feo)
 
