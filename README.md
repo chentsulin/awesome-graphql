@@ -39,7 +39,8 @@ If you want to contribute to this list (please do), send me a pull request.
     - [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
     - [Lee Byron - Exploring GraphQL at react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
     - [Nick Schrock & Dan Schafer - Creating a GraphQL Server at react-europe 2015](https://www.youtube.com/watch?v=gY48GW87Feo)
-
+- [Posts](#post)
+    - [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
 <!-- /MarkdownTOC -->
 
 <a name="spec" />
@@ -110,3 +111,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Lee Byron - Exploring GraphQL at react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
 * [Nick Schrock & Dan Schafer - Creating a GraphQL Server at react-europe 2015](https://www.youtube.com/watch?v=gY48GW87Feo)
 
+<a name="post" />
+## Posts
+* [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
