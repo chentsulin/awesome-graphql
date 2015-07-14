@@ -28,6 +28,8 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graphql-scala](https://github.com/hrosenhorn/graphql-scala)
     - [.NET](#lib-dotnet)
         - [graphql-dotnet](https://github.com/joemcbride/graphql-dotnet)
+    - [Elixir](#lib-elixir)
+        - [graphql](https://github.com/asonge/graphql)
     - [PostgresSQL](#lib-pgsql)
         - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 - [Examples](#example)
@@ -90,6 +92,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ### .NET Libraries
 
 *[graphql-dotnet](https://github.com/joemcbride/graphql-dotnet) - https://github.com/joemcbride/graphql-dotnet.
+
+<a name="lib-elixir" />
+### Elixir Libraries
+        
+* [graphql](https://github.com/asonge/graphql) - Elixir graphql library.
 
 <a name="lib-pgsql" />
 ### PostgresSQL Libraries
