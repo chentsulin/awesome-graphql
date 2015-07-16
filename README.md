@@ -91,7 +91,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-dotnet" />
 ### .NET Libraries
 
-*[graphql-dotnet](https://github.com/joemcbride/graphql-dotnet) - https://github.com/joemcbride/graphql-dotnet.
+* [graphql-dotnet](https://github.com/joemcbride/graphql-dotnet) - https://github.com/joemcbride/graphql-dotnet.
 
 <a name="lib-elixir" />
 ### Elixir Libraries
