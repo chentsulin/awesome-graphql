@@ -36,6 +36,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Examples](#example)
     - [Javascript](#example-js)
         - [graphql-server](https://github.com/RisingStack/graphql-server)
+        - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
     - [Ruby](#example-rb)
         - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo)
 - [Videos](#video)
@@ -112,6 +113,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### JavaScript Examples
 
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
+* [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example) - graphql-example with react and redux.
 
 <a name="example-rb" />
 ### Ruby Examples
