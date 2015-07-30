@@ -21,6 +21,10 @@ If you want to contribute to this list (please do), send me a pull request.
         - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+    - [PHP](#lib-php)
+        - [graphql-php](https://github.com/webonyx/graphql-php)
+    - [Python](#lib-py)
+        - [GraphQL implementation for Python](https://github.com/dittos/graphql-py)
     - [Java](#lib-java)
         - [graphql-java](https://github.com/andimarek/graphql-java)
     - [Go](#lib-go)
@@ -50,6 +54,8 @@ If you want to contribute to this list (please do), send me a pull request.
     - [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
     - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
     - [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
+- [Workshoppers](#workshopper)
+    - [learning-graphql](https://github.com/mugli/learning-graphql)
 
 <!-- /MarkdownTOC -->
 
@@ -76,6 +82,16 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Ruby Libraries
 
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
+
+<a name="lib-php" />
+### PHP Libraries
+
+* [graphql-php](https://github.com/webonyx/graphql-php) - A PHP port of GraphQL reference implementation.
+
+<a name="lib-py" />
+### Python Libraries
+
+* [graphql-py](https://github.com/dittos/graphql-py) - GraphQL implementation for Python.
 
 <a name="lib-java" />
 ### Java Libraries
@@ -132,10 +148,16 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <a name="post" />
 ## Posts
+
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
 * [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
+
+<a name="workshopper" />
+## Workshoppers
+
+* [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 
 ## License
 
