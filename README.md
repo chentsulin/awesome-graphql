@@ -17,6 +17,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graphqljs](https://github.com/cobbweb/graphqljs)
         - [graphqlite](https://github.com/madjam002/graphqlite)
         - [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize)
+        - [graffiti](https://github.com/RisingStack/graffiti)
         - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
@@ -68,6 +69,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphqljs](https://github.com/cobbweb/graphqljs) - GraphQL parser written in JavaScript.
 * [graphqlite](https://github.com/madjam002/graphqlite) - A Javascript Parser for Facebook's GraphQL.
 * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
+* [graffiti](https://github.com/RisingStack/graffiti) - Node.js GraphQL ORM
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
  
 <a name="lib-rb" />
