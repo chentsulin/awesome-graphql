@@ -42,6 +42,8 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Javascript](#example-js)
         - [graphql-server](https://github.com/RisingStack/graphql-server)
         - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
+        - [graphql-aws](https://github.com/redbadger/graphql-aws)
+        - [graffiti-example](https://github.com/RisingStack/graffiti-example)
     - [Ruby](#example-rb)
         - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo)
 - [Videos](#video)
@@ -54,6 +56,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
     - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
     - [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
+    - [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
 - [Workshoppers](#workshopper)
     - [learning-graphql](https://github.com/mugli/learning-graphql)
 
@@ -132,6 +135,8 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
 * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example) - graphql-example with react and redux.
+* [graphql-aws](https://github.com/redbadger/graphql-aws) - Amazon AWS GraphQL API Server.
+* [graffiti-example](https://github.com/RisingStack/graffiti-example) - Example server for the graffiti GraphQL ORM.
 
 <a name="example-rb" />
 ### Ruby Examples
@@ -153,6 +158,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
 * [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
+* [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
 
 <a name="workshopper" />
 ## Workshoppers
