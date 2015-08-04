@@ -41,11 +41,14 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Examples](#example)
     - [Javascript](#example-js)
         - [graphql-server](https://github.com/RisingStack/graphql-server)
+        - [graphql-intro](https://github.com/clayallsopp/graphql-intro)
         - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
         - [graphql-aws](https://github.com/redbadger/graphql-aws)
         - [graffiti-example](https://github.com/RisingStack/graffiti-example)
     - [Ruby](#example-rb)
         - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo)
+    - [Scala](#example-scala)
+        - [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example)
 - [Videos](#video)
     - [React.js Conf 2015 - Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
     - [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
@@ -134,6 +137,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### JavaScript Examples
 
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
+* [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2.
 * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example) - graphql-example with react and redux.
 * [graphql-aws](https://github.com/redbadger/graphql-aws) - Amazon AWS GraphQL API Server.
 * [graffiti-example](https://github.com/RisingStack/graffiti-example) - Example server for the graffiti GraphQL ORM.
@@ -142,6 +146,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Ruby Examples
 
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - https://github.com/rmosolgo/graphql-ruby-demo.
+
+<a name="example-scala" />
+### Scala Examples
+
+* [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and sangria http://sangria-graphql.org
 
 <a name="video" />
 ## Videos
