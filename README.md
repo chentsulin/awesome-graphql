@@ -14,17 +14,19 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Javascript](#lib-js)
         - [GraphQL.js](https://github.com/graphql/graphql-js)
         - [graphql-parser](https://github.com/ooflorent/graphql-parser)
+        - [graphql-schema](https://github.com/devknoll/graphql-schema)
         - [graphqljs](https://github.com/cobbweb/graphqljs)
         - [graphqlite](https://github.com/madjam002/graphqlite)
         - [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize)
         - [graffiti](https://github.com/RisingStack/graffiti)
+        - [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose)
         - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
     - [PHP](#lib-php)
         - [graphql-php](https://github.com/webonyx/graphql-php)
     - [Python](#lib-py)
-        - [GraphQL implementation for Python](https://github.com/dittos/graphql-py)
+        - [graphql-py](https://github.com/dittos/graphql-py)
     - [Java](#lib-java)
         - [graphql-java](https://github.com/andimarek/graphql-java)
     - [Go](#lib-go)
@@ -78,10 +80,12 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphQL.js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
 * [graphql-parser](https://github.com/ooflorent/graphql-parser) - Experimental Facebook's GraphQL parser.
+* [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphqljs](https://github.com/cobbweb/graphqljs) - GraphQL parser written in JavaScript.
 * [graphqlite](https://github.com/madjam002/graphqlite) - A Javascript Parser for Facebook's GraphQL.
 * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
-* [graffiti](https://github.com/RisingStack/graffiti) - Node.js GraphQL ORM
+* [graffiti](https://github.com/RisingStack/graffiti) - Node.js GraphQL ORM.
+* [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose) - Mongoose (MongoDB) adapter for graffiti (Node.js GraphQL ORM).
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
  
 <a name="lib-rb" />
