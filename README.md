@@ -48,6 +48,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graphql-aws](https://github.com/redbadger/graphql-aws)
         - [graffiti-example](https://github.com/RisingStack/graffiti-example)
         - [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
+        - [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
     - [Ruby](#example-rb)
         - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo)
     - [Scala](#example-scala)
@@ -57,6 +58,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
     - [Lee Byron - Exploring GraphQL at react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
     - [Nick Schrock & Dan Schafer - Creating a GraphQL Server at react-europe 2015](https://www.youtube.com/watch?v=gY48GW87Feo)
+    - [GraphQL at The Financial Times- Viktor Charypar London React August 2015](https://www.youtube.com/watch?v=S0s935RKKB4)
 - [Posts](#post)
     - [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
     - [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -65,6 +67,9 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
     - [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
     - [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
+    - [Start using GraphQL with Graffiti](https://blog.risingstack.com/start-using-graphql-with-graffiti/?utm_source=nodeweekly&utm_medium=email)
+    - [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
+    - [London React August - GraphQL at The Financial Times - Viktor Charypar](http://www.slideshare.net/LondonReact/graph-ql?ref=https://twitter.com/i/cards/tfw/v1/628886457357352960?cardname=player&earned=true)
 - [Workshoppers](#workshopper)
     - [learning-graphql](https://github.com/mugli/learning-graphql)
 
@@ -149,6 +154,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-aws](https://github.com/redbadger/graphql-aws) - Amazon AWS GraphQL API Server.
 * [graffiti-example](https://github.com/RisingStack/graffiti-example) - Example server for the graffiti GraphQL ORM.
 * [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
+* [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
 
 <a name="example-rb" />
 ### Ruby Examples
@@ -167,6 +173,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 * [Lee Byron - Exploring GraphQL at react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
 * [Nick Schrock & Dan Schafer - Creating a GraphQL Server at react-europe 2015](https://www.youtube.com/watch?v=gY48GW87Feo)
+* [GraphQL at The Financial Times- Viktor Charypar London React August 2015](https://www.youtube.com/watch?v=S0s935RKKB4)
 
 <a name="post" />
 ## Posts
@@ -178,6 +185,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
 * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
 * [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
+* [Start using GraphQL with Graffiti](https://blog.risingstack.com/start-using-graphql-with-graffiti/?utm_source=nodeweekly&utm_medium=email)
+* [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
+* [London React August - GraphQL at The Financial Times - Viktor Charypar](http://www.slideshare.net/LondonReact/graph-ql?ref=https://twitter.com/i/cards/tfw/v1/628886457357352960?cardname=player&earned=true)
 
 <a name="workshopper" />
 ## Workshoppers
