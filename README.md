@@ -13,6 +13,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Libraries](#lib)
     - [Javascript](#lib-js)
         - [GraphQL.js](https://github.com/graphql/graphql-js)
+        - [express-graphql](https://github.com/graphql/express-graphql)
+        - [graphql-relay-js](https://github.com/graphql/graphql-relay-js)
         - [graphql-parser](https://github.com/ooflorent/graphql-parser)
         - [graphql-schema](https://github.com/devknoll/graphql-schema)
         - [graphqljs](https://github.com/cobbweb/graphqljs)
@@ -21,8 +23,6 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graffiti](https://github.com/RisingStack/graffiti)
         - [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose)
         - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
-        - [express-graphql](https://github.com/graphql/express-graphql)
-        - [graphql-relay-js](https://github.com/graphql/graphql-relay-js)
         - [koa-gql](https://github.com/chentsulin/koa-gql)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
@@ -45,6 +45,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 - [Examples](#example)
     - [Javascript](#example-js)
+        - [relay-starter-kit](https://github.com/facebook/relay-starter-kit) - Barebones starting point for a Relay application.
         - [graphql-server](https://github.com/RisingStack/graphql-server)
         - [graphql-intro](https://github.com/clayallsopp/graphql-intro)
         - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
@@ -90,6 +91,8 @@ If you want to contribute to this list (please do), send me a pull request.
 ### JavaScript Libraries
 
 * [GraphQL.js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
+* [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
+* [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 * [graphql-parser](https://github.com/ooflorent/graphql-parser) - Experimental Facebook's GraphQL parser.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphqljs](https://github.com/cobbweb/graphqljs) - GraphQL parser written in JavaScript.
@@ -98,8 +101,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graffiti](https://github.com/RisingStack/graffiti) - Node.js GraphQL ORM.
 * [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose) - Mongoose (MongoDB) adapter for graffiti (Node.js GraphQL ORM).
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
-* [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
-* [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 * [koa-gql](https://github.com/chentsulin/koa-gql) - GraphQL Koa Middleware.
 
 <a name="lib-rb" />
@@ -154,6 +155,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="example-js" />
 ### JavaScript Examples
 
+* [relay-starter-kit](https://github.com/facebook/relay-starter-kit) - Barebones starting point for a Relay application.
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
 * [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2.
 * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example) - graphql-example with react and redux.
