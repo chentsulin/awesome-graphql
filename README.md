@@ -23,6 +23,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
         - [express-graphql](https://github.com/graphql/express-graphql)
         - [graphql-relay-js](https://github.com/graphql/graphql-relay-js)
+        - [koa-gql](https://github.com/chentsulin/koa-gql)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
     - [PHP](#lib-php)
@@ -99,6 +100,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
 * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
+* [koa-gql](https://github.com/chentsulin/koa-gql) - GraphQL Koa Middleware.
 
 <a name="lib-rb" />
 ### Ruby Libraries
