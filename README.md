@@ -24,6 +24,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose)
         - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
         - [koa-graphql](https://github.com/chentsulin/koa-graphql)
+        - [redux-graphql](https://github.com/gyzerok/redux-graphql)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
     - [PHP](#lib-php)
@@ -53,6 +54,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graffiti-example](https://github.com/RisingStack/graffiti-example)
         - [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
         - [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
+        - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
     - [Ruby](#example-rb)
         - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo)
     - [Scala](#example-scala)
@@ -102,6 +104,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose) - Mongoose (MongoDB) adapter for graffiti (Node.js GraphQL ORM).
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
+* [redux-graphql](https://github.com/gyzerok/redux-graphql) - Relay-like functionality for Redux-based applications.
 
 <a name="lib-rb" />
 ### Ruby Libraries
@@ -163,6 +166,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graffiti-example](https://github.com/RisingStack/graffiti-example) - Example server for the graffiti GraphQL ORM.
 * [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
 * [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
+* [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
 
 <a name="example-rb" />
 ### Ruby Examples
