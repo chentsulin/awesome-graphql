@@ -23,7 +23,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graffiti](https://github.com/RisingStack/graffiti)
         - [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose)
         - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
-        - [koa-gql](https://github.com/chentsulin/koa-gql)
+        - [koa-graphql](https://github.com/chentsulin/koa-graphql)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
     - [PHP](#lib-php)
@@ -101,7 +101,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graffiti](https://github.com/RisingStack/graffiti) - Node.js GraphQL ORM.
 * [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose) - Mongoose (MongoDB) adapter for graffiti (Node.js GraphQL ORM).
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
-* [koa-gql](https://github.com/chentsulin/koa-gql) - GraphQL Koa Middleware.
+* [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 
 <a name="lib-rb" />
 ### Ruby Libraries
