@@ -25,10 +25,12 @@ If you want to contribute to this list (please do), send me a pull request.
         - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
         - [koa-graphql](https://github.com/chentsulin/koa-graphql)
         - [redux-graphql](https://github.com/gyzerok/redux-graphql)
+        - [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
     - [PHP](#lib-php)
         - [graphql-php](https://github.com/webonyx/graphql-php)
+        - [laravel-graphql](https://github.com/Folkloreatelier/laravel-graphql)
     - [Python](#lib-py)
         - [graphql-py](https://github.com/dittos/graphql-py)
     - [Java](#lib-java)
@@ -105,6 +107,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 * [redux-graphql](https://github.com/gyzerok/redux-graphql) - Relay-like functionality for Redux-based applications.
+* [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
 
 <a name="lib-rb" />
 ### Ruby Libraries
@@ -115,6 +118,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### PHP Libraries
 
 * [graphql-php](https://github.com/webonyx/graphql-php) - A PHP port of GraphQL reference implementation.
+* [laravel-graphql](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5.
 
 <a name="lib-py" />
 ### Python Libraries
