@@ -48,7 +48,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 - [Examples](#example)
     - [Javascript](#example-js)
-        - [relay-starter-kit](https://github.com/facebook/relay-starter-kit) - Barebones starting point for a Relay application.
+        - [relay-starter-kit](https://github.com/facebook/relay-starter-kit)
         - [graphql-server](https://github.com/RisingStack/graphql-server)
         - [graphql-intro](https://github.com/clayallsopp/graphql-intro)
         - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
