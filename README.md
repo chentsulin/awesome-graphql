@@ -62,11 +62,11 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Scala](#example-scala)
         - [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example)
 - [Videos](#video)
-    - [React.js Conf 2015 - Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
-    - [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-    - [Lee Byron - Exploring GraphQL at react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
-    - [Nick Schrock & Dan Schafer - Creating a GraphQL Server at react-europe 2015](https://www.youtube.com/watch?v=gY48GW87Feo)
-    - [GraphQL at The Financial Times- Viktor Charypar London React August 2015](https://www.youtube.com/watch?v=S0s935RKKB4)
+    - [Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
+    - [React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
+    - [Exploring GraphQL](https://www.youtube.com/watch?v=WQLzZf34FJ8)
+    - [Creating a GraphQL Server](https://www.youtube.com/watch?v=gY48GW87Feo)
+    - [GraphQL at The Financial Times](https://www.youtube.com/watch?v=S0s935RKKB4)
 - [Posts](#post)
     - [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
     - [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -185,11 +185,11 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="video" />
 ## Videos
 
-* [React.js Conf 2015 - Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
-* [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-* [Lee Byron - Exploring GraphQL at react-europe 2015](https://www.youtube.com/watch?v=WQLzZf34FJ8)
-* [Nick Schrock & Dan Schafer - Creating a GraphQL Server at react-europe 2015](https://www.youtube.com/watch?v=gY48GW87Feo)
-* [GraphQL at The Financial Times- Viktor Charypar London React August 2015](https://www.youtube.com/watch?v=S0s935RKKB4)
+* [Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
+* [React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
+* [Exploring GraphQL](https://www.youtube.com/watch?v=WQLzZf34FJ8)
+* [Creating a GraphQL Server](https://www.youtube.com/watch?v=gY48GW87Feo)
+* [GraphQL at The Financial Times](https://www.youtube.com/watch?v=S0s935RKKB4)
 
 <a name="post" />
 ## Posts
