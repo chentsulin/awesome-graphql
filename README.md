@@ -180,7 +180,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="example-scala" />
 ### Scala Examples
 
-* [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and sangria http://sangria-graphql.org
+* [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](http://sangria-graphql.org)
 
 <a name="video" />
 ## Videos
