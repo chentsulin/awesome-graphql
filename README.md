@@ -135,6 +135,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Go Libraries
 
 * [go-graphql](https://github.com/cryptix/go-graphql) - GraphQL packages for golang.
+* [graphql](https://github.com/tmc/graphql) - GraphQL parser and server for Go.
 
 <a name="lib-scala" />
 ### Scala Libraries
