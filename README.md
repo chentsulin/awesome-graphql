@@ -36,6 +36,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Java](#lib-java)
         - [graphql-java](https://github.com/andimarek/graphql-java)
     - [Go](#lib-go)
+        - [graphql](https://github.com/tmc/graphql)
         - [go-graphql](https://github.com/cryptix/go-graphql)
     - [Scala](#lib-scala)
         - [sangria](https://github.com/OlegIlyenko/sangria)
