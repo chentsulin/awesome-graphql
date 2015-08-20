@@ -26,6 +26,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [koa-graphql](https://github.com/chentsulin/koa-graphql)
         - [redux-graphql](https://github.com/gyzerok/redux-graphql)
         - [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf)
+        - [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
     - [PHP](#lib-php)
@@ -109,6 +110,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 * [redux-graphql](https://github.com/gyzerok/redux-graphql) - Relay-like functionality for Redux-based applications.
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
+* [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
 
 <a name="lib-rb" />
 ### Ruby Libraries
