@@ -36,6 +36,8 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graphql-py](https://github.com/dittos/graphql-py)
     - [Java](#lib-java)
         - [graphql-java](https://github.com/andimarek/graphql-java)
+    - [C/C++](#lib-c)
+        - [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
     - [Go](#lib-go)
         - [graphql](https://github.com/tmc/graphql)
         - [go-graphql](https://github.com/cryptix/go-graphql)
@@ -132,6 +134,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Java Libraries
 
 * [graphql-java](https://github.com/andimarek/graphql-java) - GraphQL Java implementation.
+
+<a name="#lib-c" />
+### C/C++ Libraries
+
+* [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
 
 <a name="lib-go" />
 ### Go Libraries
