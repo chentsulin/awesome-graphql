@@ -50,6 +50,8 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graphql](https://github.com/asonge/graphql)
     - [PostgresSQL](#lib-pgsql)
         - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
+- [Tools](#tools)
+    - [graphiql](https://github.com/graphql/graphiql)
 - [Examples](#example)
     - [Javascript](#example-js)
         - [relay-starter-kit](https://github.com/facebook/relay-starter-kit)
@@ -166,6 +168,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ### PostgresSQL Libraries
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
+
+<a name="tools" />
+## Tools
+
+* [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 
 <a name="example" />
 ## Examples
