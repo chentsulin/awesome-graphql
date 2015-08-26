@@ -1,6 +1,6 @@
 # awesome-graphql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Awesome list of GraphQL
+> Awesome list of GraphQL & Relay
 
 If you want to contribute to this list (please do), send me a pull request.
 
@@ -14,6 +14,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Javascript](#lib-js)
         - [GraphQL.js](https://github.com/graphql/graphql-js)
         - [express-graphql](https://github.com/graphql/express-graphql)
+        - [relay](https://github.com/facebook/relay)
         - [graphql-relay-js](https://github.com/graphql/graphql-relay-js)
         - [graphql-parser](https://github.com/ooflorent/graphql-parser)
         - [graphql-schema](https://github.com/devknoll/graphql-schema)
@@ -102,6 +103,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphQL.js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
+* [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 * [graphql-parser](https://github.com/ooflorent/graphql-parser) - Experimental Facebook's GraphQL parser.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
