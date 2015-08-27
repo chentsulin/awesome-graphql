@@ -56,6 +56,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Examples](#example)
     - [Javascript](#example-js)
         - [relay-starter-kit](https://github.com/facebook/relay-starter-kit)
+        - [swapi-graphql](https://github.com/graphql/swapi-graphql)
         - [graphql-server](https://github.com/RisingStack/graphql-server)
         - [graphql-intro](https://github.com/clayallsopp/graphql-intro)
         - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
@@ -183,6 +184,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### JavaScript Examples
 
 * [relay-starter-kit](https://github.com/facebook/relay-starter-kit) - Barebones starting point for a Relay application.
+* [swapi-graphql](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping [swapi](http://swapi.co/).
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
 * [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2.
 * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example) - graphql-example with react and redux.
