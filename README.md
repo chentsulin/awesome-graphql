@@ -16,6 +16,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [express-graphql](https://github.com/graphql/express-graphql)
         - [relay](https://github.com/facebook/relay)
         - [graphql-relay-js](https://github.com/graphql/graphql-relay-js)
+        - [codemirror-graphql](https://github.com/graphql/codemirror-graphql)
         - [graphql-parser](https://github.com/ooflorent/graphql-parser)
         - [graphql-schema](https://github.com/devknoll/graphql-schema)
         - [graphqljs](https://github.com/cobbweb/graphqljs)
@@ -107,6 +108,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
+* [codemirror-graphql](https://github.com/graphql/codemirror-graphql) - GraphQL mode and helpers for CodeMirror.
 * [graphql-parser](https://github.com/ooflorent/graphql-parser) - Experimental Facebook's GraphQL parser.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphqljs](https://github.com/cobbweb/graphqljs) - GraphQL parser written in JavaScript.
