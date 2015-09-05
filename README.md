@@ -54,6 +54,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 - [Tools](#tools)
     - [graphiql](https://github.com/graphql/graphiql)
+    - [GraphiQL.app](https://github.com/skevy/graphiql-app)
 - [Examples](#example)
     - [Javascript](#example-js)
         - [relay-starter-kit](https://github.com/facebook/relay-starter-kit)
@@ -179,6 +180,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Tools
 
 * [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
+* [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 
 <a name="example" />
 ## Examples
