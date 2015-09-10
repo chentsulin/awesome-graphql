@@ -50,8 +50,9 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graphql-dotnet](https://github.com/joemcbride/graphql-dotnet)
     - [Elixir](#lib-elixir)
         - [graphql](https://github.com/asonge/graphql)
-    - [PostgresSQL](#lib-pgsql)
+    - [SQL](#lib-sql)
         - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
+        - [sql-to-graphql](https://github.com/vaffel/sql-to-graphql)
 - [Tools](#tools)
     - [graphiql](https://github.com/graphql/graphiql)
     - [GraphiQL.app](https://github.com/skevy/graphiql-app)
@@ -171,10 +172,11 @@ If you want to contribute to this list (please do), send me a pull request.
         
 * [graphql](https://github.com/asonge/graphql) - Elixir graphql library.
 
-<a name="lib-pgsql" />
-### PostgresSQL Libraries
+<a name="lib-sql" />
+### SQL Libraries
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
+* [sql-to-graphql](https://github.com/vaffel/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
 
 <a name="tools" />
 ## Tools
