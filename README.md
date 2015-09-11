@@ -44,6 +44,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [C/C++](#lib-c)
         - [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
     - [Go](#lib-go)
+        - [graphql-go](https://github.com/chris-ramon/graphql-go)
         - [graphql](https://github.com/tmc/graphql)
         - [go-graphql](https://github.com/cryptix/go-graphql)
     - [Scala](#lib-scala)
