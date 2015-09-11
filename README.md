@@ -16,6 +16,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [express-graphql](https://github.com/graphql/express-graphql)
         - [relay](https://github.com/facebook/relay)
         - [graphql-relay-js](https://github.com/graphql/graphql-relay-js)
+        - [react-router-relay](https://github.com/relay-tools/react-router-relay)
         - [codemirror-graphql](https://github.com/graphql/codemirror-graphql)
         - [graphql-parser](https://github.com/ooflorent/graphql-parser)
         - [graphql-schema](https://github.com/devknoll/graphql-schema)
@@ -29,8 +30,10 @@ If you want to contribute to this list (please do), send me a pull request.
         - [redux-graphql](https://github.com/gyzerok/redux-graphql)
         - [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf)
         - [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql)
+        - [relay-local-schema](https://github.com/relay-tools/relay-local-schema)
     - [Ruby](#lib-rb)
         - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby)
+        - [graphql-relay-ruby](https://github.com/rmosolgo/graphql-relay-ruby)
     - [PHP](#lib-php)
         - [graphql-php](https://github.com/webonyx/graphql-php)
         - [laravel-graphql](https://github.com/Folkloreatelier/laravel-graphql)
@@ -68,6 +71,10 @@ If you want to contribute to this list (please do), send me a pull request.
         - [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
         - [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
         - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
+        - [relay-skeleton](https://github.com/fortruce/relay-skeleton)
+        - [simple-relay-starter](https://github.com/mhart/simple-relay-starter)
+        - [relay-chat](https://github.com/transedward/relay-chat)
+        - [relay-todomvc](https://github.com/taion/relay-todomvc)
     - [Ruby](#example-rb)
         - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo)
     - [Scala](#example-scala)
@@ -110,6 +117,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
+* [react-router-relay](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
 * [codemirror-graphql](https://github.com/graphql/codemirror-graphql) - GraphQL mode and helpers for CodeMirror.
 * [graphql-parser](https://github.com/ooflorent/graphql-parser) - Experimental Facebook's GraphQL parser.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
@@ -123,11 +131,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [redux-graphql](https://github.com/gyzerok/redux-graphql) - Relay-like functionality for Redux-based applications.
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
 * [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
+* [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server.
 
 <a name="lib-rb" />
 ### Ruby Libraries
 
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
+* [graphql-relay-ruby](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
 
 <a name="lib-php" />
 ### PHP Libraries
@@ -200,6 +210,10 @@ If you want to contribute to this list (please do), send me a pull request.
 * [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
 * [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
 * [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
+* [relay-skeleton](https://github.com/fortruce/relay-skeleton) - React, Relay, GraphQL project skeleton
+* [simple-relay-starter](https://github.com/mhart/simple-relay-starter) - A very simple starter for React Relay using Browserify.
+* [relay-chat](https://github.com/transedward/relay-chat) - an chat example showing Relay with routing and pagination.
+* [relay-todomvc](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
 
 <a name="example-rb" />
 ### Ruby Examples
