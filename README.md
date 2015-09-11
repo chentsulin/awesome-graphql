@@ -47,7 +47,8 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graphql](https://github.com/tmc/graphql)
         - [go-graphql](https://github.com/cryptix/go-graphql)
     - [Scala](#lib-scala)
-        - [sangria](https://github.com/OlegIlyenko/sangria)
+        - [sangria](https://github.com/sangria-graphql/sangria)
+        - [sangria-relay](https://github.com/sangria-graphql/sangria-relay)
         - [graphql-scala](https://github.com/hrosenhorn/graphql-scala)
     - [.NET](#lib-dotnet)
         - [graphql-dotnet](https://github.com/joemcbride/graphql-dotnet)
@@ -167,7 +168,8 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-scala" />
 ### Scala Libraries
 
-* [sangria](https://github.com/OlegIlyenko/sangria) -Scala GraphQL client and server library.
+* [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL client and server library.
+* [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
 * [graphql-scala](https://github.com/hrosenhorn/graphql-scala) - An attempt to get GraphQL going with Scala.
 
 <a name="lib-dotnet" />
