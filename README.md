@@ -27,7 +27,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose)
         - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql)
         - [koa-graphql](https://github.com/chentsulin/koa-graphql)
-        - [redux-graphql](https://github.com/gyzerok/redux-graphql)
+        - [adrenaline](https://github.com/gyzerok/adrenaline)
         - [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf)
         - [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql)
         - [relay-local-schema](https://github.com/relay-tools/relay-local-schema)
@@ -65,12 +65,10 @@ If you want to contribute to this list (please do), send me a pull request.
         - [swapi-graphql](https://github.com/graphql/swapi-graphql)
         - [graphql-server](https://github.com/RisingStack/graphql-server)
         - [graphql-intro](https://github.com/clayallsopp/graphql-intro)
-        - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
         - [graphql-aws](https://github.com/redbadger/graphql-aws)
         - [graffiti-example](https://github.com/RisingStack/graffiti-example)
         - [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
         - [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
-        - [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
         - [relay-skeleton](https://github.com/fortruce/relay-skeleton)
         - [simple-relay-starter](https://github.com/mhart/simple-relay-starter)
         - [relay-chat](https://github.com/transedward/relay-chat)
@@ -128,7 +126,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose) - Mongoose (MongoDB) adapter for graffiti (Node.js GraphQL ORM).
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
-* [redux-graphql](https://github.com/gyzerok/redux-graphql) - Relay-like functionality for Redux-based applications.
+* [adrenaline](https://github.com/gyzerok/adrenaline) - React bindings for Redux with Relay in mind.
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
 * [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
 * [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server.
@@ -204,12 +202,10 @@ If you want to contribute to this list (please do), send me a pull request.
 * [swapi-graphql](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping [swapi](http://swapi.co/).
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
 * [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2.
-* [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example) - graphql-example with react and redux.
 * [graphql-aws](https://github.com/redbadger/graphql-aws) - Amazon AWS GraphQL API Server.
 * [graffiti-example](https://github.com/RisingStack/graffiti-example) - Example server for the graffiti GraphQL ORM.
 * [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
 * [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
-* [redux-react-graphql-example](https://github.com/gyzerok/redux-react-graphql-example)
 * [relay-skeleton](https://github.com/fortruce/relay-skeleton) - React, Relay, GraphQL project skeleton
 * [simple-relay-starter](https://github.com/mhart/simple-relay-starter) - A very simple starter for React Relay using Browserify.
 * [relay-chat](https://github.com/transedward/relay-chat) - an chat example showing Relay with routing and pagination.
