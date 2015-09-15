@@ -115,6 +115,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Elixir Libraries
         
 * [graphql](https://github.com/asonge/graphql) - Elixir graphql library.
+* [graphql-elixir](https://github.com/joshprice/graphql-elixir) - GraphQL parser for Elixir.
 
 <a name="lib-sql" />
 ### SQL Libraries
