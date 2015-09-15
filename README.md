@@ -79,6 +79,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Python Libraries
 
 * [graphql-py](https://github.com/dittos/graphql-py) - GraphQL implementation for Python.
+* [graphql-parser](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python
 
 <a name="lib-java" />
 ### Java Libraries
