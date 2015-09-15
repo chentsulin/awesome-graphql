@@ -20,6 +20,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Scala](#lib-scala)
     - [.NET](#lib-dotnet)
     - [Elixir](#lib-elixir)
+    - [Haskell] (#lib-haskell)
     - [SQL](#lib-sql)
 - [Tools](#tools)
 - [Examples](#example)
@@ -116,6 +117,11 @@ If you want to contribute to this list (please do), send me a pull request.
         
 * [graphql](https://github.com/asonge/graphql) - Elixir graphql library.
 * [graphql-elixir](https://github.com/joshprice/graphql-elixir) - GraphQL parser for Elixir.
+ 
+<a name="lib-haskell" />
+### Haskell Libraries
+
+* [graphql-haskell](https://github.com/jdnavarro/graphql-haskell) - GraphQL AST and parser for Haskell.
 
 <a name="lib-sql" />
 ### SQL Libraries
