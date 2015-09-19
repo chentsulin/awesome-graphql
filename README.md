@@ -69,6 +69,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
 * [graphql-relay-ruby](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
+* [graphql-parser](https://github.com/Shopify/graphql-parser) - A small ruby gem wrapping the libgraphqlparser C library for parsing GraphQL.
 
 <a name="lib-php" />
 ### PHP Libraries
@@ -98,6 +99,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-go](https://github.com/chris-ramon/graphql-go) - An implementation of GraphQL for Go.
 * [go-graphql](https://github.com/cryptix/go-graphql) - GraphQL packages for golang.
 * [graphql](https://github.com/tmc/graphql) - GraphQL parser and server for Go.
+* [c-graphqlparser](https://github.com/tecbot/c-graphqlparser) - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
 
 
 <a name="lib-scala" />
