@@ -157,6 +157,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [simple-relay-starter](https://github.com/mhart/simple-relay-starter) - A very simple starter for React Relay using Browserify.
 * [relay-chat](https://github.com/transedward/relay-chat) - an chat example showing Relay with routing and pagination.
 * [relay-todomvc](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
+* [graphql-express-sqlite] (https://github.com/mrblueblue/graphql-express-sqlite) - GraphQL server with Sqlite and Express
 
 <a name="example-rb" />
 ### Ruby Examples
