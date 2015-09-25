@@ -167,6 +167,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Scala Examples
 
 * [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](http://sangria-graphql.org)
+* [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
 
 <a name="video" />
 ## Videos
