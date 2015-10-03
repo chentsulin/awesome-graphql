@@ -173,6 +173,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
 * [golang-graphql-playground](https://github.com/sogko/golang-graphql-playground) - An example Golang GraphQL server written with graphql-go and graphql-relay-go. Try live demo at: http://bit.ly/try-graphql-go
+* [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
 <a name="example-scala" />
 ### Scala Examples
