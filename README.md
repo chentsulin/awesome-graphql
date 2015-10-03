@@ -121,10 +121,11 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <a name="lib-elixir" />
 ### Elixir Libraries
-        
+
 * [graphql](https://github.com/asonge/graphql) - Elixir graphql library.
 * [graphql-elixir](https://github.com/joshprice/graphql-elixir) - GraphQL parser for Elixir.
- 
+* [plot](https://github.com/peburrows/plot) - GraphQL parser and resolver for Elixir.
+
 <a name="lib-haskell" />
 ### Haskell Libraries
 
