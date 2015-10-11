@@ -27,6 +27,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Javascript](#example-js)
     - [Ruby](#example-rb)
     - [Scala](#example-scala)
+    - [Python](#example-python)
 - [Videos](#video)
 - [Posts](#post)
 - [Workshoppers](#workshopper)
@@ -180,6 +181,11 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](http://sangria-graphql.org)
 * [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
+
+<a name="example-python" />
+### Python Examples
+
+* [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](http://graphene-python.org) - [View demo online](http://swapi.graphene-python.org).
 
 <a name="video" />
 ## Videos
