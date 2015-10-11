@@ -195,6 +195,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Exploring GraphQL](https://www.youtube.com/watch?v=WQLzZf34FJ8)
 * [Creating a GraphQL Server](https://www.youtube.com/watch?v=gY48GW87Feo)
 * [GraphQL at The Financial Times](https://www.youtube.com/watch?v=S0s935RKKB4)
+* [Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg)
+* [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?t=643&v=Pxdgu2XIAAg)
 
 <a name="post" />
 ## Posts
