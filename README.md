@@ -81,11 +81,11 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-py" />
 ### Python Libraries
 
-* [graphql-py](https://github.com/dittos/graphql-py) - GraphQL implementation for Python.
 * [graphql-parser](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python.
-* [graphqllib](https://github.com/dittos/graphqllib) - GraphQL implementation for Python.
-* [graphql-relay-py](https://github.com/syrusakbary/graphql-relay-py) - A library to help construct a graphql-py server supporting react-relay.
+* [graphql-core](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python.
+* [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a graphql-py server supporting react-relay.
 * [graphql-parser-python](https://github.com/tallstreet/graphql-parser-python) - A python wrapper around libgraphqlparser.
+* [graphene](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
 
 <a name="lib-java" />
 ### Java Libraries
