@@ -214,6 +214,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Relay for visual learners](http://sgwilym.github.io/relay-visual-learners/)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 * [Learn Golang + GraphQL + Relay, Part 1: Your first Golang GraphQL server](https://wehavefaces.net/learn-golang-graphql-relay-1-e59ea174a902)
+* [From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b)
 
 <a name="workshopper" />
 ## Workshoppers
