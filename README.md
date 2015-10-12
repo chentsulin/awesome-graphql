@@ -143,6 +143,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
+* [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 
 <a name="example" />
 ## Examples
