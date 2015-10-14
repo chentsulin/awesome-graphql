@@ -220,6 +220,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Workshoppers
 
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
+* [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
 
 ## License
 
