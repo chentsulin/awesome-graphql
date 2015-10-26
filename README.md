@@ -27,6 +27,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Javascript](#example-js)
     - [Ruby](#example-rb)
     - [Scala](#example-scala)
+    - [Python](#example-python)
 - [Videos](#video)
 - [Posts](#post)
 - [Workshoppers](#workshopper)
@@ -142,6 +143,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
+* [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 
 <a name="example" />
 ## Examples
@@ -181,6 +183,11 @@ If you want to contribute to this list (please do), send me a pull request.
 * [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](http://sangria-graphql.org)
 * [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
 
+<a name="example-python" />
+### Python Examples
+
+* [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](http://graphene-python.org) - [View demo online](http://swapi.graphene-python.org).
+
 <a name="video" />
 ## Videos
 
@@ -189,6 +196,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Exploring GraphQL](https://www.youtube.com/watch?v=WQLzZf34FJ8)
 * [Creating a GraphQL Server](https://www.youtube.com/watch?v=gY48GW87Feo)
 * [GraphQL at The Financial Times](https://www.youtube.com/watch?v=S0s935RKKB4)
+* [Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg)
+* [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?t=643&v=Pxdgu2XIAAg)
 
 <a name="post" />
 ## Posts
@@ -206,11 +215,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Relay for visual learners](http://sgwilym.github.io/relay-visual-learners/)
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 * [Learn Golang + GraphQL + Relay, Part 1: Your first Golang GraphQL server](https://wehavefaces.net/learn-golang-graphql-relay-1-e59ea174a902)
+* [From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b)
 
 <a name="workshopper" />
 ## Workshoppers
 
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
+* [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
 
 ## License
 
