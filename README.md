@@ -159,6 +159,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
 * [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2.
 * [graphql-aws](https://github.com/redbadger/graphql-aws) - Amazon AWS GraphQL API Server.
+* [graffiti-todo](https://github.com/RisingStack/graffiti-todo) - Example Relay TodoMVC application using graffiti-mongoose.
 * [graffiti-example](https://github.com/RisingStack/graffiti-example) - Example server for the graffiti GraphQL ORM.
 * [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
 * [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
