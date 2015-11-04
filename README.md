@@ -104,9 +104,8 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-go" />
 ### Go Libraries
 
-* [graphql-go](https://github.com/chris-ramon/graphql-go) - An implementation of GraphQL for Go.
-* [graphql-relay-go](https://github.com/sogko/graphql-relay-go) - A Go/Golang library to help construct a [graphql-go](https://github.com/chris-ramon/graphql-go) server supporting react-relay.
-* [go-graphql](https://github.com/cryptix/go-graphql) - GraphQL packages for golang.
+* [graphql](https://github.com/chris-ramon/graphql) - An implementation of GraphQL for Go follows graphql-js
+* [graphql-relay-go](https://github.com/sogko/graphql-relay-go) - A Go/Golang library to help construct a server supporting react-relay.
 * [graphql](https://github.com/tmc/graphql) - GraphQL parser and server for Go.
 * [c-graphqlparser](https://github.com/tecbot/c-graphqlparser) - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
 * [tallstreet-graphql](https://github.com/tallstreet/graphql) - GraphQL parser and server for Go that leverages libgraphqlparser
