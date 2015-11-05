@@ -48,24 +48,26 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphQL.js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
-* [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-* [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
-* [react-router-relay](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
+* [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
+* [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
 * [codemirror-graphql](https://github.com/graphql/codemirror-graphql) - GraphQL mode and helpers for CodeMirror.
-* [graphql-parser](https://github.com/ooflorent/graphql-parser) - Experimental Facebook's GraphQL parser.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
-* [graphqljs](https://github.com/cobbweb/graphqljs) - GraphQL parser written in JavaScript.
-* [graphqlite](https://github.com/madjam002/graphqlite) - A Javascript Parser for Facebook's GraphQL.
 * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
 * [graffiti](https://github.com/RisingStack/graffiti) - Node.js GraphQL ORM.
 * [graffiti-mongoose](https://github.com/RisingStack/graffiti-mongoose) - Mongoose (MongoDB) adapter for graffiti (Node.js GraphQL ORM).
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
-* [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 * [adrenaline](https://github.com/gyzerok/adrenaline) - React bindings for Redux with Relay in mind.
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
-* [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
+
+##### Relay Related
+
+* [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+* [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
+* [babel-relay-plugin](https://www.npmjs.com/package/babel-relay-plugin) - Babel Relay Plugin for transpiling GraphQL queries for use with Relay.
+* [react-router-relay](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router.
 * [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server.
 * [relay-sink](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
+* [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
 
 <a name="lib-rb" />
 ### Ruby Libraries
@@ -102,9 +104,8 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-go" />
 ### Go Libraries
 
-* [graphql-go](https://github.com/chris-ramon/graphql-go) - An implementation of GraphQL for Go.
-* [graphql-relay-go](https://github.com/sogko/graphql-relay-go) - A Go/Golang library to help construct a [graphql-go](https://github.com/chris-ramon/graphql-go) server supporting react-relay.
-* [go-graphql](https://github.com/cryptix/go-graphql) - GraphQL packages for golang.
+* [graphql](https://github.com/chris-ramon/graphql) - An implementation of GraphQL for Go follows graphql-js
+* [graphql-relay-go](https://github.com/sogko/graphql-relay-go) - A Go/Golang library to help construct a server supporting react-relay.
 * [graphql](https://github.com/tmc/graphql) - GraphQL parser and server for Go.
 * [c-graphqlparser](https://github.com/tecbot/c-graphqlparser) - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
 * [tallstreet-graphql](https://github.com/tallstreet/graphql) - GraphQL parser and server for Go that leverages libgraphqlparser
@@ -157,6 +158,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
 * [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2.
 * [graphql-aws](https://github.com/redbadger/graphql-aws) - Amazon AWS GraphQL API Server.
+* [graffiti-todo](https://github.com/RisingStack/graffiti-todo) - Example Relay TodoMVC application using graffiti-mongoose.
 * [graffiti-example](https://github.com/RisingStack/graffiti-example) - Example server for the graffiti GraphQL ORM.
 * [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
 * [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
