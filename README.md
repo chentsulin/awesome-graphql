@@ -147,6 +147,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
+* [Relay Playground](http://facebook.github.io/relay/prototyping/playground.html)
 
 <a name="services" />
 ## Services
@@ -207,6 +208,10 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL at The Financial Times](https://www.youtube.com/watch?v=S0s935RKKB4)
 * [Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg)
 * [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?t=643&v=Pxdgu2XIAAg)
+* [Introduction to GraphQL](https://vimeo.com/144817545)
+* [Exploring GraphQL@Scale](https://www.youtube.com/watch?v=_9RgHXqH8J0)
+* [What's Next for Phoenix by Chris McCord](https://www.youtube.com/watch?v=IMUpYOc9z3c&feature=youtu.be)
+* [GraphQL with Nick Schrock](https://www.youtube.com/watch?v=Ed6oJXKt3-M)
 
 <a name="post" />
 ## Posts
@@ -226,6 +231,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Learn Golang + GraphQL + Relay, Part 1: Your first Golang GraphQL server](https://wehavefaces.net/learn-golang-graphql-relay-1-e59ea174a902)
 * [Learn Golang + GraphQL + Relay, Part 2: Your first Relay application](https://wehavefaces.net/learn-golang-graphql-relay-2-a56cbcc3e341)
 * [From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b)
+* [GraphQL: A data query language](http://graphql.org/blog/graphql-a-query-language/)
+* [Subscriptions in GraphQL and Relay](http://graphql.org/blog/subscriptions-in-graphql-and-relay/)
+* [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.5btu54sf1)
 
 <a name="workshopper" />
 ## Workshoppers
