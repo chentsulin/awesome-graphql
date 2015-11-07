@@ -23,6 +23,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Haskell] (#lib-haskell)
     - [SQL](#lib-sql)
 - [Tools](#tools)
+- [Services](#services)
 - [Examples](#example)
     - [Javascript](#example-js)
     - [Ruby](#example-rb)
@@ -146,6 +147,11 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
+
+<a name="services" />
+## Services
+
+* [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
 
 <a name="example" />
 ## Examples
