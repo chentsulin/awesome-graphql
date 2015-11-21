@@ -212,6 +212,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Exploring GraphQL@Scale](https://www.youtube.com/watch?v=_9RgHXqH8J0)
 * [What's Next for Phoenix by Chris McCord](https://www.youtube.com/watch?v=IMUpYOc9z3c&feature=youtu.be)
 * [GraphQL with Nick Schrock](https://www.youtube.com/watch?v=Ed6oJXKt3-M)
+* [Build a GraphQL server for Node.js using PostgreSQL/MySQL, in 45 mins](https://youtu.be/DNPVqK_woRQ)
 
 <a name="post" />
 ## Posts
