@@ -10,26 +10,26 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [Specification](#spec)
 - [Libraries](#lib)
-    - [Javascript](#lib-js)
-    - [Ruby](#lib-rb)
-    - [PHP](#lib-php)
-    - [Python](#lib-py)
-    - [Java](#lib-java)
-    - [C/C++](#lib-c)
-    - [Go](#lib-go)
-    - [Scala](#lib-scala)
-    - [.NET](#lib-dotnet)
-    - [Elixir](#lib-elixir)
-    - [Haskell] (#lib-haskell)
-    - [SQL](#lib-sql)
+	- [Javascript](#lib-js)
+	- [Ruby](#lib-rb)
+	- [PHP](#lib-php)
+	- [Python](#lib-py)
+	- [Java](#lib-java)
+	- [C/C++](#lib-c)
+	- [Go](#lib-go)
+	- [Scala](#lib-scala)
+	- [.NET](#lib-dotnet)
+	- [Elixir](#lib-elixir)
+	- [Haskell] (#lib-haskell)
+	- [SQL](#lib-sql)
 - [Tools](#tools)
 - [Services](#services)
 - [Examples](#example)
-    - [Javascript](#example-js)
-    - [Ruby](#example-rb)
-    - [Go](#example-go)
-    - [Scala](#example-scala)
-    - [Python](#example-python)
+	- [Javascript](#example-js)
+	- [Ruby](#example-rb)
+	- [Go](#example-go)
+	- [Scala](#example-scala)
+	- [Python](#example-python)
 - [Videos](#video)
 - [Posts](#post)
 - [Workshoppers](#workshopper)
@@ -130,7 +130,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql](https://github.com/asonge/graphql) - Elixir graphql library.
 * [graphql-elixir](https://github.com/joshprice/graphql-elixir) - GraphQL parser for Elixir.
-* [graphql_parser](https://github.com/aarvay/graphql_parser) - Elixir bindings for [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
+* [graphql_parser](https://github.com/aarvay/graphql_parser) - Elixir bindings for libgraphqlparser](https://github.com/graphql/libgraphqlparser)
 * [plot](https://github.com/peburrows/plot) - GraphQL parser and resolver for Elixir.
 
 <a name="lib-haskell" />
@@ -166,30 +166,29 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-starter-kit](https://github.com/relayjs/relay-starter-kit) - Barebones starting point for a Relay application.
 * [swapi-graphql](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping [swapi](http://swapi.co/).
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
-* [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2.
-* [graphql-aws](https://github.com/redbadger/graphql-aws) - Amazon AWS GraphQL API Server.
+* [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2
+* [graphql-aws](https://github.com/jonsharratt/graphql-aws) - Amazon AWS GraphQL API Server.
 * [graffiti-todo](https://github.com/RisingStack/graffiti-todo) - Example Relay TodoMVC application using graffiti-mongoose.
-* [graffiti-example](https://github.com/RisingStack/graffiti-example) - Example server for the graffiti GraphQL ORM.
 * [devknoll/gist:8b274f1c5d05230bfade](https://gist.github.com/devknoll/8b274f1c5d05230bfade)
 * [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
 * [relay-skeleton](https://github.com/fortruce/relay-skeleton) - React, Relay, GraphQL project skeleton
 * [simple-relay-starter](https://github.com/mhart/simple-relay-starter) - A very simple starter for React Relay using Browserify.
 * [relay-chat](https://github.com/transedward/relay-chat) - an chat example showing Relay with routing and pagination.
 * [relay-todomvc](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
-* [graphql-express-sqlite] (https://github.com/mrblueblue/graphql-express-sqlite) - GraphQL server with Sqlite and Express
+* [graphql-express-sqlite](https://github.com/mrblueblue/graphql-express-sqlite) - GraphQL server with Sqlite and Express
 * [koa-graphql-relay-example](https://github.com/chentsulin/koa-graphql-relay-example) - Example of [koa-graphql](https://github.com/chentsulin/koa-graphql)
 
 
 <a name="example-rb" />
 ### Ruby Examples
 
-* [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - https://github.com/rmosolgo/graphql-ruby-demo.
+* [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - Use graphql-ruby to expose a Rails app.
 
 <a name="example-go" />
 ### Go Examples
 
 * [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
-* [golang-graphql-playground](https://github.com/graphql-go/playground) - An example Golang GraphQL server written with graphql-go and graphql-relay-go. Try live demo at: http://bit.ly/try-graphql-go
+* [golang-graphql-playground](https://github.com/graphql-go/playground) - An example Golang GraphQL server written with graphql-go and graphql-relay-go. Try live demo at: http://golanggraphqlplayground-sogko.rhcloud.com
 * [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
 <a name="example-scala" />
@@ -217,7 +216,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Exploring GraphQL@Scale](https://www.youtube.com/watch?v=_9RgHXqH8J0)
 * [What's Next for Phoenix by Chris McCord](https://www.youtube.com/watch?v=IMUpYOc9z3c&feature=youtu.be)
 * [GraphQL with Nick Schrock](https://www.youtube.com/watch?v=Ed6oJXKt3-M)
-* [Build a GraphQL server for Node.js using PostgreSQL/MySQL](https://youtu.be/DNPVqK_woRQ)
+* [Build a GraphQL server for Node.js using PostgreSQL/MySQL](https://www.youtube.com/watch?v=DNPVqK_woRQ)
 
 <a name="post" />
 ## Posts
@@ -239,7 +238,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [From REST to GraphQL](https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b)
 * [GraphQL: A data query language](http://graphql.org/blog/graphql-a-query-language/)
 * [Subscriptions in GraphQL and Relay](http://graphql.org/blog/subscriptions-in-graphql-and-relay/)
-* [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.5btu54sf1)
+* [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6)
 
 <a name="workshopper" />
 ## Workshoppers
@@ -249,6 +248,6 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Chen-Tsu Lin](https://github.com/chentsulin) has waived all copyright and related or neighboring rights to this work.
