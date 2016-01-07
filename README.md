@@ -152,6 +152,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 * [Relay Playground](http://facebook.github.io/relay/prototyping/playground.html)
+* [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
 
 <a name="services" />
 ## Services
