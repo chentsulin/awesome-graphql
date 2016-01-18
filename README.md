@@ -22,6 +22,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Elixir](#lib-elixir)
 	- [Haskell] (#lib-haskell)
 	- [SQL](#lib-sql)
+	- [Lua](#lib-lua)
 - [Tools](#tools)
 - [Services](#services)
 - [Examples](#example)
@@ -145,6 +146,11 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
 * [sql-to-graphql](https://github.com/vaffel/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
+
+<a name="lib-lua" />
+### Lua Libraries
+
+* [graphql-lua](https://github.com/bjornbytes/graphql-lua) - GraphQL for Lua.
 
 <a name="tools" />
 ## Tools
