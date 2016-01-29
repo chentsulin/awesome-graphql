@@ -63,8 +63,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graph.ql](https://github.com/matthewmueller/graph.ql) - Faster and simpler technique for creating and querying GraphQL schemas.
 * [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
 * [Strapi](http://strapi.io/documentation/graphql) - Open-source Node.js framework that supports "GraphQL" out of the box.
-* [GraysQL](http://github.com/larsbs/graysql) - A GraphQL manager and loader.
-* [graysql-orm-loader](http://github.com/larsbs/graysql-orm-loader) - A GraysQL extension to load a GraphQL schema from an ORM.
+* [GraysQL](https://github.com/larsbs/graysql) - A GraphQL manager and loader.
+* [graysql-orm-loader](https://github.com/larsbs/graysql-orm-loader) - A GraysQL extension to load a GraphQL schema from an ORM.
 
 ##### Relay Related
 
@@ -76,7 +76,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server.
 * [relay-sink](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
-* [Graylay](http://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
+* [Graylay](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
 
 <a name="lib-rb" />
 ### Ruby Libraries
