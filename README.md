@@ -61,6 +61,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [adrenaline](https://github.com/gyzerok/adrenaline) - React bindings for Redux with Relay in mind.
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
 * [graph.ql](https://github.com/matthewmueller/graph.ql) - Faster and simpler technique for creating and querying GraphQL schemas.
+* [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux
 * [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
 * [Strapi](http://strapi.io/documentation/graphql) - Open-source Node.js framework that supports "GraphQL" out of the box.
 
