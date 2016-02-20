@@ -31,6 +31,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Go](#example-go)
 	- [Scala](#example-scala)
 	- [Python](#example-python)
+	- [Elixir](#example-elixir)
 - [Videos](#video)
 - [Posts](#post)
 - [Workshoppers](#workshopper)
