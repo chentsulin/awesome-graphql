@@ -168,6 +168,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
 * [GraphQLHub](https://www.graphqlhub.com/) - Query public API's schemas (e.g. Reddit, Twitter, Github, etc) using GraphiQL
 * [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
+* [gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL.
 
 <a name="services" />
 ## Services
