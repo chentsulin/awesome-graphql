@@ -65,6 +65,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux
 * [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
 * [Strapi](http://strapi.io/documentation/graphql) - Open-source Node.js framework that supports "GraphQL" out of the box.
+* [sails-hook-graysql](https://github.com/larsbs/sails-hook-graysql) - A Sail.js hook to generate a GraphQL schema from sails models.
 
 ##### Relay Related
 
