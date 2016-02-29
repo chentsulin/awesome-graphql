@@ -202,6 +202,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-todomvc](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
 * [graphql-express-sqlite](https://github.com/mrblueblue/graphql-express-sqlite) - GraphQL server with Sqlite and Express
 * [koa-graphql-relay-example](https://github.com/chentsulin/koa-graphql-relay-example) - Example of [koa-graphql](https://github.com/chentsulin/koa-graphql)
+* [swapi-graphql-lambda](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
 
 
 <a name="example-rb" />
