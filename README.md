@@ -143,6 +143,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-elixir" />
 ### Elixir Libraries
 
+* [absinthe-graphql](https://github.com/absinthe-graphql/absinthe) - Fully Featured Elixir GraphQL Library.
 * [graphql](https://github.com/asonge/graphql) - Elixir graphql library.
 * [graphql-elixir](https://github.com/joshprice/graphql-elixir) - GraphQL parser for Elixir.
 * [graphql_parser](https://github.com/aarvay/graphql_parser) - Elixir bindings for [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
@@ -236,6 +237,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="example-elixir" />
 ### Elixir Examples
 
+* [absinthe_example](https://github.com/absinthe-graphql/absinthe_example) - Example usage of Absinthe GraphQL
 * [hello_graphql_phoenix](https://github.com/joshprice/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - [View demo online](http://playground.graphql-elixir.org).
 
 <a name="video" />
