@@ -216,6 +216,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Ruby Examples
 
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - Use graphql-ruby to expose a Rails app.
+* [relay-on-rails](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
 
 <a name="example-go" />
 ### Go Examples
