@@ -178,6 +178,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
 * [gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL.
 * [Annotated GraphQL Server](https://github.com/almilo/annotated-graphql-server) - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
+* [Model Visualizer](http://nathanrsmith.github.io/graphql-visualizer) - A small webapp that generates an ERD-like visualization of a GraphQL endpoint from an introspection query.
 
 <a name="services" />
 ## Services
