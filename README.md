@@ -175,6 +175,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
+* [graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js
 * [Relay Playground](http://facebook.github.io/relay/prototyping/playground.html)
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
 * [GraphQLHub](https://www.graphqlhub.com/) - Query public API's schemas (e.g. Reddit, Twitter, Github, etc) using GraphiQL
