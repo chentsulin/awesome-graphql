@@ -142,6 +142,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### .NET Libraries
 
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
+* [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET
 
 <a name="lib-elixir" />
 ### Elixir Libraries
