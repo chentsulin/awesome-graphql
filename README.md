@@ -97,6 +97,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [laravel-graphql-relay](https://github.com/nuwave/laravel-graphql-relay) - A Laravel library to help construct a server supporting react-relay.
 * [graphql-mapper](https://github.com/4rthem/graphql-mapper) - This library allows to build a GraphQL schema based on your model.
 * [graphql-bundle](https://github.com/suribit/GraphQLBundle) - GraphQL Bundle for Symfony 2.
+* [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
 
 <a name="lib-py" />
 ### Python Libraries
@@ -113,6 +114,8 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Java Libraries
 
 * [graphql-java](https://github.com/andimarek/graphql-java) - GraphQL Java implementation.
+* [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
+* [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 
 <a name="#lib-c" />
 ### C/C++ Libraries
@@ -139,16 +142,18 @@ If you want to contribute to this list (please do), send me a pull request.
 ### .NET Libraries
 
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
+* [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET
 
 <a name="lib-elixir" />
 ### Elixir Libraries
 
 * [absinthe-graphql](https://github.com/absinthe-graphql/absinthe) - Fully Featured Elixir GraphQL Library.
-* [graphql](https://github.com/asonge/graphql) - Elixir graphql library.
-* [graphql-elixir](https://github.com/graphql-elixir/graphql-elixir) - GraphQL parser for Elixir.
-* [graphql_parser](https://github.com/aarvay/graphql_parser) - Elixir bindings for [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
+* [graphql-elixir](https://github.com/graphql-elixir/graphql) - GraphQL Elixir.
+* [plug_graphql](https://github.com/graphql-elixir/plug_graphql) - Plug integration for GraphQL Elixir.
+* [graphql_relay](https://github.com/graphql-elixir/graphql_relay) - Relay helpers for GraphQL Elixir.
+* [graphql_parser](https://github.com/graphql-elixir/graphql_parser) - Elixir bindings for [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
+* [graphql](https://github.com/asonge/graphql) - Elixir GraphQL parser.
 * [plot](https://github.com/peburrows/plot) - GraphQL parser and resolver for Elixir.
-* [plug_graphql](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for GraphQL Elixir
 
 <a name="lib-haskell" />
 ### Haskell Libraries
@@ -172,12 +177,15 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
+* [graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js
 * [Relay Playground](http://facebook.github.io/relay/prototyping/playground.html)
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
 * [GraphQLHub](https://www.graphqlhub.com/) - Query public API's schemas (e.g. Reddit, Twitter, Github, etc) using GraphiQL
 * [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
 * [gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL.
 * [Annotated GraphQL Server](https://github.com/almilo/annotated-graphql-server) - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
+* [Model Visualizer](http://nathanrandal.com/graphql-visualizer/) - A small webapp that generates an ERD-like visualization of a GraphQL endpoint from an introspection query.
+* [GraphQL Network](https://github.com/Ghirro/graphql-network) - A chrome dev-tools extension for debugging GraphQL network requests.
 
 <a name="services" />
 ## Services
@@ -209,13 +217,14 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-fullstack](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.
 * [serverless-graphql-blog](https://github.com/serverless/serverless-graphql-blog) - A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint
 * [relay-cart](https://github.com/soonlive/relay-cart) - A simple shopping cart example leveraging relay & GraphQL with routing and pagination.
-
-
+* [graphql-loader](https://github.com/applification/graphql-loader) - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API
+* [swapi-graphql-lambda](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
 
 <a name="example-rb" />
 ### Ruby Examples
 
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - Use graphql-ruby to expose a Rails app.
+* [relay-on-rails](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
 
 <a name="example-go" />
 ### Go Examples
