@@ -287,6 +287,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL: A data query language](http://graphql.org/blog/graphql-a-query-language/)
 * [Subscriptions in GraphQL and Relay](http://graphql.org/blog/subscriptions-in-graphql-and-relay/)
 * [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6)
+* [GraphQL Shorthand Notation Cheatsheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
 
 <a name="workshopper" />
 ## Workshoppers
