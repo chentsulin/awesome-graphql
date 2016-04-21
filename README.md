@@ -275,7 +275,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <a name="blogs" />
 ## Blogs
-* [Official GraphQL blog](https://facebook.github.io/react/blog/)
+* [Official GraphQL blog](http://graphql.org/blog/)
 * [Building Apollo](https://medium.com/apollo-stack)
 
 <a name="post" />
