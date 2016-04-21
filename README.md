@@ -33,6 +33,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Python](#example-python)
 	- [Elixir](#example-elixir)
 - [Videos](#video)
+- [Blogs](#blogs)
 - [Posts](#post)
 - [Workshoppers](#workshopper)
 
@@ -68,6 +69,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraysQL](https://github.com/larsbs/graysql) - A GraphQL manager and loader.
 * [graysql-orm-loader](https://github.com/larsbs/graysql-orm-loader) - A GraysQL extension to load a GraphQL schema from an ORM.
 * [Annotated GraphQL](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
+* [Apollo Client](https://github.com/apollostack/apollo-client) - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
+* [graphql-tools](https://github.com/apollostack/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
 
 ##### Relay Related
 
@@ -80,6 +83,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-sink](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
 * [Graylay](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
+* [Apollo Client](https://github.com/apollostack/apollo-client) - A simple alternative to Relay, integrates with Redux and comes with React and Angular bindings.
 
 <a name="lib-rb" />
 ### Ruby Libraries
@@ -219,6 +223,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-cart](https://github.com/soonlive/relay-cart) - A simple shopping cart example leveraging relay & GraphQL with routing and pagination.
 * [graphql-loader](https://github.com/applification/graphql-loader) - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API
 * [swapi-graphql-lambda](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
+* [Apollo Client documentation](http://docs.apollostack.com/apollo-client) - Documentation and example for building GraphQL apps using apollo client
+* [Apollo Server tools documentation](http://docs.apollostack.com/apollo-server) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 
 <a name="example-rb" />
 ### Ruby Examples
@@ -265,6 +271,12 @@ If you want to contribute to this list (please do), send me a pull request.
 * [What's Next for Phoenix by Chris McCord](https://www.youtube.com/watch?v=IMUpYOc9z3c&feature=youtu.be)
 * [GraphQL with Nick Schrock](https://www.youtube.com/watch?v=Ed6oJXKt3-M)
 * [Build a GraphQL server for Node.js using PostgreSQL/MySQL](https://www.youtube.com/watch?v=DNPVqK_woRQ)
+* [GraphQL server tutorial for Node.js with SQL, MongoDB and REST](https://www.youtube.com/watch?v=PHabPhgRUuU)
+
+<a name="blogs" />
+## Blogs
+* [Official GraphQL blog](https://facebook.github.io/react/blog/)
+* [Building Apollo](https://medium.com/apollo-stack)
 
 <a name="post" />
 ## Posts
