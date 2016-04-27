@@ -224,8 +224,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-cart](https://github.com/soonlive/relay-cart) - A simple shopping cart example leveraging relay & GraphQL with routing and pagination.
 * [graphql-loader](https://github.com/applification/graphql-loader) - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API
 * [swapi-graphql-lambda](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
-* [Apollo Client documentation](http://docs.apollostack.com/apollo-client) - Documentation and example for building GraphQL apps using apollo client
-* [Apollo Server tools documentation](http://docs.apollostack.com/apollo-server) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
+* [Apollo Client documentation](http://docs.apollostack.com/apollo-client/) - Documentation and example for building GraphQL apps using apollo client
+* [Apollo Server tools documentation](http://docs.apollostack.com/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 
 <a name="example-rb" />
