@@ -169,6 +169,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
 * [sql-to-graphql](https://github.com/vaffel/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
+* [PostGraphQL](https://github.com/calebmer/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema.
 
 <a name="lib-lua" />
 ### Lua Libraries
@@ -225,6 +226,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [swapi-graphql-lambda](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
 * [Apollo Client documentation](http://docs.apollostack.com/apollo-client) - Documentation and example for building GraphQL apps using apollo client
 * [Apollo Server tools documentation](http://docs.apollostack.com/apollo-server) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
+* [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 
 <a name="example-rb" />
 ### Ruby Examples
@@ -259,6 +261,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="video" />
 ## Videos
 
+* [Zero to GraphQL in 30 Minutes](https://www.youtube.com/embed/UBGzsb2UkeY)
 * [Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
 * [React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
 * [Exploring GraphQL](https://www.youtube.com/watch?v=WQLzZf34FJ8)
