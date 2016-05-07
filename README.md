@@ -102,6 +102,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-mapper](https://github.com/4rthem/graphql-mapper) - This library allows to build a GraphQL schema based on your model.
 * [graphql-bundle](https://github.com/suribit/GraphQLBundle) - GraphQL Bundle for Symfony 2.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
+* [youshido/graphql](https://github.com/Youshido/GraphQL) - GraphQL implementation in PHP using PHP ecosystem
+* [youshido/graphql-bundle](https://github.com/Youshido/GraphQLBundle) - Symfony2/3 bundle for youshido/graphql implementation
 
 <a name="lib-py" />
 ### Python Libraries
