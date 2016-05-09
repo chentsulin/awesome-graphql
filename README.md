@@ -119,7 +119,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-java" />
 ### Java Libraries
 
-* [graphql-java](https://github.com/andimarek/graphql-java) - GraphQL Java implementation.
+* [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 
