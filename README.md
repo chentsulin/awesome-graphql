@@ -71,7 +71,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Annotated GraphQL](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
 * [Apollo Client](https://github.com/apollostack/apollo-client) - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
 * [graphql-tools](https://github.com/apollostack/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
-* [graph-spec](https://github.com/rricard/graph-quill) - Promise-based asserter for GraphQL Schemas: usable out-of-the box with mocha
+* [graph-spec](https://github.com/rricard/graph-spec) - Promise-based asserter for GraphQL Schemas: usable out-of-the box with mocha
 
 ##### Relay Related
 
