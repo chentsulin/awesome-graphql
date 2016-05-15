@@ -102,6 +102,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-mapper](https://github.com/4rthem/graphql-mapper) - This library allows to build a GraphQL schema based on your model.
 * [graphql-bundle](https://github.com/suribit/GraphQLBundle) - GraphQL Bundle for Symfony 2.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
+* [GraphQL](https://github.com/Youshido/GraphQL) – Well documented PHP implementation with no dependencies.
+* [GraphQL Symfony Bundle](https://github.com/Youshido/GraphQLBundle) – GraphQL Bundle for the Symfony 3 (supports 2.6+). 
 
 <a name="lib-py" />
 ### Python Libraries
@@ -117,7 +119,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-java" />
 ### Java Libraries
 
-* [graphql-java](https://github.com/andimarek/graphql-java) - GraphQL Java implementation.
+* [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 
