@@ -232,6 +232,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Apollo Client documentation](http://docs.apollostack.com/apollo-client/) - Documentation and example for building GraphQL apps using apollo client
 * [Apollo Server tools documentation](http://docs.apollostack.com/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
+* [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
 
 <a name="example-rb" />
 ### Ruby Examples
