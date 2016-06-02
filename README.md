@@ -85,6 +85,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
 * [Graylay](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
 * [Apollo Client](https://github.com/apollostack/apollo-client) - A simple alternative to Relay, integrates with Redux and comes with React and Angular bindings.
+* [graph-quill](https://github.com/rricard/graph-quill) - An opiniated way to separate type definitions from implementation. Automatically create Relay-compliant schemas.
 
 <a name="lib-rb" />
 ### Ruby Libraries
