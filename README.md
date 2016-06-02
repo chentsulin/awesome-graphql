@@ -201,6 +201,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Services
 
 * [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
+* [Scaphold](https://scaphold.io/) - GraphQL as a service.
 
 <a name="example" />
 ## Examples
