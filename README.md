@@ -71,6 +71,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Annotated GraphQL](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
 * [Apollo Client](https://github.com/apollostack/apollo-client) - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
 * [graphql-tools](https://github.com/apollostack/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
+* [modelizr](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
 
 ##### Relay Related
 
@@ -237,6 +238,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Apollo Server tools documentation](http://docs.apollostack.com/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 * [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
+* [Modelizr Documentation](julienvincent.github.io/modelizr) - Documentation and Usage Examples for modelizr
 
 <a name="example-rb" />
 ### Ruby Examples
@@ -300,7 +302,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ## Posts
 
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
-* [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+* [GraphQL Introduction](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
 * [Your First GraphQL Server](https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2)
 * [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
