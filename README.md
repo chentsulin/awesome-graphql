@@ -25,6 +25,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Lua](#lib-lua)
 - [Tools](#tools)
 - [Services](#services)
+- [Databases](#databases)
 - [Examples](#example)
 	- [Javascript](#example-js)
 	- [Ruby](#example-rb)
@@ -200,6 +201,11 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Model Visualizer](http://nathanrandal.com/graphql-visualizer/) - A small webapp that generates an ERD-like visualization of a GraphQL endpoint from an introspection query.
 * [GraphQL Network](https://github.com/Ghirro/graphql-network) - A chrome dev-tools extension for debugging GraphQL network requests.
 * [eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) - An ESLint plugin that checks your GraphQL strings against a schema.
+
+<a name="databases" />
+## Databases
+
+* [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
 
 <a name="services" />
 ## Services
