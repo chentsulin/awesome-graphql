@@ -106,7 +106,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-bundle](https://github.com/suribit/GraphQLBundle) - GraphQL Bundle for Symfony 2.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
 * [GraphQL](https://github.com/Youshido/GraphQL) – Well documented PHP implementation with no dependencies.
-* [GraphQL Symfony Bundle](https://github.com/Youshido/GraphQLBundle) – GraphQL Bundle for the Symfony 3 (supports 2.6+). 
+* [GraphQL Symfony Bundle](https://github.com/Youshido/GraphQLBundle) – GraphQL Bundle for the Symfony 3 (supports 2.6+).
 
 <a name="lib-py" />
 ### Python Libraries
@@ -236,6 +236,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [swapi-graphql-lambda](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
 * [Apollo Client documentation](http://docs.apollostack.com/apollo-client/) - Documentation and example for building GraphQL apps using apollo client
 * [Apollo Server tools documentation](http://docs.apollostack.com/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
+* [f8-apollo](https://github.com/nnance/f8app-apollo) - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 * [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
 * [Modelizr Documentation](julienvincent.github.io/modelizr) - Documentation and Usage Examples for modelizr
