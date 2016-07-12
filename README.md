@@ -130,7 +130,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 
-<a name="#lib-c" />
+<a name="lib-c" />
 ### C/C++ Libraries
 
 * [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
