@@ -90,6 +90,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [vue-apollo](https://github.com/Akryum/vue-apollo) - Vue integration for apollo.
 * [graphql-thinky](https://github.com/fenos/graphql-thinky) - Build an optimized GraphQL schema from Thinky RethinkDB models.
 * [graphql-pouch](https://github.com/MikeBild/graphql-pouch) - A GraphQL-API runtime on top of PouchDB created by GraphQL shorthand notation as a self contained service with CouchDB synchronization.
+* [gql-tools](https://github.com/almilo/gql-tools) - Tool library with CLI for schema generation and manipulation.
 
 ##### Relay Related
 
