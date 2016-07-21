@@ -73,6 +73,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Apollo Client](https://github.com/apollostack/apollo-client) - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
 * [graphql-tools](https://github.com/apollostack/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
 * [modelizr](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
+* [gql-tools](https://github.com/almilo/gql-tools) - Tool library with CLI for schema generation and manipulation.
 
 ##### Relay Related
 
