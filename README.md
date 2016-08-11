@@ -23,6 +23,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Haskell] (#lib-haskell)
 	- [SQL](#lib-sql)
 	- [Lua](#lib-lua)
+	- [Elm](#lib-elm)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -184,6 +185,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Lua Libraries
 
 * [graphql-lua](https://github.com/bjornbytes/graphql-lua) - GraphQL for Lua.
+
+<a name="lib-elm" />
+### Elm Libraries
+
+* [elm-graphql](https://github.com/jahewson/elm-graphql) - GraphQL for Elm.
 
 <a name="tools" />
 ## Tools
