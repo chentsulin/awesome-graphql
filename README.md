@@ -254,6 +254,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 * [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
 * [Modelizr Documentation](julienvincent.github.io/modelizr) - Documentation and Usage Examples for modelizr
+* [angular2-graphql-rest](https://github.com/kamilkisiela/angular2-graphql-rest) - An example app with REST Api working side by side with GraphQL using Apollo Client with angular2-apollo. Includes step-by-step tutorial how to migrate from REST to GraphQL.
 
 <a name="example-rb" />
 ### Ruby Examples
