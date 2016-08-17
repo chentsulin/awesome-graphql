@@ -109,6 +109,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
 * [GraphQL](https://github.com/Youshido/GraphQL) – Well documented PHP implementation with no dependencies.
 * [GraphQL Symfony Bundle](https://github.com/Youshido/GraphQLBundle) – GraphQL Bundle for the Symfony 3 (supports 2.6+).
+* [graphql-wp](https://github.com/tim-field/graphql-wp) -. a WordPress plugin that exposes a GraphQL endpoint at /graphql
 
 <a name="lib-py" />
 ### Python Libraries
