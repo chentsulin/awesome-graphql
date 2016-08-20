@@ -131,6 +131,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
+* [vertx-graphql-service-proxy](https://github.com/engagingspaces/vertx-graphql-service-proxy) - JSON marshalling and remote service proxy support for GraphQL Schema's
+* [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Batching and caching for GraphQL queries (Java8 + Vert.x port of Facebook DataLoader)
 
 <a name="#lib-c" />
 ### C/C++ Libraries
