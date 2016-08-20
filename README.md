@@ -253,7 +253,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [f8-apollo](https://github.com/nnance/f8app-apollo) - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 * [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
-* [Modelizr Documentation](julienvincent.github.io/modelizr) - Documentation and Usage Examples for modelizr
+* [Modelizr Documentation](https://julienvincent.github.io/modelizr) - Documentation and Usage Examples for modelizr
 
 <a name="example-rb" />
 ### Ruby Examples
