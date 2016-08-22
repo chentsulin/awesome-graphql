@@ -31,6 +31,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Databases](#databases)
 - [Examples](#example)
 	- [Javascript](#example-js)
+	- [Typescript](#example-ts)
 	- [Ruby](#example-rb)
 	- [Go](#example-go)
 	- [Scala](#example-scala)
@@ -289,6 +290,10 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [angular2-graphql-rest](https://github.com/kamilkisiela/angular2-graphql-rest) - An example app with REST Api working side by side with GraphQL using Apollo Client with angular2-apollo. Includes step-by-step tutorial how to migrate from REST to GraphQL.
 * [GraphQL-DataLoader-Boilerplate](https://github.com/sibelius/graphql-dataloader-boilerplate) - Boilerplate to start your GraphQL with DataLoader server
 * [GraphQL-CEP](https://github.com/sibelius/graphql-cep) - Query address by CEP
+
+<a name="example-ts" />
+### TypesScript Examples
+* [Basic Apollo Server](https://github.com/DxCx/webpack-apollo-server) - Basic Starter for Apollo Server, Using typescript and Webpack.
 
 <a name="example-rb" />
 ### Ruby Examples
