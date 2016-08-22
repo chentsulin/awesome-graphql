@@ -29,6 +29,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Databases](#databases)
 - [Examples](#example)
 	- [Javascript](#example-js)
+	- [Typescript](#example-ts)
 	- [Ruby](#example-rb)
 	- [Go](#example-go)
 	- [Scala](#example-scala)
@@ -254,6 +255,10 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 * [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
 * [Modelizr Documentation](https://julienvincent.github.io/modelizr) - Documentation and Usage Examples for modelizr
+
+<a name="example-ts" />
+### TypesScript Examples
+* [Basic Apollo Server](https://github.com/DxCx/webpack-apollo-server) - Basic Starter for Apollo Server, Using typescript and Webpack.
 
 <a name="example-rb" />
 ### Ruby Examples
