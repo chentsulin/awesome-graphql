@@ -73,6 +73,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Annotated GraphQL](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
 * [Apollo Client](https://github.com/apollostack/apollo-client) - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
 * [graphql-tools](https://github.com/apollostack/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
+* [graphql-anywhere](https://github.com/stubailo/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.
+* [graphql-tag](https://github.com/apollostack/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
 * [modelizr](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
 * [graphql-pouch](https://github.com/MikeBild/graphql-pouch) - A GraphQL-API runtime on top of PouchDB created by GraphQL shorthand notation as a self contained service with CouchDB synchronization.
 
@@ -110,6 +112,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
 * [GraphQL](https://github.com/Youshido/GraphQL) – Well documented PHP implementation with no dependencies.
 * [GraphQL Symfony Bundle](https://github.com/Youshido/GraphQLBundle) – GraphQL Bundle for the Symfony 3 (supports 2.6+).
+* [graphql-wp](https://github.com/tim-field/graphql-wp) -. a WordPress plugin that exposes a GraphQL endpoint at /graphql
 
 <a name="lib-py" />
 ### Python Libraries
@@ -254,7 +257,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [f8-apollo](https://github.com/nnance/f8app-apollo) - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 * [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
-* [Modelizr Documentation](https://julienvincent.github.io/modelizr) - Documentation and Usage Examples for modelizr
+* [Modelizr Documentation](https://julienvincent.github.io/modelizr/) - Documentation and Usage Examples for modelizr
 
 <a name="example-rb" />
 ### Ruby Examples
