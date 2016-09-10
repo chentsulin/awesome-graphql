@@ -24,6 +24,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [SQL](#lib-sql)
 	- [Lua](#lib-lua)
 	- [Elm](#lib-elm)
+	- [Clojure](#lib-clojure)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -193,6 +194,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Elm Libraries
 
 * [elm-graphql](https://github.com/jahewson/elm-graphql) - GraphQL for Elm.
+
+<a name="lib-clojure" />
+### Clojure Libraries
+
+* [graphql-clj](https://github.com/tendant/graphql-clj) - A Clojure library designed to provide GraphQL implementation.
 
 <a name="tools" />
 ## Tools
