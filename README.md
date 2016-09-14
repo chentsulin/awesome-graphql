@@ -74,7 +74,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Annotated GraphQL](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
 * [Apollo Client](https://github.com/apollostack/apollo-client) - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
 * [graphql-tools](https://github.com/apollostack/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
-* [graphql-anywhere](https://github.com/stubailo/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.
+* [graphql-anywhere](https://github.com/apollostack/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.
 * [graphql-tag](https://github.com/apollostack/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
 * [modelizr](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
 
@@ -257,8 +257,8 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [relay-cart](https://github.com/soonlive/relay-cart) - A simple shopping cart example leveraging relay & GraphQL with routing and pagination.
 * [graphql-loader](https://github.com/applification/graphql-loader) - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API
 * [swapi-graphql-lambda](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
-* [Apollo Client documentation](http://docs.apollostack.com/apollo-client/) - Documentation and example for building GraphQL apps using apollo client
-* [Apollo Server tools documentation](http://docs.apollostack.com/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
+* [Apollo Client documentation](http://dev.apollodata.com/react/) - Documentation and example for building GraphQL apps using apollo client
+* [Apollo Server tools documentation](http://dev.apollodata.com/tools/apollo-server/index.html) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 * [f8-apollo](https://github.com/nnance/f8app-apollo) - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 * [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
