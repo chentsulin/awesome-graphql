@@ -350,6 +350,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Subscriptions in GraphQL and Relay](http://graphql.org/blog/subscriptions-in-graphql-and-relay/)
 * [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6)
 * [GraphQL Shorthand Notation Cheatsheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
+* [The GitHub GraphQL API](http://githubengineering.com/the-github-graphql-api/)
 
 <a name="workshopper" />
 ## Workshoppers
