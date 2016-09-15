@@ -99,6 +99,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
 * [graphql-relay-ruby](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
 * [graphql-parser](https://github.com/Shopify/graphql-parser) - A small ruby gem wrapping the libgraphqlparser C library for parsing GraphQL.
+* [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
+* [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 
 <a name="lib-php" />
 ### PHP Libraries
@@ -268,6 +270,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Ruby Examples
 
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - Use graphql-ruby to expose a Rails app.
+* [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - Example Rails app using GitHub's GraphQL API.
 * [relay-on-rails](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
 * [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
 * [to_eat_app] (https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
