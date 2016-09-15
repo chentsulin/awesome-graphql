@@ -154,6 +154,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-graphql-service-proxy](https://github.com/engagingspaces/vertx-graphql-service-proxy) - JSON marshalling and remote service proxy support for GraphQL Schema's
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
+* [schemagen-graphql](https://github.com/bpatters/schemagen-graphql) - GraphQL schema generation and execution package. Enables exposing any service as a GraphQL service using Annotations.
 
 <a name="lib-c" />
 ### C/C++ Libraries
