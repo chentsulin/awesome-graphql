@@ -86,6 +86,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-anywhere](https://github.com/apollostack/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.
 * [graphql-tag](https://github.com/apollostack/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
 * [modelizr](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
+* [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date) - A GraphQL date scalar type to be used with GraphQL.js. This scalar represents a date in the ISO 8601 format YYYY-MM-DD.
 
 ##### Relay Related
 
