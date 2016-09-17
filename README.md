@@ -290,6 +290,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [angular2-graphql-rest](https://github.com/kamilkisiela/angular2-graphql-rest) - An example app with REST Api working side by side with GraphQL using Apollo Client with angular2-apollo. Includes step-by-step tutorial how to migrate from REST to GraphQL.
 * [GraphQL-DataLoader-Boilerplate](https://github.com/sibelius/graphql-dataloader-boilerplate) - Boilerplate to start your GraphQL with DataLoader server
 * [GraphQL-CEP](https://github.com/sibelius/graphql-cep) - Query address by CEP
+* [Apollo React example for Github GraphQL API](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app
 
 <a name="example-ts" />
 ### TypesScript Examples
@@ -380,6 +381,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6)
 * [GraphQL Shorthand Notation Cheatsheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
 * [The GitHub GraphQL API](http://githubengineering.com/the-github-graphql-api/)
+* [Github GraphQL API React Example](https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61)
 
 <a name="workshopper" />
 ## Workshoppers
