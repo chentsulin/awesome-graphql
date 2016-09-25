@@ -86,6 +86,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-anywhere](https://github.com/apollostack/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.
 * [graphql-tag](https://github.com/apollostack/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
 * [modelizr](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
+* [graphql-thinky](https://github.com/fenos/graphql-thinky) - Thinky helpers for GraphQL.
 
 ##### Relay Related
 
