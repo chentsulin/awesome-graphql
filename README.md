@@ -275,6 +275,8 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [f8app](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
 * [Reindex Examples](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
 * [Modelizr Documentation](https://julienvincent.github.io/modelizr/) - Documentation and Usage Examples for modelizr
+* [GraphQL-DataLoader-Boilerplate](https://github.com/sibelius/graphql-dataloader-boilerplate) - Boilerplate to start your GraphQL with DataLoader server
+* [GraphQL-CEP](https://github.com/sibelius/graphql-cep) - Query address by CEP
 
 <a name="example-rb" />
 ### Ruby Examples
