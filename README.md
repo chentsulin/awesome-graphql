@@ -147,6 +147,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations) - Provides annotations-based syntax for schema definition with GraphQL Java
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
+* [schemagen-graphql](https://github.com/bpatters/schemagen-graphql) - GraphQL schema generation and execution package. Enables exposing any service as a GraphQL service using Annotations.
 
 <a name="lib-c" />
 ### C/C++ Libraries
