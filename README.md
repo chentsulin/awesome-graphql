@@ -126,6 +126,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL](https://github.com/Youshido/GraphQL) – Well documented PHP implementation with no dependencies.
 * [GraphQL Symfony Bundle](https://github.com/Youshido/GraphQLBundle) – GraphQL Bundle for the Symfony 3 (supports 2.6+).
 * [graphql-wp](https://github.com/tim-field/graphql-wp) -. a WordPress plugin that exposes a GraphQL endpoint at /graphql
+* [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms) - GraphQL Bundle for the eZ Platform Symfony CMS.
 
 <a name="lib-py" />
 ### Python Libraries
