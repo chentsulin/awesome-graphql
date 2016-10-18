@@ -252,10 +252,10 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="services" />
 ## Services
 
-* [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
 * [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
-* [Graphcool](https://graph.cool/) - Hosted GraphQL Backend for your React/Relay Apps.
-* [Scaphold](https://scaphold.io/) - GraphQL as a service.
+* [Graphcool](https://graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
+* [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
+* [Scaphold](https://scaphold.io/) - GraphQL as a service that includes API integrations such as Stripe and Mailgun.
 
 <a name="example" />
 ## Examples
