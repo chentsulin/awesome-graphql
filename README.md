@@ -146,9 +146,13 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
 * [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - Auto-generates types for use with GraphQL Java
+* [schemagen-graphql](https://github.com/bpatters/schemagen-graphql) - Schema generation and execution package that turns POJO's into a GraphQL Java queryable set of objects
 * [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations) - Provides annotations-based syntax for schema definition with GraphQL Java
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
+* [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
+* [vertx-graphql-service-proxy](https://github.com/engagingspaces/vertx-graphql-service-proxy) - JSON marshalling and remote service proxy support for GraphQL Schema's
+* [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 
 <a name="lib-c" />
 ### C/C++ Libraries
