@@ -26,6 +26,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Lua](#lib-lua)
 	- [Elm](#lib-elm)
 	- [Clojure](#lib-clojure)
+	- [Swift](#lib-swift)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -225,6 +226,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Clojure Libraries
 
 * [graphql-clj](https://github.com/tendant/graphql-clj) - A Clojure library designed to provide GraphQL implementation.
+
+<a name="lib-swift" />
+### Swift Libraries
+
+* [GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift implementation for GraphQL.
 
 <a name="tools" />
 ## Tools
