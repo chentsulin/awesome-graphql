@@ -95,6 +95,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date) - A GraphQL date scalar type to be used with GraphQL.js. This scalar represents a date in the ISO 8601 format YYYY-MM-DD.
 * [graphql-compose](https://github.com/nodkz/graphql-compose) - Tool which allows you to construct flexible graphql schema from different data sources via plugins.
 * [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
+* [FetchQL](https://github.com/gucheen/FetchQL) - GraphQL query client with Fetch
 
 ##### Relay Related
 
