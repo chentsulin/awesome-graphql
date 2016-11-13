@@ -36,6 +36,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Ruby](#example-rb)
 	- [Go](#example-go)
 	- [Scala](#example-scala)
+	- [Swift](#example-swift)
 	- [Python](#example-python)
 	- [Elixir](#example-elixir)
 - [Videos](#video)
@@ -333,6 +334,11 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 * [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](http://sangria-graphql.org)
 * [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
+
+<a name="example-swift" />
+### Swift Examples
+
+* [graphqexamples](https://github.com/Zewo/GraphQLExamples) - Swift GraphQL examples using [Graphiti](https://github.com/GraphQLSwift/Graphiti) and [GraphQLResponder](https://github.com/Zewo/GraphQLResponder).
 
 <a name="example-python" />
 ### Python Examples
