@@ -338,7 +338,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 <a name="example-swift" />
 ### Swift Examples
 
-* [graphqexamples](https://github.com/Zewo/GraphQLExamples) - Swift GraphQL examples using [Graphiti](https://github.com/GraphQLSwift/Graphiti) and [GraphQLResponder](https://github.com/Zewo/GraphQLResponder).
+* [graphqexamples](https://github.com/Zewo/GraphQLExamples) - GraphQL examples to your backend in Swift using [Graphiti](https://github.com/GraphQLSwift/Graphiti) and [GraphQLResponder](https://github.com/Zewo/GraphQLResponder).
 
 <a name="example-python" />
 ### Python Examples
