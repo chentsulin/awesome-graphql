@@ -253,6 +253,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) - An ESLint plugin that checks your GraphQL strings against a schema.
 * [AST Explorer](https://astexplorer.net/) - Select "GraphQL" at the top, explore the GraphQL AST and highlight different parts by clicking in the query.
 * [vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
+* [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms) - Use your existed GraphQL schema to generate simple for use, fully functional CMS in a couple steps.
 
 <a name="databases" />
 ## Databases
