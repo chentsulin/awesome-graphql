@@ -254,6 +254,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [AST Explorer](https://astexplorer.net/) - Select "GraphQL" at the top, explore the GraphQL AST and highlight different parts by clicking in the query.
 * [vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
 * [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms) - Use your existing GraphQL schema to generate simple for use, fully functional CMS in a couple steps.
+* [graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
 
 <a name="databases" />
 ## Databases
