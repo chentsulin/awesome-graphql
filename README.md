@@ -27,7 +27,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Elm](#lib-elm)
 	- [Clojure](#lib-clojure)
 	- [Swift](#lib-swift)
-	- [Ocaml](#lib-ocaml)
+	- [OCaml](#lib-ocaml)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -237,7 +237,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift implementation for GraphQL.
 
 <a name="lib-ocaml" />
-### Ocaml Libraries
+### OCaml Libraries
 
 * [ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
 
