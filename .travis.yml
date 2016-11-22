@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --white-list medium,jacobwgillespie,wehavefaces,graphql.slack,vimeo
+  - awesome_bot README.md --allow-dupe --white-list medium,jacobwgillespie,wehavefaces,graphql.slack,vimeo,slideshare
