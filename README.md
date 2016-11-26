@@ -265,6 +265,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms) - Use your existing GraphQL schema to generate simple for use, fully functional CMS in a couple steps.
 * [graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
 * [graphql-autocomplete](https://github.com/nicolaslopezj/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
+* [GraphQL IDE](https://github.com/redound/graphql-ide) - An extensive IDE for exploring GraphQL API's.
 
 <a name="databases" />
 ## Databases
