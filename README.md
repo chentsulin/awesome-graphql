@@ -266,6 +266,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
 * [graphql-autocomplete](https://github.com/nicolaslopezj/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
 * [GraphQL IDE](https://github.com/redound/graphql-ide) - An extensive IDE for exploring GraphQL API's.
+* [CustomGraphiQL](https://github.com/shahankit/custom-graphiql) - A custom wrapper around [graphiql](https://github.com/graphql/graphiql) package with extra utilities and allows to query any graphql endpoint. Inspired from [graphiql-app](https://github.com/skevy/graphiql-app) but within browser without requirement for an app.
 
 <a name="databases" />
 ## Databases
