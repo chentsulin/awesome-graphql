@@ -98,6 +98,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
 * [FetchQL](https://github.com/gucheen/FetchQL) - GraphQL query client with Fetch
 * [Join Monster](https://github.com/stems/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
+* [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 
 ##### Relay Related
 
