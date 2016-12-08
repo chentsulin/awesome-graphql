@@ -183,6 +183,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [c-graphqlparser](https://github.com/tecbot/c-graphqlparser) - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
 * [tallstreet-graphql](https://github.com/tallstreet/graphql) - GraphQL parser and server for Go that leverages libgraphqlparser
 * [go-graphql](https://github.com/playlyfe/go-graphql) - A powerful GraphQL server implementation for Golang
+* [graphqlGoClient](https://github.com/sch00lb0y/graphqlGoClient) - A simple GraphQL client for Golang 
 
 <a name="lib-scala" />
 ### Scala Libraries
