@@ -69,6 +69,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 * [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
+* [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
 * [codemirror-graphql](https://github.com/graphql/codemirror-graphql) - GraphQL mode and helpers for CodeMirror.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
