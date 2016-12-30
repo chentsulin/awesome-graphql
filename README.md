@@ -100,6 +100,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Join Monster](https://github.com/stems/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 * [Create-GraphQL](https://github.com/lucasbento/create-graphql) - Command-line utility to build production-ready servers with GraphQL.
 * [GraphQL-Pokémon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL!
+* [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 
 ##### Relay Related
 
