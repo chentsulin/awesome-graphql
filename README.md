@@ -99,6 +99,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [FetchQL](https://github.com/gucheen/FetchQL) - GraphQL query client with Fetch
 * [Join Monster](https://github.com/stems/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
+* [Parse GraphQL Client](https://github.com/bakery/parse-graphql-client) - GraphQL client for apps using Parse Server.
 
 ##### Relay Related
 
