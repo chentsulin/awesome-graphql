@@ -168,6 +168,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
+* [spring-boot-starter-graphql](https://github.com/merapar/spring-boot-starter-graphql) - Spring boot starter project for GraphQL.
 
 <a name="lib-c" />
 ### C/C++ Libraries
