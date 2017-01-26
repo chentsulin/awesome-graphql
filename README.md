@@ -28,6 +28,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Clojure](#lib-clojure)
 	- [Swift](#lib-swift)
 	- [OCaml](#lib-ocaml)
+	- [Rust](#lib-rust)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -247,6 +248,11 @@ If you want to contribute to this list (please do), send me a pull request.
 ### OCaml Libraries
 
 * [ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
+
+<a name="lib-rust" />
+### Rust Libraries
+
+* [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
 
 <a name="tools" />
 ## Tools
