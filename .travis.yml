@@ -1,4 +1,4 @@
-nguage: ruby
+language: ruby
 rvm:
   - 2.2
 before_script:
