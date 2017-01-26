@@ -11,21 +11,21 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Specification](#spec)
 - [Community](#community)
 - [Libraries](#lib)
+	- [C/C++](#lib-c)
+	- [Clojure](#lib-clojure)
+	- [Elixir](#lib-elixir)
+	- [Elm](#lib-elm)
+	- [Go](#lib-go)
+	- [Haskell] (#lib-haskell)
+	- [Java](#lib-java)
 	- [Javascript](#lib-js)
-	- [Ruby](#lib-rb)
+	- [Lua](#lib-lua)
+	- [.NET](#lib-dotnet)
 	- [PHP](#lib-php)
 	- [Python](#lib-py)
-	- [Java](#lib-java)
-	- [C/C++](#lib-c)
-	- [Go](#lib-go)
+	- [Ruby](#lib-rb)
 	- [Scala](#lib-scala)
-	- [.NET](#lib-dotnet)
-	- [Elixir](#lib-elixir)
-	- [Haskell] (#lib-haskell)
 	- [SQL](#lib-sql)
-	- [Lua](#lib-lua)
-	- [Elm](#lib-elm)
-	- [Clojure](#lib-clojure)
 	- [Swift](#lib-swift)
 	- [OCaml](#lib-ocaml)
 	- [Rust](#lib-rust)
@@ -33,13 +33,14 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Services](#services)
 - [Databases](#databases)
 - [Examples](#example)
-	- [Javascript](#example-js)
-	- [Typescript](#example-ts)
-	- [Ruby](#example-rb)
-	- [Go](#example-go)
-	- [Scala](#example-scala)
-	- [Python](#example-python)
 	- [Elixir](#example-elixir)
+	- [Javascript](#example-js)
+	- [Go](#example-go)
+	- [Python](#example-python)
+	- [Ruby](#example-rb)
+	- [Scala](#example-scala)
+	- [Swift](#example-swift)
+	- [Typescript](#example-ts)
 - [Videos](#video)
 - [Blogs](#blogs)
 - [Posts](#post)
@@ -357,6 +358,11 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 * [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](http://sangria-graphql.org)
 * [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
+
+<a name="example-swift" />
+### Swift Examples
+
+* [graphqexamples](https://github.com/Zewo/GraphQLExamples) - Examples of how to build your GraphQL backend in Swift using [Graphiti](https://github.com/GraphQLSwift/Graphiti) and [GraphQLResponder](https://github.com/Zewo/GraphQLResponder).
 
 <a name="example-python" />
 ### Python Examples
