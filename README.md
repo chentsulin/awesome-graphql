@@ -258,7 +258,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-typescript" />
 ### Typescript Libraries
 
-* [graphql-ts](https://github.com/nicolasgere/graphql-ts) - GraphQL server library for Typescript.
+* [graphql-ts](https://github.com/nicolasgere/graphql-ts) - GraphQL server library for Typescript using reflection and metadata.
 
 
 <a name="tools" />
