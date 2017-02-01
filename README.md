@@ -29,6 +29,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Swift](#lib-swift)
 	- [OCaml](#lib-ocaml)
 	- [Rust](#lib-rust)
+	- [Typescript](#lib-typescript)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -254,6 +255,12 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
 
+<a name="lib-typescript" />
+### Typescript Libraries
+
+* [graphql-ts](https://github.com/nicolasgere/graphql-ts) - GraphQL server library for Typescript.
+
+
 <a name="tools" />
 ## Tools
 
@@ -298,7 +305,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [relay-starter-kit](https://github.com/relayjs/relay-starter-kit) - Barebones starting point for a Relay application.
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate (Node.js/Express, GraphQL, React)
-* [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for authoring data API backends with Node.js and GraphQL 
+* [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for authoring data API backends with Node.js and GraphQL
 * [swapi-graphql](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping [swapi](http://swapi.co/).
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
 * [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/@clayallsopp/your-first-graphql-server-3c766ab4f0a2
