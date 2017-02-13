@@ -79,6 +79,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
 * [adrenaline](https://github.com/gyzerok/adrenaline) - React bindings for Redux with Relay in mind.
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
+* [graphql-bookshelfjs](https://github.com/weyoss/graphql-bookshelfjs) - A simple bridge between your graphql queries and your bookshelf models, perform batched and optimised queries.
 * [graph.ql](https://github.com/matthewmueller/graph.ql) - Faster and simpler technique for creating and querying GraphQL schemas.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux
 * [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
