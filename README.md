@@ -21,7 +21,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Scala](#lib-scala)
 	- [.NET](#lib-dotnet)
 	- [Elixir](#lib-elixir)
-	- [Haskell] (#lib-haskell)
+	- [Haskell](#lib-haskell)
 	- [SQL](#lib-sql)
 	- [Lua](#lib-lua)
 	- [Elm](#lib-elm)
