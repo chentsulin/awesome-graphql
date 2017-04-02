@@ -26,6 +26,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Lua](#lib-lua)
 	- [Elm](#lib-elm)
 	- [Clojure](#lib-clojure)
+	- [ClojureScript](#lib-clojurescript)
 	- [Swift](#lib-swift)
 	- [OCaml](#lib-ocaml)
 	- [Rust](#lib-rust)
@@ -249,6 +250,11 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql-clj](https://github.com/tendant/graphql-clj) - A Clojure library designed to provide GraphQL implementation.
 * [lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure.
+
+<a name="lib-clojurescript" />
+### ClojureScript Libraries
+
+* [speako](https://github.com/johanatan/speako) - A ClojureScript/NPM compiler for GraphQL Schema Language.
 
 <a name="lib-swift" />
 ### Swift Libraries
