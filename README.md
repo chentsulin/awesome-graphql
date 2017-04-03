@@ -120,6 +120,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Create-GraphQL](https://github.com/lucasbento/create-graphql) - Command-line utility to build production-ready servers with GraphQL.
 * [GraphQL-Pokémon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL!
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
+* [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij) - Chrome extension to use GraphiQL anywhere
 
 ##### Relay Related
 
