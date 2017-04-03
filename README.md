@@ -63,6 +63,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag [#graphql](https://twitter.com/search?q=%23GraphQL)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](http://stackoverflow.com/questions/tagged/graphql)
 * [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs
+* [GraphQL World](https://graphql-world.com) - The fastest growing community of GraphQL developers
 
 <a name="meetups" />
 
