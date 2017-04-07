@@ -121,6 +121,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL-Pokémon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL!
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 * [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij) - Chrome extension to use GraphiQL anywhere
+* [GraphiteJS](https://github.com/graphitejs/graphitejs) - Full stack framework.
 
 ##### Relay Related
 
