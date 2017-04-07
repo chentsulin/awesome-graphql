@@ -182,6 +182,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application.
 * [python-graphql-client](https://github.com/graphcool/python-graphql-client) - Simple GraphQL client for Python 2.7+
 * [python-graphjoiner](https://github.com/healx/python-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
+* [graphene-django](https://github.com/graphql-python/graphene-django) - A Django integration for Graphene.
 
 <a name="lib-java" />
 
