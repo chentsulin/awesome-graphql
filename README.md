@@ -121,6 +121,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL-Pokémon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL!
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 * [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij) - Chrome extension to use GraphiQL anywhere
+* [SpotifyGraphQL](https://github.com/thefrenchhouse/spotify-graphql) - GraphQL schema for Spotify WebAPI
+* [Spotify GraphQL Console](http://spotify.thefrench.house/graphql-console/) - Playground to discover Spotify API using GraphQL!
 
 ##### Relay Related
 
