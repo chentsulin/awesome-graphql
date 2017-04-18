@@ -319,6 +319,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 * [GraphQL Docs](https://graphql-docs.com) - Instantly create beautiful GraphQL API docs hosted online.
 * [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
+* [GraphQL generator for StarUML](https://github.com/orefalo/StarUML-GraphQL) - Generates GraphQL IDL schemas from StarUML diagrams
+
 
 <a name="databases" />
 
