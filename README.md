@@ -26,6 +26,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Lua](#lib-lua)
 	- [Elm](#lib-elm)
 	- [Clojure](#lib-clojure)
+	- [ClojureScript](#lib-clojurescript)
 	- [Swift](#lib-swift)
 	- [OCaml](#lib-ocaml)
 	- [Rust](#lib-rust)
@@ -121,7 +122,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL-Pokémon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL!
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 * [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij) - Chrome extension to use GraphiQL anywhere
-* [GraphiteJS](https://github.com/graphitejs/graphitejs) - Full stack framework.
+* [graphql-auto-mutation](https://github.com/ejoebstl/graphql-auto-mutation) - Automatically generates functions for mutations specified in a GraphQL schema.
+* [GraphiteJS](https://github.com/graphitejs/graphitejs) - Full stack GraphQL framework.
 
 ##### Relay Related
 
@@ -274,6 +276,11 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql-clj](https://github.com/tendant/graphql-clj) - A Clojure library designed to provide GraphQL implementation.
 * [lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure.
+
+<a name="lib-clojurescript" />
+### ClojureScript Libraries
+
+* [speako](https://github.com/johanatan/speako) - A ClojureScript/NPM compiler for GraphQL Schema Language.
 
 <a name="lib-swift" />
 
