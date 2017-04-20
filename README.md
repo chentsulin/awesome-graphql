@@ -122,6 +122,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL-Pokémon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL!
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 * [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij) - Chrome extension to use GraphiQL anywhere
+* [graphql-auto-mutation](https://github.com/ejoebstl/graphql-auto-mutation) - Automatically generates functions for mutations specified in a GraphQL schema.
 
 ##### Relay Related
 
