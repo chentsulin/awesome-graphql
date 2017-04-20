@@ -41,6 +41,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Scala](#example-scala)
 	- [Python](#example-python)
 	- [Elixir](#example-elixir)
+	- [PHP](#example-php)
 - [Videos](#video)
 - [Blogs](#blogs)
 - [Posts](#post)
@@ -430,6 +431,12 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 * [absinthe_example](https://github.com/absinthe-graphql/absinthe_example) - Example usage of Absinthe GraphQL
 * [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - [View demo online](http://playground.graphql-elixir.org).
+
+<a name="example-php" />
+
+### PHP Examples
+
+* [Siler's GraphQL guide](https://siler.leocavalcante.com/graphql/) - A guide on how to build a PHP GraphQL endpoint.
 
 <a name="video" />
 
