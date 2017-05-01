@@ -333,6 +333,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Databases
 
+* [ArangoDB](https://www.arangodb.com/) - Multi-model database that supports GraphQL schemas in JavaScript inside the database.
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
 
 <a name="services" />
