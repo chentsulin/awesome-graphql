@@ -270,7 +270,8 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Elm Libraries
 
-* [elm-graphql](https://github.com/jahewson/elm-graphql) - GraphQL for Elm.
+* [jamesmacaulay/elm-graphql](https://github.com/jamesmacaulay/elm-graphql) - Client library that lets you build GraphQL queries in Elm.
+* [jahewson/elm-graphql](https://github.com/jahewson/elm-graphql) - Command-line tool that generates Elm code from queries in .graphql files.
 
 <a name="lib-clojure" />
 
