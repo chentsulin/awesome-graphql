@@ -30,6 +30,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Swift](#lib-swift)
 	- [OCaml](#lib-ocaml)
 	- [Rust](#lib-rust)
+	- [R](#lib-r)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -302,6 +303,14 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Rust Libraries
 
 * [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
+
+<a name="lib-r" />
+
+### R Libraries
+
+* [graphql](https://github.com/ropensci/graphql) - Bindings to libgraphqlparser for R.
+* [gqlr](https://github.com/schloerke/gqlr) - GraphQL server package for R.
+* [gqlr](https://github.com/ropensci/ghql) - GraphQL client package for R.
 
 <a name="tools" />
 
