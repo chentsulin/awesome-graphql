@@ -39,6 +39,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Typescript](#example-ts)
 	- [Ruby](#example-rb)
 	- [Go](#example-go)
+	- [Java](#example-java)
 	- [Scala](#example-scala)
 	- [Python](#example-python)
 	- [Elixir](#example-elixir)
@@ -201,6 +202,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-spring-boot](https://github.com/graphql-java/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
+* [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 
 <a name="lib-c" />
 
@@ -449,6 +451,12 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### PHP Examples
 
 * [Siler's GraphQL guide](https://siler.leocavalcante.com/graphql/) - A guide on how to build a PHP GraphQL endpoint.
+
+<a name="example-java" />
+
+### Java Examples
+
+* [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and [graphql-spqr](https://github.com/leangen/GraphQL-SPQR)
 
 <a name="video" />
 
