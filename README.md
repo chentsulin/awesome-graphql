@@ -436,6 +436,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Python Examples
 
 * [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](http://graphene-python.org) - [View demo online](http://swapi.graphene-python.org).
+* [graphql-demo](https://github.com/maddevsio/graphql-demo) - This is a short python Flask demo app, where we connect mysql database entities with graphql models, using sqlalchemy-graphene lib, in Relay style.
 
 <a name="example-elixir" />
 
@@ -509,6 +510,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Testing a GraphQL Server using Jest](https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e)
 * [How to implement viewerCanSee in  GraphQL](https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464)
 * [Introducing Yelp's Local Graph](https://engineeringblog.yelp.com/2017/05/introducing-yelps-local-graph.html)
+* [It’s Time to GraphQL-ize…](https://blog.maddevs.io/time-to-graphqlize-f61034d86e35)
 
 <a name="workshopper" />
 
