@@ -126,6 +126,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij) - Chrome extension to use GraphiQL anywhere
 * [graphql-auto-mutation](https://github.com/ejoebstl/graphql-auto-mutation) - Automatically generates functions for mutations specified in a GraphQL schema.
 * [GraphiteJS](https://github.com/graphitejs/graphitejs) - Full stack GraphQL framework.
+* [loopback-graphql](https://github.com/tallyb/loopback-graphql) - GraphQL Server for Loopback.
 
 ##### Relay Related
 
