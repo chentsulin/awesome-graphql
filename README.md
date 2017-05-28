@@ -284,6 +284,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [alumbra](https://github.com/alumbra/alumbra) - Simple & Elegant GraphQL for Clojure!
 
 <a name="lib-clojurescript" />
+
 ### ClojureScript Libraries
 
 * [speako](https://github.com/johanatan/speako) - A ClojureScript/NPM compiler for GraphQL Schema Language.
