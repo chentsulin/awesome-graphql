@@ -128,6 +128,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphiteJS](https://github.com/graphitejs/graphitejs) - Full stack GraphQL framework.
 * [loopback-graphql](https://github.com/tallyb/loopback-graphql) - GraphQL Server for Loopback.
 * [parasprite](https://github.com/octet-stream/parasprite) - Describe your GraphQL schema using chainable interface.
+* [GraphQL.js](https://github.com/f/graphql.js) - JavaScript GraphQL Client for Browser and Node.js Usage
 
 ##### Relay Related
 
