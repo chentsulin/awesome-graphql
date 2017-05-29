@@ -294,6 +294,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Swift Libraries
 
 * [GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift implementation for GraphQL.
+* [Gryphin](https://github.com/dbart01/Gryphin) - Type-safe GraphQL client for iOS and MacOS written in Swift.
 
 <a name="lib-ocaml" />
 
