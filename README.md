@@ -317,7 +317,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql](https://github.com/ropensci/graphql) - Bindings to libgraphqlparser for R.
 * [gqlr](https://github.com/schloerke/gqlr) - GraphQL server package for R.
-* [gqlr](https://github.com/ropensci/ghql) - GraphQL client package for R.
+* [ghql](https://github.com/ropensci/ghql) - GraphQL client package for R.
 
 <a name="tools" />
 
