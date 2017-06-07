@@ -126,6 +126,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij) - Chrome extension to use GraphiQL anywhere
 * [graphql-auto-mutation](https://github.com/ejoebstl/graphql-auto-mutation) - Automatically generates functions for mutations specified in a GraphQL schema.
 * [GraphiteJS](https://github.com/graphitejs/graphitejs) - Full stack GraphQL framework.
+* [loopback-graphql](https://github.com/tallyb/loopback-graphql) - GraphQL Server for Loopback.
+* [parasprite](https://github.com/octet-stream/parasprite) - Describe your GraphQL schema using chainable interface.
+* [GraphQL.js](https://github.com/f/graphql.js) - JavaScript GraphQL Client for Browser and Node.js Usage
 
 ##### Relay Related
 
@@ -280,8 +283,10 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql-clj](https://github.com/tendant/graphql-clj) - A Clojure library designed to provide GraphQL implementation.
 * [lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure.
+* [alumbra](https://github.com/alumbra/alumbra) - Simple & Elegant GraphQL for Clojure!
 
 <a name="lib-clojurescript" />
+
 ### ClojureScript Libraries
 
 * [speako](https://github.com/johanatan/speako) - A ClojureScript/NPM compiler for GraphQL Schema Language.
@@ -290,7 +295,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Swift Libraries
 
-* [GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift implementation for GraphQL.
+* [GraphQL](https://github.com/GraphQLSwift/GraphQL) - Build GraphQL APIs with Swift.
+* [Gryphin](https://github.com/dbart01/Gryphin) - Type-safe GraphQL client for iOS and MacOS written in Swift.
+* [Apollo-iOS](https://github.com/apollographql/apollo-ios) - Strongly typed, code-generating, caching GraphQL client for Swift.
 
 <a name="lib-ocaml" />
 
@@ -339,6 +346,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 * [GraphQL Docs](https://graphql-docs.com) - Instantly create beautiful GraphQL API docs hosted online.
 * [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
+* [Apollo Launchpad](https://launchpad.graphql.com/) - Like JSFiddle for GraphQL server code, write and deploy a GraphQL API directly from your browser.
+* [Altair GraphQL Client](https://github.com/imolorhe/altair) - An sleek graphQL client app for querying GraphQL servers, like Postman for graphQL. It also comes as a chrome extension.
 
 <a name="databases" />
 
