@@ -518,6 +518,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Testing a GraphQL Server using Jest](https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e)
 * [How to implement viewerCanSee in  GraphQL](https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464)
 * [Introducing Yelp's Local Graph](https://engineeringblog.yelp.com/2017/05/introducing-yelps-local-graph.html)
+* [GraphQL Based CMS Tutorial: E-Commerce with GraphCMS, NodeJS, Apollo and Snipcart](https://snipcart.com/blog/graphql-based-cms-tutorial-integration-with-graphcms-nodejs-and-apollo)
 
 <a name="workshopper" />
 
