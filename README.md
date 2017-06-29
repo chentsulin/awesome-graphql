@@ -352,6 +352,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 * [Apollo Launchpad](https://launchpad.graphql.com/) - Like JSFiddle for GraphQL server code, write and deploy a GraphQL API directly from your browser.
 * [Altair GraphQL Client](https://github.com/imolorhe/altair) - An sleek graphQL client app for querying GraphQL servers, like Postman for graphQL. It also comes as a chrome extension.
+* [cf-graphql](https://github.com/contentful-labs/cf-graphql) - A GraphQL schema generator for data stored in Contentful ("CMS as a Service").
 
 <a name="databases" />
 
