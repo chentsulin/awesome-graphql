@@ -2,7 +2,7 @@
 
 > Awesome list of GraphQL & Rela
 
-If you want to contribute to this list (please do), send me a pull request.
+If you want to contribute to this list (please do), sen me a pull request.
 
 ## Table of Content
 
