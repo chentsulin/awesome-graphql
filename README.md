@@ -131,6 +131,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [parasprite](https://github.com/octet-stream/parasprite) - Describe your GraphQL schema using chainable interface.
 * [GraphQL.js](https://github.com/f/graphql.js) - JavaScript GraphQL Client for Browser and Node.js Usage
 * [graphql-sync](https://github.com/arangodb/graphql-sync) - Promise-free wrapper to GraphQL.js for synchronous environments
+* [apollo-fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports custom fetch functions, middleware, and afterware
 
 ##### Relay Related
 
