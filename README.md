@@ -60,11 +60,11 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Community
 
-* [Slack](http://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/)
+* [Slack](https://graphql.slack.com/messages/general) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/)
 * [`#graphql` on Freenode](https://webchat.freenode.net/?channels=#graphql) - The official IRC channel for GraphQL
 * [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing
 * [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag [#graphql](https://twitter.com/search?q=%23GraphQL)
-* [StackOverflow](http://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](http://stackoverflow.com/questions/tagged/graphql)
+* [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](http://stackoverflow.com/questions/tagged/graphql)
 * [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs
 * [GraphQL World](https://graphql-world.com) - The fastest growing community of GraphQL developers
 
@@ -72,12 +72,12 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## GraphQL Meetups
 
-* [Berlin](https://www.meetup.com/graphql-berlin)
-* [London](https://www.meetup.com/GraphQL-London)
-* [Melbourne](https://www.meetup.com/GraphQL-Melbourne)
+* [Berlin](https://www.meetup.com/graphql-berlin/)
+* [London](https://www.meetup.com/GraphQL-London/)
+* [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
 * [Sydney](https://www.meetup.com/GraphQL-Sydney/)
-* [San Francisco](https://www.meetup.com/GraphQL-SF)
-* [Tel Aviv](https://www.meetup.com/GraphQL-TLV)
+* [San Francisco](https://www.meetup.com/GraphQL-SF/)
+* [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
 
 <a name="lib" />
 
@@ -121,7 +121,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
 * [FetchQL](https://github.com/gucheen/FetchQL) - GraphQL query client with Fetch
 * [Join Monster](https://github.com/stems/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
-* [Create-GraphQL](https://github.com/lucasbento/create-graphql) - Command-line utility to build production-ready servers with GraphQL.
+* [Create-GraphQL](https://github.com/graphql-community/create-graphql) - Command-line utility to build production-ready servers with GraphQL.
 * [GraphQL-Pokémon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL!
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 * [ChromeiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij) - Chrome extension to use GraphiQL anywhere
@@ -145,7 +145,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-sink](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
 * [Graylay](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
-* [Apollo Client](https://github.com/apollostack/apollo-client) - A simple alternative to Relay, integrates with Redux and comes with React and Angular bindings.
+* [Apollo Client](https://github.com/apollographql/apollo-client) - A simple alternative to Relay, integrates with Redux and comes with React and Angular bindings.
 * [react-relay-network-layer](https://github.com/nodkz/react-relay-network-layer) - A network layer for Relay with query batching and middleware support (urlThunk, retryThunk, auth, defer and other).
 * [relay-subscriptions](https://github.com/edvinerikson/relay-subscriptions) - Subscription support for Relay.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - An example website that fetches data from various apis and uses Relay and GraphQL to feed the data to React components!
@@ -267,7 +267,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
 * [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
-* [PostGraphQL](https://github.com/calebmer/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema.
+* [PostGraphQL](https://github.com/postgraphql/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema.
 
 <a name="lib-lua" />
 
