@@ -469,8 +469,8 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 <a name="example-php" />
 
 ### PHP Examples
-
 * [Siler's GraphQL guide](https://siler.leocavalcante.com/graphql/) - A guide on how to build a PHP GraphQL endpoint.
+* [Laravel GraphQL](https://github.com/ardani/laravel-graphql) - A sample integrating GraphQL with Laravel
 
 <a name="video" />
 
