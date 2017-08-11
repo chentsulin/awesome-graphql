@@ -11,6 +11,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Specification](#spec)
 - [Community](#community)
 - [Libraries](#lib)
+	- [Julia](#lib-julia)
 	- [Javascript](#lib-js)
 	- [Ruby](#lib-rb)
 	- [PHP](#lib-php)
@@ -83,6 +84,12 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib" />
 
 ## Libraries
+
+<a name="lib-julia" />
+
+### Julia Libraries
+
+* [Diana.jl](https://github.com/codeneomatrix/Diana.jl) - GraphQL Julia implementation.
 
 <a name="lib-js" />
 
