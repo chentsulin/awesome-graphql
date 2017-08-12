@@ -160,6 +160,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-parser](https://github.com/Shopify/graphql-parser) - A small ruby gem wrapping the libgraphqlparser C library for parsing GraphQL.
 * [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
+* [batch-loader](https://github.com/exaspark/batch-loader) – A powerful tool to avoid N+1 queries without extra dependencies or primitives.
+* [graphql-guard](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization for the graphql gem.
 
 <a name="lib-php" />
 
@@ -361,8 +363,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
 * [GraphQL Metrics](https://github.com/Workpop/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
-
-
+* [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
+* [Insomnia](https://insomnia.rest/) – An full-featured API client with first-party GraphQL query editor
 
 <a name="databases" />
 
@@ -439,7 +441,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - Example Rails app using GitHub's GraphQL API.
 * [relay-on-rails](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
 * [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
-* [to_eat_app] (https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
+* [to_eat_app](https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
 
 <a name="example-go" />
 
@@ -539,7 +541,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 ## Tutorials
 
-* [How to GraphQL](www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more 
+* [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more 
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 * [Learn Relay](https://www.learnrelay.org/) - A comprehensive introduction to Relay
 * [Learn Apollo](https://www.learnapollo.com/) - A hands-on tutorial for Apollo GraphQL Client
