@@ -336,7 +336,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Julia Libraries
 
-* [Diana.jl](https://github.com/codeneomatrix/Diana.jl) - GraphQL Julia implementation.
+* [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  Julia client for GraphQL.
 
 <a name="tools" />
 
