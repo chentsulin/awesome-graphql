@@ -31,6 +31,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [OCaml](#lib-ocaml)
 	- [Rust](#lib-rust)
 	- [R](#lib-r)
+	- [Julia](#lib-julia)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -331,6 +332,12 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql](https://github.com/ropensci/graphql) - Bindings to libgraphqlparser for R.
 * [gqlr](https://github.com/schloerke/gqlr) - GraphQL server package for R.
 * [ghql](https://github.com/ropensci/ghql) - GraphQL client package for R.
+
+<a name="lib-julia" />
+
+### Julia Libraries
+
+* [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  Julia client for GraphQL.
 
 <a name="tools" />
 
