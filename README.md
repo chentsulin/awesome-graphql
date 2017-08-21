@@ -44,6 +44,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Python](#example-python)
 	- [Elixir](#example-elixir)
 	- [PHP](#example-php)
+	- [ReasonML](#example-reasonml)
 - [Videos](#video)
 - [Blogs](#blogs)
 - [Posts](#post)
@@ -484,6 +485,11 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### PHP Examples
 * [Siler's GraphQL guide](https://siler.leocavalcante.com/graphql/) - A guide on how to build a PHP GraphQL endpoint.
 * [Laravel GraphQL](https://github.com/ardani/laravel-graphql) - A sample integrating GraphQL with Laravel
+
+<a name="example-reasonml" />
+
+### ReasonML Examples
+* [Todo list example](https://github.com/Gregoirevda/reason-ml-graphql-todo-list) - A todo list integrating GraphQL.
 
 <a name="video" />
 
