@@ -37,6 +37,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Databases](#databases)
 - [Examples](#example)
 	- [Javascript](#example-js)
+	- [Java](#example-java)
 	- [Typescript](#example-ts)
 	- [Ruby](#example-rb)
 	- [Go](#example-go)
@@ -386,6 +387,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Services
 
+* [Gentics Mesh](https://getmesh.io/) - Gentics Mesh is an open source API-first CMS, complete with multi‑language support, versioning, file upload, image manipulation and easy routing framework integration.
 * [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
 * [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
@@ -436,6 +438,14 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Intuitive GraphQL Resolver Example](https://github.com/xpepermint/graphql-example) - GraphQL application example using [RawModel.js](https://github.com/xpepermint/rawmodeljs).
 * [ReactQL starter kit](https://reactql.org) - Universal React + Apollo + Redux + React Router 4, with SSR-enabled GraphQL, store (de/re)hydration and production code bundling.
 * [microhn](https://github.com/stubailo/microhn) - Simple Hacker News client built on top of GraphQLHub
+* [Gentics Mesh Express GraphQL Example](https://github.com/gentics/mesh-express-example/tree/graphql) - An example which shows how to build a small webpage using [Express](https://expressjs.com/) in combination with [Gentics Mesh](https://getmesh.io/).
+
+<a name="example-java" />
+
+### Java Examples
+
+* [Gentics Mesh Vert.x GraphQL Example](https://github.com/gentics/mesh-vertx-example/tree/graphql) - Small example which shows how to build a website using [Vert.x](http://vertx.io/) and [Gentics Mesh](https://getmesh.io/).
+* [Vert.x GraphQL Server Example](https://github.com/Jotschi/vertx-graphql-example) - Example which shows how to use [OrientDB](http://orientdb.com/), [Vert.x](http://vertx.io/) and [graphql-java](https://github.com/graphql-java/graphql-java) to build a graphql server.
 
 <a name="example-ts" />
 
@@ -485,6 +495,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### PHP Examples
 * [Siler's GraphQL guide](https://siler.leocavalcante.com/graphql/) - A guide on how to build a PHP GraphQL endpoint.
 * [Laravel GraphQL](https://github.com/ardani/laravel-graphql) - A sample integrating GraphQL with Laravel
+* [Gentics Mesh Silex GraphQL Example](https://github.com/gentics/mesh-silex-example/tree/graphql) - An example which shows how to build a small webpage using the PHP micro-framework [Silex](https://silex.symfony.com/) in combination with [Gentics Mesh](https://getmesh.io/).
 
 <a name="example-reasonml" />
 
