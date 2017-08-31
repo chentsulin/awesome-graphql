@@ -304,6 +304,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### ClojureScript Libraries
 
 * [speako](https://github.com/johanatan/speako) - A ClojureScript/NPM compiler for GraphQL Schema Language.
+* [venia](https://github.com/Vincit/venia) - A Clojure(Script) GraphQL query generation
 
 <a name="lib-swift" />
 
