@@ -10,6 +10,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [Specification](#spec)
 - [Community](#community)
+- [GraphQL Meetups](#meetups)
 - [Libraries](#lib)
 	- [Javascript](#lib-js)
 	- [Ruby](#lib-rb)
@@ -81,6 +82,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [San Francisco](https://www.meetup.com/GraphQL-SF/)
 * [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
+* [Munich](https://www.meetup.com/GraphQL-Munich/)
 
 <a name="lib" />
 
