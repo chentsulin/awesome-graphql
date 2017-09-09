@@ -372,6 +372,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 * [GraphQL Docs](https://graphql-docs.com) - Instantly create beautiful GraphQL API docs hosted online.
 * [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
+* [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 * [Apollo Launchpad](https://launchpad.graphql.com/) - Like JSFiddle for GraphQL server code, write and deploy a GraphQL API directly from your browser.
 * [Altair GraphQL Client](https://github.com/imolorhe/altair) - An sleek graphQL client app for querying GraphQL servers, like Postman for graphQL. It also comes as a chrome extension.
 * [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
