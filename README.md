@@ -21,6 +21,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Go](#lib-go)
 	- [Scala](#lib-scala)
 	- [.NET](#lib-dotnet)
+	- [Erlang](#lib-erlang)
 	- [Elixir](#lib-elixir)
 	- [Haskell](#lib-haskell)
 	- [SQL](#lib-sql)
@@ -253,6 +254,12 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Conventions](https://github.com/graphql-dotnet/conventions) - Reflection-based schema generation for .NET.
 * [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET
 * [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp GraphQL.
+
+<a name="lib-erlang" />
+
+### Erlang Libraries
+
+* [graphql-erlang](https://github.com/shopgun/graphql-erlang) - Pure Erlang implementation with IDL and pattern-matching.
 
 <a name="lib-elixir" />
 
