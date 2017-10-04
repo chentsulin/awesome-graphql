@@ -34,6 +34,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Rust](#lib-rust)
 	- [R](#lib-r)
 	- [Julia](#lib-julia)
+	- [Kotlin](#lib-kotlin)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -351,6 +352,12 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Julia Libraries
 
 * [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  Julia client for GraphQL.
+
+<a name="lib-kotlin" />
+
+### Kotlin Libraries
+
+* [ktq](https://github.com/prestongarno/ktq) - Kotlin gradle plugin SDL type generator & runtime client
 
 <a name="tools" />
 
