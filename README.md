@@ -141,6 +141,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-sync](https://github.com/arangodb/graphql-sync) - Promise-free wrapper to GraphQL.js for synchronous environments
 * [apollo-fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports custom fetch functions, middleware, and afterware
 * [Spikenail](https://github.com/spikenail/spikenail) - Node.js framework for building GraphQL API almost without coding.
+* [graphql-trello](https://github.com/lukehorvat/graphql-trello) - GraphQL interface to Trello's API.
 
 ##### Relay Related
 
