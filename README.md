@@ -576,6 +576,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [How to implement viewerCanSee in  GraphQL](https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464)
 * [Introducing Yelp's Local Graph](https://engineeringblog.yelp.com/2017/05/introducing-yelps-local-graph.html)
 * [Sharing data in a Microservices Architecture using GraphQL](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
+* [Let's build a node.js GraphQL server for fetching Spotify REST API, in German](https://blog.codecentric.de/2017/09/graphql-mit-spotify-teil-1-server/) |  [in English](https://blog.codecentric.de/en/2017/01/lets-build-spotify-graphql-server/)
 
 <a name="workshopper" />
 
