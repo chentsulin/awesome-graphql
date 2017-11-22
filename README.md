@@ -144,6 +144,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Spikenail](https://github.com/spikenail/spikenail) - Node.js framework for building GraphQL API almost without coding.
 * [graphql-lodash](https://github.com/APIs-guru/graphql-lodash) - Data manipulation for GraphQL queries with lodash syntax.
 * [apollo-angular](https://github.com/apollographql/apollo-angular) - Angular integration for Apollo.
+* [graphql-resolvers](https://github.com/lucasconstantino/graphql-resolvers) - Resolver composition library for GraphQL.
 
 ##### Relay Related
 
