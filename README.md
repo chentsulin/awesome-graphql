@@ -145,6 +145,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-lodash](https://github.com/APIs-guru/graphql-lodash) - Data manipulation for GraphQL queries with lodash syntax.
 * [apollo-angular](https://github.com/apollographql/apollo-angular) - Angular integration for Apollo.
 * [graphql-resolvers](https://github.com/lucasconstantino/graphql-resolvers) - Resolver composition library for GraphQL.
+* [apollo-resolvers](https://github.com/thebigredgeek/apollo-resolvers) - Expressive and composable resolvers for Apollo Server and graphql-tools.
+* [apollo-errors](https://github.com/thebigredgeek/apollo-errors) - Machine-readable custom errors for Apollo Server.
 
 ##### Relay Related
 
