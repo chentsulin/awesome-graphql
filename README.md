@@ -477,6 +477,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 ### TypeScript Examples
 * [Basic Apollo Server](https://github.com/DxCx/webpack-graphql-server) - Basic Starter for Apollo Server, Using typescript and Webpack.
+* [Apollo Graphql Express Server](https://github.com/FinalDes/apollo-express-ts-server-boilerplate) - Minimal Apollo Graphql Express Server
 
 <a name="example-rb" />
 
