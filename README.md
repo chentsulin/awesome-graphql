@@ -264,7 +264,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Conventions](https://github.com/graphql-dotnet/conventions) - Reflection-based schema generation for .NET.
 * [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET
 * [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp GraphQL.
-* [GraphQL.Client](https://github.com/deinok/GraphQL.Client) - GraphQL Client for .NET.
+* [GraphQL.Client](https://github.com/graphql-dotnet/graphql-client) - GraphQL Client for .NET.
 
 <a name="lib-erlang" />
 
