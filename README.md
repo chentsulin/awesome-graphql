@@ -558,6 +558,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ## Blogs
 * [Official GraphQL blog](http://graphql.org/blog/)
 * [Building Apollo](https://dev-blog.apollodata.com/)
+* [Django, GraphQL & React](https://krzysztofzuraw.com/blog/2017/django-graphql-react-part-one.html)
 
 <a name="post" />
 
