@@ -20,6 +20,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [C/C++](#lib-c)
 	- [Go](#lib-go)
 	- [Scala](#lib-scala)
+	- [Perl](#lib-perl)	
 	- [.NET](#lib-dotnet)
 	- [Erlang](#lib-erlang)
 	- [Elixir](#lib-elixir)
@@ -256,6 +257,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL client and server library.
 * [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
 * [graphql-scala](https://github.com/hrosenhorn/graphql-scala) - An attempt to get GraphQL going with Scala.
+
+<a name="lib-perl" />
+
+### Perl Libraries
+
+* [Perl6-GraphQL](https://github.com/CurtTilmes/Perl6-GraphQL) - GraphQL for Perl6.
+* [graphql-perl](https://github.com/graphql-perl/graphql-perl) - GraphQL for Perl5.
 
 <a name="lib-dotnet" />
 
