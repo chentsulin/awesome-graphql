@@ -88,6 +88,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
 * [Munich](https://www.meetup.com/GraphQL-Munich/)
 * [Toronto](https://www.meetup.com/GraphQL-Toronto/)
+* [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
 
 <a name="lib" />
 
