@@ -151,6 +151,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-resolvers](https://github.com/lucasconstantino/graphql-resolvers) - Resolver composition library for GraphQL.
 * [apollo-resolvers](https://github.com/thebigredgeek/apollo-resolvers) - Expressive and composable resolvers for Apollo Server and graphql-tools.
 * [apollo-errors](https://github.com/thebigredgeek/apollo-errors) - Machine-readable custom errors for Apollo Server.
+* [mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Flexible and robust Mongo based resolvers for Node.
 
 ##### Relay Related
 
