@@ -417,6 +417,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 * [Insomnia](https://insomnia.rest/) – An full-featured API client with first-party GraphQL query editor
 * [Graphcool Framework](https://github.com/graphcool/framework) - Framework to develop and deploy serverless GraphQL backends.
+* [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
 
 <a name="databases" />
 
