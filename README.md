@@ -79,16 +79,17 @@ If you want to contribute to this list (please do), send me a pull request.
 ## GraphQL Meetups
 
 * [Berlin](https://www.meetup.com/graphql-berlin/)
+* [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
+* [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
 * [Istanbul](https://www.meetup.com/GraphQL-Istanbul/)
 * [London](https://www.meetup.com/GraphQL-London/)
 * [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
-* [Sydney](https://www.meetup.com/GraphQL-Sydney/)
-* [San Francisco](https://www.meetup.com/GraphQL-SF/)
-* [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
-* [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
 * [Munich](https://www.meetup.com/GraphQL-Munich/)
+* [New York City](https://www.meetup.com/GraphQL-NYC/)
+* [San Francisco](https://www.meetup.com/GraphQL-SF/)
+* [Sydney](https://www.meetup.com/GraphQL-Sydney/)
+* [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
 * [Toronto](https://www.meetup.com/GraphQL-Toronto/)
-* [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
 
 <a name="lib" />
 
