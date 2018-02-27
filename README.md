@@ -420,6 +420,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Insomnia](https://insomnia.rest/) – An full-featured API client with first-party GraphQL query editor
 * [Prisma](https://github.com/graphcool/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
 * [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
+* [Bit](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project ([example](https://bitsrc.io/giladshoham/github-graphql)).
 
 <a name="databases" />
 
