@@ -153,6 +153,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [apollo-resolvers](https://github.com/thebigredgeek/apollo-resolvers) - Expressive and composable resolvers for Apollo Server and graphql-tools.
 * [apollo-errors](https://github.com/thebigredgeek/apollo-errors) - Machine-readable custom errors for Apollo Server.
 * [mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Flexible and robust Mongo based resolvers for Node.
+* [altair-express-middleware](https://github.com/imolorhe/altair) - An express middleware for mounting an instance of Altair GraphQL client.
 
 ##### Relay Related
 
@@ -412,7 +413,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 * [Apollo Launchpad](https://launchpad.graphql.com/) - Like JSFiddle for GraphQL server code, write and deploy a GraphQL API directly from your browser.
 * [Apollo Tracing](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
-* [Altair GraphQL Client](https://github.com/imolorhe/altair) - A graphQL API client for GraphQL (like Postman for graphQL) with chrome and firefox extensions as well as desktop apps for all platforms.
+* [Altair GraphQL Client](https://github.com/imolorhe/altair) - A beautiful feature-rich GraphQL Client for all platforms.
 * [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
 * [GraphQL Metrics](https://github.com/Workpop/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
