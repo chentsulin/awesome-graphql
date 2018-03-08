@@ -36,6 +36,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [R](#lib-r)
 	- [Julia](#lib-julia)
 	- [Kotlin](#lib-kotlin)
+	- [Unity](#lib-unity)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -386,6 +387,12 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Kotlin Libraries
 
 * [ktq](https://github.com/prestongarno/ktq) - Kotlin gradle plugin SDL type generator & runtime client
+
+<a name="lib-unity" />
+
+### Unity Libraries
+
+* [graphQL-client-unity](https://github.com/Gazuntype/graphQL-client-unity) - A Unity client for GraphQL.
 
 <a name="tools" />
 
