@@ -156,6 +156,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [apollo-errors](https://github.com/thebigredgeek/apollo-errors) - Machine-readable custom errors for Apollo Server.
 * [graphql-disable-introspection](https://github.com/helfer/graphql-disable-introspection) - Graphql Disable Introspection
 * [mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Flexible and robust Mongo based resolvers for Node.
+* [typegql](https://github.com/prismake/typegql) - Create graphql schema with classes and decorators
 * [altair-express-middleware](https://github.com/imolorhe/altair) - An express middleware for mounting an instance of Altair GraphQL client.
 
 ##### Relay Related
