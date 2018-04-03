@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL Meetups](#meetups)
 - [Libraries](#lib)
 	- [Javascript](#lib-js)
+	- [Typescript](#lib-ts)
 	- [Ruby](#lib-rb)
 	- [PHP](#lib-php)
 	- [Python](#lib-py)
@@ -36,6 +37,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [R](#lib-r)
 	- [Julia](#lib-julia)
 	- [Kotlin](#lib-kotlin)
+	- [Unity](#lib-unity)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -152,8 +154,10 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-resolvers](https://github.com/lucasconstantino/graphql-resolvers) - Resolver composition library for GraphQL.
 * [apollo-resolvers](https://github.com/thebigredgeek/apollo-resolvers) - Expressive and composable resolvers for Apollo Server and graphql-tools.
 * [apollo-errors](https://github.com/thebigredgeek/apollo-errors) - Machine-readable custom errors for Apollo Server.
+* [graphql-disable-introspection](https://github.com/helfer/graphql-disable-introspection) - Graphql Disable Introspection
 * [mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Flexible and robust Mongo based resolvers for Node.
 * [typegql](https://github.com/prismake/typegql) - Create graphql schema with classes and decorators
+* [altair-express-middleware](https://github.com/imolorhe/altair) - An express middleware for mounting an instance of Altair GraphQL client.
 
 ##### Relay Related
 
@@ -172,6 +176,21 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-subscriptions](https://github.com/edvinerikson/relay-subscriptions) - Subscription support for Relay.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - An example website that fetches data from various apis and uses Relay and GraphQL to feed the data to React components!
 * [Relay Pokédex](https://github.com/lucasbento/react-relay-pokemon) - Project using GraphQL Pokémon to show how powerful Relay is.
+* [vue-relay](https://github.com/ntkme/vue-relay) - A framework for building GraphQL-driven Vue.js applications.
+
+<a name="lib-ts" />
+
+### TypeScript Libraries
+
+* [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
+* [GraphStack]() - NodeJS framework that helps you to create scalable, maintainable, extensible, declarative and fast GraphQL-based server applications.
+* [graphql-strong](https://github.com/calebmer/graphql-strong) - Define your GraphQL schemas with confidence that your values are correct.
+* [graphql-to-typescript](https://github.com/3VLINC/graphql-to-typescript) - Compiles GraphQL files into an importable typescript module with type definitions
+* [graphql-decorator](https://github.com/Quramy/graphql-decorator) - Helps to build GraphQL schema with TypeScript.
+* [graphql-schema-decorator](https://github.com/indigotech/graphql-schema-decorator) - This package makes possible the use of decorators to define a GraphQL schema.
+* [graphql-typescript](https://github.com/vichyssoise/graphql-typescript) - Define and build GraphQL Schemas using typed classes
+* [typegql](https://github.com/prismake/typegql) - Create GraphQL schema with type-safe class decorators.
+* [graphql-ts](https://github.com/nicolasgere/graphql-ts) - Graphql implementation in Typescript using decorator
 
 <a name="lib-rb" />
 
@@ -235,6 +254,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [LiveGQL](https://github.com/Billy-Bichon/LiveGQL) - GraphQL subscription client in Java.
 * [rdbms-to-graphql](https://github.com/ebridges/rdbms-to-graphql) - A Java CLI program that generates a GraphQL schema from a JDBC data source.
 * [Rejoiner](https://github.com/google/rejoiner) - Generates a GraphQL schema based on one or more gRPC microservices, or any other Protobuf source.
+* [graphql-spqr](https://github.com/leangen/graphql-spqr) - GraphQL SPQR aims to make it dead simple to add a GraphQL API to any Java project. It works by dynamically generating a GraphQL schema from Java code.
 
 <a name="lib-c" />
 
@@ -247,6 +267,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Go Libraries
 
 * [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
+* [machinebox/graphql](https://github.com/machinebox/graphql) - Simple low-level GraphQL client for Go
 * [graphql-relay-go](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
 * [graphql-go](https://github.com/neelance/graphql-go) - GraphQL server with a focus on ease of use.
 * [c-graphqlparser](https://github.com/tecbot/c-graphqlparser) - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
@@ -277,6 +298,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Conventions](https://github.com/graphql-dotnet/conventions) - Reflection-based schema generation for .NET.
 * [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET
 * [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp GraphQL.
+* [GraphQL.Client](https://github.com/graphql-dotnet/graphql-client) - GraphQL Client for .NET.
 
 <a name="lib-erlang" />
 
@@ -308,8 +330,10 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
 * [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
-* [PostGraphQL](https://github.com/postgraphql/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema.
+* [PostGraphile](https://github.com/graphile/postgraphile) - A GraphQL API created by reflection over a PostgreSQL schema.
 * [rdbms-to-graphql](https://github.com/ebridges/rdbms-to-graphql) - A Java CLI program that generates a GraphQL schema from a JDBC data source.
+* [Prisma](https://github.com/graphcool/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
+* [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
 
 <a name="lib-lua" />
 
@@ -382,6 +406,12 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [ktq](https://github.com/prestongarno/ktq) - Kotlin gradle plugin SDL type generator & runtime client
 
+<a name="lib-unity" />
+
+### Unity Libraries
+
+* [graphQL-client-unity](https://github.com/Gazuntype/graphQL-client-unity) - A Unity client for GraphQL.
+
 <a name="tools" />
 
 ## Tools
@@ -413,14 +443,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 * [Apollo Launchpad](https://launchpad.graphql.com/) - Like JSFiddle for GraphQL server code, write and deploy a GraphQL API directly from your browser.
 * [Apollo Tracing](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
-* [Altair GraphQL Client](https://github.com/imolorhe/altair) - A graphQL API client for GraphQL (like Postman for graphQL) with chrome and firefox extensions as well as desktop apps for all platforms.
+* [Altair GraphQL Client](https://github.com/imolorhe/altair) - A beautiful feature-rich GraphQL Client for all platforms.
 * [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
 * [GraphQL Metrics](https://github.com/Workpop/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
 * [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 * [Insomnia](https://insomnia.rest/) – An full-featured API client with first-party GraphQL query editor
-* [Prisma](https://github.com/graphcool/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
-* [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
+* [RAN Toolkit](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 
 <a name="databases" />
 
@@ -435,6 +464,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
+* [Hasura](https://hasura.io/) - Create tables and get a GraphQL backend in under 60s. Works on top of Postgres that you can directly access. No initial knowledge of graphql required.
 * [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
 * [Scaphold](https://scaphold.io/) - GraphQL as a service that includes API integrations such as Stripe and Mailgun.
 * [Tipe](https://tipe.io/) - Next Generation API-first CMS with a GraphQL or REST API. Stop letting your CMS decide how you build your apps.
@@ -494,6 +524,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### TypeScript Examples
 * [Basic Apollo Server](https://github.com/DxCx/webpack-graphql-server) - Basic Starter for Apollo Server, Using typescript and Webpack.
 * [Apollo Graphql Express Server](https://github.com/FinalDes/apollo-express-ts-server-boilerplate) - Minimal Apollo Graphql Express Server
+* [Prisma/Apollo/React Full-stack Example](https://github.com/KATT/shop) - An e-commerce example project with Prisma, GraphQL API Gateway, React, Apollo, Next.js, SSR, CI, and E2E testing. All TypeScript.
 
 <a name="example-rb" />
 
@@ -549,6 +580,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 ## Videos
 
+* [Zero-config Apollo + GraphQL with Apollo Boost](https://egghead.io/lessons/react-zero-config-apollo-graphql-with-apollo-boost)
 * [Zero to GraphQL in 30 Minutes](https://www.youtube.com/embed/UBGzsb2UkeY)
 * [Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
 * [React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
@@ -605,6 +637,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [How to implement viewerCanSee in  GraphQL](https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464)
 * [Introducing Yelp's Local Graph](https://engineeringblog.yelp.com/2017/05/introducing-yelps-local-graph.html)
 * [Sharing data in a Microservices Architecture using GraphQL](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
+* [Let's build a node.js GraphQL server for fetching Spotify REST API, in German](https://blog.codecentric.de/2017/09/graphql-mit-spotify-teil-1-server/) |  [in English](https://blog.codecentric.de/en/2017/01/lets-build-spotify-graphql-server/)
 * [“Client-side only” realtime web applications with Firebase, GraphQL and apollo-client 2.0](https://medium.com/@pierrecriulanscy/client-side-only-realtime-web-applications-with-firebase-graphql-and-apollo-client-2-0-9606160f7cf8)
 
 <a name="workshopper" />
