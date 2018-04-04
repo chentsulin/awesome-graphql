@@ -517,6 +517,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [microhn](https://github.com/stubailo/microhn) - Simple Hacker News client built on top of GraphQLHub
 * [Apollo Web&Mobile Universal Starter Kit with Hot Code Reload](https://github.com/sysgears/apollo-universal-starter-kit) -  Apollo, GraphQL, React, React Native, Expo, Redux, Express, SQL and Twitter Bootstrap. Hot Code Reload of back end & front end using Webpack and Hot Module Replacement.
 * [Building Decoupled Sites and Apps with GraphQL and Next.js](https://malloc.fi/building-decoupled-sites-and-apps-with-graphql-and-next-js)
+* [Extensive GitHub Client with React and Apollo](https://github.com/rwieruch/react-graphql-github-apollo)
 
 <a name="example-ts" />
 
