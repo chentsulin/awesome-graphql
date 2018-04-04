@@ -38,6 +38,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Julia](#lib-julia)
 	- [Kotlin](#lib-kotlin)
 	- [Unity](#lib-unity)
+	- [Crystal](#lib-crystal)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -410,6 +411,12 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Unity Libraries
 
 * [graphQL-client-unity](https://github.com/Gazuntype/graphQL-client-unity) - A Unity client for GraphQL.
+
+<a name="lib-crystal" />
+
+### Crystal Libraries
+
+* [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - A graphql implementation for Crystal
 
 <a name="tools" />
 
