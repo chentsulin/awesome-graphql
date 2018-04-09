@@ -190,7 +190,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-schema-decorator](https://github.com/indigotech/graphql-schema-decorator) - This package makes possible the use of decorators to define a GraphQL schema.
 * [graphql-typescript](https://github.com/vichyssoise/graphql-typescript) - Define and build GraphQL Schemas using typed classes
 * [typegql](https://github.com/prismake/typegql) - Create GraphQL schema with type-safe class decorators.
-* [graphql-ts](https://github.com/nicolasgere/graphql-ts) - Graphql implementation in Typescript using decorator
 
 <a name="lib-rb" />
 
