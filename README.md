@@ -158,6 +158,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-disable-introspection](https://github.com/helfer/graphql-disable-introspection) - Graphql Disable Introspection
 * [mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Flexible and robust Mongo based resolvers for Node.
 * [altair-express-middleware](https://github.com/imolorhe/altair) - An express middleware for mounting an instance of Altair GraphQL client.
+* [gql](https://github.com/Mayank1791989/gql) - A graphql language server implementation which watches project files and provides: Schema and Query Validation, Autocompletion, Get Defintion, Find References, Get Info of symbol at position, etc in both schema and query files. It also watch files and auto updates, with support for embedded queries (Relay.QL, gql, others).
 
 ##### Relay Related
 
@@ -455,6 +456,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 * [Insomnia](https://insomnia.rest/) – An full-featured API client with first-party GraphQL query editor
 * [RAN Toolkit](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
+* [Graphql for VSCode](https://github.com/kumarharsh/graphql-for-vscode) - Extension for Visual Studio Code with first class support for graphql authoring and all the VSCode features like Go to Definition, Autocompletion, Linting, and Syntax highlighting for JS(X), TS(X) and many more languages.
 
 <a name="databases" />
 
