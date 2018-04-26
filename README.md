@@ -158,6 +158,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-disable-introspection](https://github.com/helfer/graphql-disable-introspection) - Graphql Disable Introspection
 * [mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Flexible and robust Mongo based resolvers for Node.
 * [altair-express-middleware](https://github.com/imolorhe/altair) - An express middleware for mounting an instance of Altair GraphQL client.
+* [babel-plugin-inline-import-graphql-ast](https://github.com/detrohutt/babel-plugin-inline-import-graphql-ast) - 
+A Babel plugin allowing import of .graphql and .gql files into javascript files.
 
 ##### Relay Related
 
