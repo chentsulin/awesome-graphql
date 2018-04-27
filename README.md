@@ -221,6 +221,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms) - GraphQL Bundle for the eZ Platform Symfony CMS.
 * [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) - GraphQL Psr7 Middleware
 * [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) - GraphiQL extension for zend expressive
+* [GraphQL for PHP7](https://github.com/digiaonline/graphql-php) - A batteries-included, standard-compliant and easy to work with implementation of the GraphQL specification in PHP7 (based on the reference implementation).
 
 <a name="lib-py" />
 
