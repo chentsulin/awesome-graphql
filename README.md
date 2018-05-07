@@ -159,6 +159,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Flexible and robust Mongo based resolvers for Node.
 * [altair-express-middleware](https://github.com/imolorhe/altair) - An express middleware for mounting an instance of Altair GraphQL client.
 * [graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis) - A Graphql query cost analyzer.
+* [gql](https://github.com/Mayank1791989/gql) - Graphql sevice which watches project files and provides validation, autocompletion, get defintion, etc. for GraphQL schema and queries. Works with Relay classic, Relay modern and Apollo, as well as embedded GraphQL queries within any other language such as JS, Golang, Ruby, Cucumber test files, etc.
+* [gql-language-server](https://github.com/Mayank1791989/gql-language-server) - A language-server implementation on top of the [gql](https://github.com/Mayank1791989/gql) library.
 
 ##### Relay Related
 
@@ -428,6 +430,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 * [graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js
+* [Graphql for VSCode](https://github.com/kumarharsh/graphql-for-vscode) - VSCode extension for GraphQL schema authoring & consumption. Uses the language server protocol to provide first-class editing capabilities for graphql devs.
 * [Relay Playground](http://facebook.github.io/relay/prototyping/playground.html)
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
 * [GraphQLHub](https://www.graphqlhub.com/) - Query public API's schemas (e.g. Reddit, Twitter, Github, etc) using GraphiQL
