@@ -39,6 +39,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Kotlin](#lib-kotlin)
 	- [Unity](#lib-unity)
 	- [Crystal](#lib-crystal)
+	- [Wechat APP](#lib-miniprogram)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -420,6 +421,12 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - A graphql implementation for Crystal
 
 <a name="tools" />
+
+### Wechat APP Libraries(mini-program)
+
+* [wxapp-graphql](https://github.com/Authing/wxapp-graphql) - GraphQL client for mini-program(wechat app)
+
+<a name="lib-miniprogram" />
 
 ## Tools
 
