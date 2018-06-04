@@ -469,6 +469,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Services
 
+* [FastQL](https://fastql.io) - GraphQL CDN and API gateway. Cache your GraphQL API results globally, with automatic invalidation.
 * [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
 * [Hasura](https://hasura.io/) - Create tables and get a GraphQL backend in under 60s. Works on top of Postgres that you can directly access. No initial knowledge of graphql required.
