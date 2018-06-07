@@ -525,6 +525,12 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [microhn](https://github.com/stubailo/microhn) - Simple Hacker News client built on top of GraphQLHub
 * [Apollo Web&Mobile Universal Starter Kit with Hot Code Reload](https://github.com/sysgears/apollo-universal-starter-kit) -  Apollo, GraphQL, React, React Native, Expo, Redux, Express, SQL and Twitter Bootstrap. Hot Code Reload of back end & front end using Webpack and Hot Module Replacement.
 * [Building Decoupled Sites and Apps with GraphQL and Next.js](https://malloc.fi/building-decoupled-sites-and-apps-with-graphql-and-next-js)
+* [Extensive React + Apollo + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-apollo)
+* [React + GraphQL GitHub Client](https://github.com/rwieruch/react-graphql-github-vanilla)
+* [A simple React GraphQL Client](https://github.com/rwieruch/react-graphql-client)
+* [Apollo-Link-State in React](https://github.com/rwieruch/react-apollo-link-state-example)
+* [Mocking a Apollo Client in React for Testing](https://github.com/rwieruch/react-apollo-client-mocking-example)
+* [Testing Apollo Client in React](https://github.com/rwieruch/react-apollo-client-testing-example)
 
 <a name="example-ts" />
 
@@ -646,6 +652,8 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Sharing data in a Microservices Architecture using GraphQL](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
 * [Let's build a node.js GraphQL server for fetching Spotify REST API, in German](https://blog.codecentric.de/2017/09/graphql-mit-spotify-teil-1-server/) |  [in English](https://blog.codecentric.de/en/2017/01/lets-build-spotify-graphql-server/)
 * [“Client-side only” realtime web applications with Firebase, GraphQL and apollo-client 2.0](https://medium.com/@pierrecriulanscy/client-side-only-realtime-web-applications-with-firebase-graphql-and-apollo-client-2-0-9606160f7cf8)
+* [Building a complete React with GraphQL Application](https://www.robinwieruch.de/react-with-graphql-tutorial/)
+* [Building a complete React with Apollo and GraphQL Application](https://www.robinwieruch.de/react-graphql-apollo-tutorial/)
 
 <a name="workshopper" />
 
