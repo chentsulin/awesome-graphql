@@ -663,7 +663,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 * [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) - Open source book on GraphQL in Node, Apollo GraphQL, and React
 * [The GraphQL Guide](https://graphql.guide/) - Learn full stack GraphQL across several platforms from John Resig (creator of JQuery) and Loren Sands-Ramshaw
-* [Creaft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) - Written by the creators of Absinthe, this book will help you take full advantage of these two groundbreaking technologies. This book is also included in the Safari books subscription service.
+* [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) - Written by the creators of Absinthe, this book will help you take full advantage of these two groundbreaking technologies. This book is also included in the Safari books subscription service.
 
 ## License
 
