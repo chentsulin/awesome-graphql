@@ -304,6 +304,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET
 * [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp GraphQL.
 * [GraphQL.Client](https://github.com/graphql-dotnet/graphql-client) - GraphQL Client for .NET.
+* [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL Server for .net core and .net classic.
 
 <a name="lib-erlang" />
 
