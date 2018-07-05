@@ -195,6 +195,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-schema-decorator](https://github.com/indigotech/graphql-schema-decorator) - This package makes possible the use of decorators to define a GraphQL schema.
 * [graphql-typescript](https://github.com/vichyssoise/graphql-typescript) - Define and build GraphQL Schemas using typed classes
 * [typegql](https://github.com/prismake/typegql) - Create GraphQL schema with type-safe class decorators.
+* [react-apollo-query-until](https://github.com/deptno/react-apollo-query-until) - GraphQL fetch with end of cursor. It is useful when you requires SSR. It's universal lib. Built on top of apollo-graphql.
 
 <a name="lib-rb" />
 
