@@ -107,7 +107,6 @@ If you want to contribute to this list (please do), send me a pull request.
 ##### Clients
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [Apollo Client](https://github.com/apollographql/apollo-client) - A well-documented GraphQL client. Has React and Angular bindings.
-* [apollo-fetch](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports custom fetch functions, middleware, and afterware
 * [FetchQL](https://github.com/gucheen/FetchQL) - GraphQL query client with Fetch
 * [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux
