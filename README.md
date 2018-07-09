@@ -107,13 +107,13 @@ If you want to contribute to this list (please do), send me a pull request.
 ##### Clients
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [Apollo Client](https://github.com/apollographql/apollo-client) - A well-documented GraphQL client. Has React and Angular bindings.
-* [FetchQL](https://github.com/gucheen/FetchQL) - GraphQL query client with Fetch
+* [aws-amplify](https://github.com/aws/aws-amplify) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
+* [graphql-request](https://github.com/prismagraphql/graphql-request) - A minimal GraphQL client for Node and browsers.
+* [FetchQL](https://github.com/gucheen/FetchQL) - A simple GraphQL query client using Fetch.
+* [urql](https://github.com/FormidableLabs/urql) - A simple caching GraphQL client for React.
+* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lighweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker. 
 * [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
-* [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux
-* [urql](https://github.com/FormidableLabs/urql) - A simpler caching GraphQL client for React
-* [graphql-request](https://github.com/prismagraphql/graphql-request) - A minimal GraphQL client for Node and browsers
-* [aws-amplify](https://github.com/aws/aws-amplify) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries. 
-* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lighweight utility for adding GraphQL to React components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker. 
+* [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux.
 
 ##### Miscellaneous 
 
