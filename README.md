@@ -55,6 +55,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Videos](#video)
 - [Blogs](#blogs)
 - [Posts](#post)
+- [Books](#books)
 - [Workshoppers](#workshopper)
 
 <!-- /MarkdownTOC -->
@@ -657,6 +658,16 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Sharing data in a Microservices Architecture using GraphQL](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
 * [Let's build a node.js GraphQL server for fetching Spotify REST API, in German](https://blog.codecentric.de/2017/09/graphql-mit-spotify-teil-1-server/) |  [in English](https://blog.codecentric.de/en/2017/01/lets-build-spotify-graphql-server/)
 * [“Client-side only” realtime web applications with Firebase, GraphQL and apollo-client 2.0](https://medium.com/@pierrecriulanscy/client-side-only-realtime-web-applications-with-firebase-graphql-and-apollo-client-2-0-9606160f7cf8)
+
+<a name="books" />
+
+## Books
+
+* [The GraphQL Guide](https://graphql.guide) by John Resig and Loren Sands-Ramshaw
+* [Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/) by Eve Porcello and Alex Banks
+* [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) by Julian Mayorga
+* [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) by Bruce Williams and Ben Wilson
+* [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) by Samer Buna
 
 <a name="workshopper" />
 
