@@ -538,6 +538,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [microhn](https://github.com/stubailo/microhn) - Simple Hacker News client built on top of GraphQLHub
 * [Apollo Web&Mobile Universal Starter Kit with Hot Code Reload](https://github.com/sysgears/apollo-universal-starter-kit) -  Apollo, GraphQL, React, React Native, Expo, Redux, Express, SQL and Twitter Bootstrap. Hot Code Reload of back end & front end using Webpack and Hot Module Replacement.
 * [Building Decoupled Sites and Apps with GraphQL and Next.js](https://malloc.fi/building-decoupled-sites-and-apps-with-graphql-and-next-js)
+* [react-apollo-realworld-example-app](https://github.com/dostu/react-apollo-realworld-example-app) - Exemplary real world application built with React + Apollo
 
 <a name="example-ts" />
 
@@ -555,6 +556,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [relay-on-rails](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
 * [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
 * [to_eat_app](https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
+* [rails-graphql-realworld-example-app](https://github.com/dostu/rails-graphql-realworld-example-app) - Exemplary real world backend GraphQL API built with Ruby on Rails.
 
 <a name="example-go" />
 
