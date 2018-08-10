@@ -281,6 +281,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
 * [machinebox/graphql](https://github.com/machinebox/graphql) - Simple low-level GraphQL client for Go
+* [gqlgen](https://github.com/99designs/gqlgen) - Schema first graphql server using codegeneration to remove boilerplate
 * [graphql-relay-go](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
 * [graphql-go](https://github.com/neelance/graphql-go) - GraphQL server with a focus on ease of use.
 * [c-graphqlparser](https://github.com/tecbot/c-graphqlparser) - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
