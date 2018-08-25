@@ -584,6 +584,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Python Examples
 
 * [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](http://graphene-python.org) - [View demo online](http://swapi.graphene-python.org).
+* [swagger-graphene](https://github.com/amritajain/swagger-graphene) - A GraphQL library to convert Swagger schema into dynamic Graphene models and deployed using serverless framework. 
 
 <a name="example-elixir" />
 
