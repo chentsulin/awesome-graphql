@@ -171,6 +171,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis) - A Graphql query cost analyzer.
 * [gql](https://github.com/Mayank1791989/gql) - Graphql sevice which watches project files and provides validation, autocompletion, get defintion, etc. for GraphQL schema and queries. Works with Relay classic, Relay modern and Apollo, as well as embedded GraphQL queries within any other language such as JS, Golang, Ruby, Cucumber test files, etc.
 * [gql-language-server](https://github.com/Mayank1791989/gql-language-server) - A language-server implementation on top of the [gql](https://github.com/Mayank1791989/gql) library.
+* [easygraphql-mock](https://github.com/EasyGraphQL/easygraphql-mock) - Mock your GraphQL schema with few lines of code.
 
 ##### Relay Related
 
