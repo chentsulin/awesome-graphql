@@ -627,7 +627,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [GraphQL Future at react-europe 2016](https://www.youtube.com/watch?v=ViXL0YQnioU)
 * [GraphQL at Facebook at react-europe 2016](https://www.youtube.com/watch?v=etax3aEe2dA)
 * [Building native mobile apps with GraphQL at react-europe 2016](https://www.youtube.com/watch?v=z5rz3saDPJ8)
-
+* [GraphQL in Motion](https://www.manning.com/livevideo/graphql-in-motion)
 <a name="blogs" />
 
 ## Blogs
