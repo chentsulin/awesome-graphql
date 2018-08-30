@@ -485,6 +485,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [ArangoDB](https://www.arangodb.com/) - Multi-model database that supports GraphQL schemas in JavaScript inside the database.
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with a GraphQL like language (called [GraphQL+](https://docs.dgraph.io/query-language/)) as the query language. Dgrapqh can be queried with graphql by using [dgraphql](https://github.com/dpeek/dgraphql)
+* [Stardog](https://stardog.com/) - The leading Enterprise Knowledge Graph that supports a [GraphQL query interface](https://www.stardog.com/docs/#_graphql_queries) so users can query the multitude of data sources -- structured, semi-structured, and unstructured -- exposed as part of the Knowledge Graph.
 
 <a name="services" />
 
