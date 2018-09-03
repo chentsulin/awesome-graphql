@@ -348,6 +348,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [rdbms-to-graphql](https://github.com/ebridges/rdbms-to-graphql) - A Java CLI program that generates a GraphQL schema from a JDBC data source.
 * [Prisma](https://github.com/graphcool/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
 * [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
+* [Hasura](https://github.com/hasura/graphql-engine) - Instant realtime GraphQL APIs on Postgres with access control. Works with existing database.
 
 <a name="lib-lua" />
 
