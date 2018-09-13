@@ -603,6 +603,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Siler's GraphQL guide](https://siler.leocavalcante.com/graphql/) - A guide on how to build a PHP GraphQL endpoint.
 * [Laravel GraphQL](https://github.com/ardani/laravel-graphql) - A sample integrating GraphQL with Laravel
 * [Adding a GraphQL API to your Symfony Flex application](https://symfony.fi/entry/adding-a-graphql-api-to-your-symfony-flex-app)
+* [Simple blog + JWT Auth + GraphQL + Validations](https://github.com/hjJunior/graphQL-laravel) - A basic sample using Auth and validations of input with GraphQL 
 
 <a name="example-reasonml" />
 
