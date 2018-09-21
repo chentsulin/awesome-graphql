@@ -425,8 +425,8 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Courses
 
 - [GraphQL with NodeJs](https://www.udemy.com/learning-graphql-with-nodejs/) - Learning GraphQL with NodeJs for beginners
-- [Graphql Advanced](https://www.udemy.com/graphql-with-nodejs-from-beginner-to-advanced-concepts/) - Learning GraphQl from beginner to Advanced concepts
-- [Graphql with Prisma](https://www.udemy.com/learning-graphql-with-prisma-and-nodejs/) - Learning GraphQL with Prisma and NodeJs
+- [GraphQL Advanced](https://www.udemy.com/graphql-with-nodejs-from-beginner-to-advanced-concepts/) - Learning GraphQL from beginner to Advanced concepts
+- [GraphQL with Prisma](https://www.udemy.com/learning-graphql-with-prisma-and-nodejs/) - Learning GraphQL with Prisma and NodeJs
 - [FullStack Apps with Graphql and React](https://www.udemy.com/build-full-stack-apps-with-graphql/) - Build Full-Stack Apps with GraphQL, Prisma, Node and React
 
 ## License
