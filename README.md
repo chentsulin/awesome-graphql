@@ -66,6 +66,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Specification
 
 * [facebook/graphql](http://facebook.github.io/graphql/) - Working Draft of the Specification for GraphQL created by Facebook.
+* [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases by Prisma.
 
 <a name="community" />
 
