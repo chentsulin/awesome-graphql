@@ -589,6 +589,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Python Examples
 
 * [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](http://graphene-python.org) - [View demo online](http://swapi.graphene-python.org).
+* [Flask-GraphQL-Large-Application-Example](https://github.com/devArtoria/Flask-GraphQL-Large-Application-Example) - A large application example using [flask-graphql](https://github.com/graphql-python/flask-graphql)
 
 <a name="example-elixir" />
 
