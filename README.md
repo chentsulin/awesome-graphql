@@ -33,6 +33,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [ClojureScript](#lib-clojurescript)
 	- [Swift](#lib-swift)
 	- [OCaml](#lib-ocaml)
+	- [ReasonML](#lib-reasonml)
 	- [Rust](#lib-rust)
 	- [R](#lib-r)
 	- [Julia](#lib-julia)
@@ -398,6 +399,12 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
 
+<a name="lib-reasonml" />
+
+### ReasonML Libraries
+
+* [reason-apollo](https://github.com/apollographql/reason-apollo) - GraphQL Client (binding to react-apollo).
+
 <a name="lib-rust" />
 
 ### Rust Libraries
@@ -607,6 +614,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 <a name="example-reasonml" />
 
 ### ReasonML Examples
+* [Realtime chat application](https://github.com/apollographql/reason-apollo/tree/master/examples/realtime-chat-application) - Realtime chat application with reason-apollo (Queries, Mutations, Subscriptions).
 * [Todo list example](https://github.com/Gregoirevda/reason-ml-graphql-todo-list) - A todo list integrating GraphQL.
 
 <a name="video" />
