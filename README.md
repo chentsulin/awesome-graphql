@@ -205,6 +205,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-schema-decorator](https://github.com/indigotech/graphql-schema-decorator) - This package makes possible the use of decorators to define a GraphQL schema.
 * [graphql-typescript](https://github.com/vichyssoise/graphql-typescript) - Define and build GraphQL Schemas using typed classes
 * [typegql](https://github.com/prismake/typegql) - Create GraphQL schema with type-safe class decorators.
+* [graphql-editor](https://github.com/slothking-online/graphql-editor) - Visual GraphQL editor.
 
 <a name="lib-rb" />
 
@@ -216,7 +217,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 * [batch-loader](https://github.com/exaspark/batch-loader) – A powerful tool to avoid N+1 queries without extra dependencies or primitives.
 * [graphql-guard](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization for the graphql gem.
-* [graphql-cache](https://github.com/stackshareio/graphql-cache) - A dead simple caching plugin for graphql-ruby.
+* [graphql-cache](https://github.com/stackshareio/graphql-cache) - A dead simple caching plugin for graphql-ruby.a
 
 <a name="lib-php" />
 
