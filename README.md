@@ -317,6 +317,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) - FSharp GraphQL.
 * [GraphQL.Client](https://github.com/graphql-dotnet/graphql-client) - GraphQL Client for .NET.
 * [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL Server for .net core and .net classic.
+* [Green Donut](https://github.com/ChilliCream/greendonut) - DataLoader for .net core and .net classic.
 
 <a name="lib-erlang" />
 
