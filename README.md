@@ -432,6 +432,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Kotlin Libraries
 
 * [ktq](https://github.com/prestongarno/ktq) - Kotlin gradle plugin SDL type generator & runtime client
+* [graphql-kotlin](https://github.com/ExpediaDotCom/graphql-kotlin) - Code-only GraphQL schema generation for Kotlin
 
 <a name="lib-unity" />
 
