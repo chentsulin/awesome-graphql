@@ -110,6 +110,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ##### Clients
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [Apollo Client](https://github.com/apollographql/apollo-client) - A well-documented GraphQL client. Has React and Angular bindings.
+* [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL
 * [aws-amplify](https://github.com/aws/aws-amplify) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
 * [graphql-request](https://github.com/prismagraphql/graphql-request) - A minimal GraphQL client for Node and browsers.
 * [FetchQL](https://github.com/gucheen/FetchQL) - A simple GraphQL query client using Fetch.
