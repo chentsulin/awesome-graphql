@@ -114,7 +114,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-request](https://github.com/prismagraphql/graphql-request) - A minimal GraphQL client for Node and browsers.
 * [FetchQL](https://github.com/gucheen/FetchQL) - A simple GraphQL query client using Fetch.
 * [urql](https://github.com/FormidableLabs/urql) - A simple caching GraphQL client for React.
-* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lighweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker. 
+* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker. 
 * [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux.
 
@@ -172,7 +172,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Flexible and robust Mongo based resolvers for Node.
 * [altair-express-middleware](https://github.com/imolorhe/altair) - An express middleware for mounting an instance of Altair GraphQL client.
 * [graphql-cost-analysis](https://github.com/pa-bru/graphql-cost-analysis) - A Graphql query cost analyzer.
-* [gql](https://github.com/Mayank1791989/gql) - Graphql sevice which watches project files and provides validation, autocompletion, get defintion, etc. for GraphQL schema and queries. Works with Relay classic, Relay modern and Apollo, as well as embedded GraphQL queries within any other language such as JS, Golang, Ruby, Cucumber test files, etc.
+* [gql](https://github.com/Mayank1791989/gql) - Graphql service which watches project files and provides validation, auto-completion, get defintion, etc. for GraphQL schema and queries. Works with Relay classic, Relay modern and Apollo, as well as embedded GraphQL queries within any other language such as JS, Golang, Ruby, Cucumber test files, etc.
 * [gql-language-server](https://github.com/Mayank1791989/gql-language-server) - A language-server implementation on top of the [gql](https://github.com/Mayank1791989/gql) library.
 
 ##### Relay Related
