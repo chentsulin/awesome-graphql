@@ -254,6 +254,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [python-graphql-client](https://github.com/graphcool/python-graphql-client) - Simple GraphQL client for Python 2.7+
 * [python-graphjoiner](https://github.com/healx/python-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
 * [graphene-django](https://github.com/graphql-python/graphene-django) - A Django integration for Graphene.
+* [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth) - An authentication library for Flask inspired from flask-jwt-extended. 
 
 <a name="lib-java" />
 
@@ -596,6 +597,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Python Examples
 
 * [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](http://graphene-python.org) - [View demo online](http://swapi.graphene-python.org).
+* [Flask-GraphQL-Large-Application-Example](https://github.com/devArtoria/Flask-GraphQL-Large-Application-Example) - A large application example using [flask-graphql](https://github.com/graphql-python/flask-graphql)
 
 <a name="example-elixir" />
 
