@@ -519,7 +519,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### JavaScript Examples
 
-* [Node Apollo Prisma Express React GraphQL](https://github.com/alan345/naperg) - Boilerplate for a Fullstack GraphQL App with React & Prisma
+* [NAPERG: Node Apollo Prisma Express React GraphQL](https://github.com/alan345/naperg) - Boilerplate for a Fullstack GraphQL App with React & Prisma
 * [relay-starter-kit](https://github.com/relayjs/relay-starter-kit) - Barebones starting point for a Relay application.
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate (Node.js/Express, GraphQL, React)
 * [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for authoring data API backends with Node.js and GraphQL
