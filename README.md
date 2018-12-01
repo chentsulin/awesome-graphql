@@ -279,6 +279,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### C/C++ Libraries
 
 * [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
+* [cppgraphqlgen](https://github.com/Microsoft/cppgraphqlgen) - C++ GraphQL schema service generator.
 
 <a name="lib-go" />
 
