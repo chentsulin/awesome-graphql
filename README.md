@@ -365,6 +365,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Elm Libraries
 
+* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Autogenerate type-safe GraphQL queries in Elm.
 * [jamesmacaulay/elm-graphql](https://github.com/jamesmacaulay/elm-graphql) - Client library that lets you build GraphQL queries in Elm.
 * [ghivert/elm-graphql](https://github.com/ghivert/elm-graphql) - Client library that lets you build GraphQL queries in Elm with your own decoders.
 * [jahewson/elm-graphql](https://github.com/jahewson/elm-graphql) - Command-line tool that generates Elm code from queries in .graphql files.
