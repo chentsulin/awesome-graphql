@@ -510,6 +510,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Scaphold](https://scaphold.io/) - GraphQL as a service that includes API integrations such as Stripe and Mailgun.
 * [Tipe](https://tipe.io/) - Next Generation API-first CMS with a GraphQL or REST API. Stop letting your CMS decide how you build your apps.
 * [AWS AppSync](https://aws.amazon.com/appsync/) - Serverless GraphQL
+* [Cloud CMS](https://www.cloudcms.com/documentation/graphql.html) - GraphQL CMS that offers Git-like changeset versioning, branches, query, full-text search, sorting, pagination and a lot more.
 
 <a name="example" />
 
