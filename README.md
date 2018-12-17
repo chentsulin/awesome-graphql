@@ -116,7 +116,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
 * [Graylay](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
 * [react-relay-network-layer](https://github.com/relay-tools/react-relay-network-layer) - A network layer for Relay with query batching and middleware support (urlThunk, retryThunk, auth, defer and other).
-* [relay-subscriptions](https://github.com/edvinerikson/relay-subscriptions) - Subscription support for Relay.
+* [relay-subscriptions](https://github.com/relay-tools/relay-subscriptions) - Subscription support for Relay.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - An example website that fetches data from various apis and uses Relay and GraphQL to feed the data to React components!
 
 <a name="lib-rb" />
