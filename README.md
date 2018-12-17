@@ -63,8 +63,30 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [Slack](https://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/)
 * [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing
-* [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag #graphql
-* [StackOverflow](http://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](http://stackoverflow.com/questions/tagged/graphql)
+* [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag [#graphql](https://twitter.com/search?q=%23GraphQL)
+* [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](http://stackoverflow.com/questions/tagged/graphql)
+* [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs
+* [GraphQL World](https://graphql-world.com) - The fastest growing community of GraphQL developers
+
+<a name="meetups" />
+
+## GraphQL Meetups
+
+* [Bangalore](https://www.meetup.com/GraphQL-Meetup/)
+* [Berlin](https://www.meetup.com/graphql-berlin/)
+* [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
+* [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
+* [Istanbul](https://www.meetup.com/GraphQL-Istanbul/)
+* [London](https://www.meetup.com/GraphQL-London/)
+* [Manchester](https://www.meetup.com/GraphQL-Manchester/)
+* [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
+* [Munich](https://www.meetup.com/GraphQL-Munich/)
+* [New York City](https://www.meetup.com/GraphQL-NYC/)
+* [San Francisco](https://www.meetup.com/GraphQL-SF/)
+* [Seattle](https://www.meetup.com/Seattle-GraphQL/)
+* [Sydney](https://www.meetup.com/GraphQL-Sydney/)
+* [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
+* [Toronto](https://www.meetup.com/GraphQL-Toronto/)
 
 <a name="lib" />
 ## Libraries
