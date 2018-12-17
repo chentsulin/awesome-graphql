@@ -40,6 +40,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Scala](#example-scala)
 	- [Python](#example-python)
 	- [Elixir](#example-elixir)
+	- [Java](#example-java)
 - [Videos](#video)
 - [Blogs](#blogs)
 - [Posts](#post)
@@ -218,6 +219,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
+* [Light Java GraphQL](https://github.com/networknt/light-java-graphql): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema. 
 
 <a name="lib-c" />
 
@@ -447,6 +449,11 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 * [absinthe_example](https://github.com/absinthe-graphql/absinthe_example) - Example usage of Absinthe GraphQL
 * [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - [View demo online](http://playground.graphql-elixir.org).
+
+<a name="example-java" />
+### Java Examples
+
+* [light-java-graphql examples](https://github.com/networknt/light-java-example/tree/master/graphql) - Examples of Light Java GraphQL and [tutorials](https://networknt.github.io/light-java-graphql/tutorials/)
 
 <a name="video" />
 
