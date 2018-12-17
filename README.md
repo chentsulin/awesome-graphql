@@ -521,9 +521,10 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 ## Workshoppers
 
+* [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/) - Total beginner tutorial focused on just GraphQL without all the tooling. Alternates between LEARN and PLAY modes roleplaying as Game of Thrones characters.
+* [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more 
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 * [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
-* [How to GraphQL](https://www.howtographql.com) - The Fullstack Tutorial for GraphQL
 
 ## License
 
