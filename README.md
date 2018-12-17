@@ -22,7 +22,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Scala](#lib-scala)
 	- [.NET](#lib-dotnet)
 	- [Elixir](#lib-elixir)
-	- [Haskell] (#lib-haskell)
+	- [Haskell](#lib-haskell)
 	- [SQL](#lib-sql)
 	- [Lua](#lib-lua)
 	- [Elm](#lib-elm)
@@ -48,6 +48,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <!-- /MarkdownTOC -->
 
 <a name="spec" />
+
 ## Specification
 
 * [facebook/graphql](http://facebook.github.io/graphql/) - Working Draft of the Specification for GraphQL created by Facebook.
@@ -59,6 +60,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Foundation](https://gql.foundation/) - GraphQL Foundation under the Linux Foundation
 
 <a name="community" />
+
 ## Community
 
 * [Slack](https://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/)
@@ -89,12 +91,14 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Toronto](https://www.meetup.com/GraphQL-Toronto/)
 
 <a name="lib" />
+
 ## Libraries
 
 <a name="lib-js" />
+
 ### JavaScript Libraries
 
-##### Clients
+#### Clients
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [Apollo Client](https://github.com/apollographql/apollo-client) - A well-documented GraphQL client. Has React and Angular bindings.
 * [aws-amplify](https://github.com/aws-amplify/amplify-js) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
@@ -105,7 +109,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux.
 
-##### Miscellaneous
+#### Miscellaneous
 
 * [GraphQL.js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
@@ -142,7 +146,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Join Monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 
-##### Relay Related
+#### Relay Related
 
 * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 * [sequelize-relay](https://github.com/MattMcFarland/sequelize-relay) - Serverside library that connects sequelize and graphql-relay-js together.
@@ -158,6 +162,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - An example website that fetches data from various apis and uses Relay and GraphQL to feed the data to React components!
 
 <a name="lib-rb" />
+
 ### Ruby Libraries
 
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
@@ -167,6 +172,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 
 <a name="lib-php" />
+
 ### PHP Libraries
 
 * [graphql-php](https://github.com/webonyx/graphql-php) - A PHP port of GraphQL reference implementation.
@@ -184,6 +190,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) - GraphiQL extension for zend expressive
 
 <a name="lib-py" />
+
 ### Python Libraries
 
 * [graphql-parser](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python.
@@ -200,6 +207,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth) - An authentication library for Flask inspired from flask-jwt-extended.
 
 <a name="lib-java" />
+
 ### Java Libraries
 
 * [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
@@ -212,11 +220,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 
 <a name="lib-c" />
+
 ### C/C++ Libraries
 
 * [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
 
 <a name="lib-go" />
+
 ### Go Libraries
 
 * [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
@@ -227,6 +237,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [go-graphql](https://github.com/playlyfe/go-graphql) - A powerful GraphQL server implementation for Golang
 
 <a name="lib-scala" />
+
 ### Scala Libraries
 
 * [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL client and server library.
@@ -234,12 +245,14 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-scala](https://github.com/hrosenhorn/graphql-scala) - An attempt to get GraphQL going with Scala.
 
 <a name="lib-dotnet" />
+
 ### .NET Libraries
 
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
 * [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET
 
 <a name="lib-elixir" />
+
 ### Elixir Libraries
 
 * [absinthe-graphql](https://github.com/absinthe-graphql/absinthe) - Fully Featured Elixir GraphQL Library.
@@ -251,11 +264,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [plot](https://github.com/peburrows/plot) - GraphQL parser and resolver for Elixir.
 
 <a name="lib-haskell" />
+
 ### Haskell Libraries
 
 * [graphql-haskell](https://github.com/jdnavarro/graphql-haskell) - GraphQL AST and parser for Haskell.
 
 <a name="lib-sql" />
+
 ### SQL Libraries
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
@@ -263,31 +278,37 @@ If you want to contribute to this list (please do), send me a pull request.
 * [PostGraphQL](https://github.com/calebmer/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema.
 
 <a name="lib-lua" />
+
 ### Lua Libraries
 
 * [graphql-lua](https://github.com/bjornbytes/graphql-lua) - GraphQL for Lua.
 
 <a name="lib-elm" />
+
 ### Elm Libraries
 
 * [elm-graphql](https://github.com/jahewson/elm-graphql) - GraphQL for Elm.
 
 <a name="lib-clojure" />
+
 ### Clojure Libraries
 
 * [graphql-clj](https://github.com/tendant/graphql-clj) - A Clojure library designed to provide GraphQL implementation.
 
 <a name="lib-swift" />
+
 ### Swift Libraries
 
 * [GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift implementation for GraphQL.
 
 <a name="lib-ocaml" />
+
 ### OCaml Libraries
 
 * [ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
 
 <a name="tools" />
+
 ## Tools
 
 * [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
@@ -326,11 +347,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
 
 <a name="databases" />
+
 ## Databases
 
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
 
 <a name="services" />
+
 ## Services
 
 * [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
@@ -338,9 +361,11 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
 
 <a name="example" />
+
 ## Examples
 
 <a name="example-js" />
+
 ### JavaScript Examples
 
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate (Node.js/Express, GraphQL, React)
@@ -380,10 +405,13 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [GraphQL Tutorial](https://github.com/rse/graphql-tutorial) - A didactic 12-step introduction to GraphQL, starting from a simple Hello World to a network-based GraphQL server with a built-in GraphQL UI
 
 <a name="example-ts" />
+
 ### TypeScript Examples
+
 * [Basic Apollo Server](https://github.com/DxCx/webpack-graphql-server) - Basic Starter for Apollo Server, Using typescript and Webpack.
 
 <a name="example-rb" />
+
 ### Ruby Examples
 
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - Use graphql-ruby to expose a Rails app.
@@ -393,6 +421,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [to_eat_app] (https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
 
 <a name="example-go" />
+
 ### Go Examples
 
 * [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
@@ -400,23 +429,27 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
 <a name="example-scala" />
+
 ### Scala Examples
 
 * [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](http://sangria-graphql.org)
 * [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
 
 <a name="example-python" />
+
 ### Python Examples
 
 * [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](https://graphene-python.org) - [View demo online](http://swapi.graphene-python.org).
 
 <a name="example-elixir" />
+
 ### Elixir Examples
 
 * [absinthe_example](https://github.com/absinthe-graphql/absinthe_example) - Example usage of Absinthe GraphQL
 * [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - [View demo online](http://playground.graphql-elixir.org).
 
 <a name="video" />
+
 ## Videos
 
 * [Zero to GraphQL in 30 Minutes](https://www.youtube.com/embed/UBGzsb2UkeY)
@@ -439,11 +472,13 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Building native mobile apps with GraphQL at react-europe 2016](https://www.youtube.com/watch?v=z5rz3saDPJ8)
 
 <a name="blogs" />
+
 ## Blogs
 * [Official GraphQL blog](http://graphql.org/blog/)
 * [Building Apollo](https://medium.com/apollo-stack)
 
 <a name="post" />
+
 ## Posts
 
 * [Using DataLoader to batch GraphQL requests](http://gajus.com/blog/9/using-dataloader-to-batch-requests)
@@ -473,6 +508,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [How to implement viewerCanSee in  GraphQL](https://medium.com/@sibelius/how-to-implement-viewercansee-in-graphql-78cc48de7464#.d9vpk6fvx)
 
 <a name="workshopper" />
+
 ## Workshoppers
 
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
