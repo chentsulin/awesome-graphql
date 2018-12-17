@@ -9,6 +9,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <!-- MarkdownTOC depth=4 -->
 
 - [Specification](#spec)
+- [Foundation](#foundation)
 - [Community](#community)
 - [Libraries](#lib)
 	- [Javascript](#lib-js)
@@ -50,6 +51,12 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Specification
 
 * [facebook/graphql](http://facebook.github.io/graphql/) - Working Draft of the Specification for GraphQL created by Facebook.
+
+<a name="foundation" />
+
+## Foundation
+
+* [GraphQL Foundation](https://gql.foundation/) - GraphQL Foundation under the Linux Foundation
 
 <a name="community" />
 ## Community
