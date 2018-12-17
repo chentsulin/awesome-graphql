@@ -68,7 +68,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ##### Clients
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [Apollo Client](https://github.com/apollographql/apollo-client) - A well-documented GraphQL client. Has React and Angular bindings.
-* [aws-amplify](https://github.com/aws/aws-amplify) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
+* [aws-amplify](https://github.com/aws-amplify/amplify-js) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
 * [graphql-request](https://github.com/prismagraphql/graphql-request) - A minimal GraphQL client for Node and browsers.
 * [FetchQL](https://github.com/gucheen/FetchQL) - A simple GraphQL query client using Fetch.
 * [urql](https://github.com/FormidableLabs/urql) - A simple caching GraphQL client for React.
@@ -94,8 +94,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [adrenaline](https://github.com/gyzerok/adrenaline) - React bindings for Redux with Relay in mind.
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
 * [graph.ql](https://github.com/matthewmueller/graph.ql) - Faster and simpler technique for creating and querying GraphQL schemas.
-* [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux
-* [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
 * [Strapi](http://strapi.io/documentation/graphql) - Open-source Node.js framework that supports "GraphQL" out of the box.
 * [GraysQL](https://github.com/larsbs/graysql) - A GraphQL manager and loader.
 * [graysql-orm-loader](https://github.com/larsbs/graysql-orm-loader) - A GraysQL extension to load a GraphQL schema from an ORM.
@@ -112,13 +110,11 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date) - A GraphQL date scalar type to be used with GraphQL.js. This scalar represents a date in the ISO 8601 format YYYY-MM-DD.
 * [graphql-compose](https://github.com/nodkz/graphql-compose) - Tool which allows you to construct flexible graphql schema from different data sources via plugins.
 * [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
-* [FetchQL](https://github.com/gucheen/FetchQL) - GraphQL query client with Fetch
 * [Join Monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 
 ##### Relay Related
 
-* [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 * [sequelize-relay](https://github.com/MattMcFarland/sequelize-relay) - Serverside library that connects sequelize and graphql-relay-js together.
 * [babel-plugin-react-relay](https://github.com/prisma/babel-plugin-react-relay) - Babel Plugin for Relay with support for JSON & graphql-js schemas and URL endpoints.
