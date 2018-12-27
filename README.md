@@ -29,6 +29,8 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Clojure](#lib-clojure)
 	- [Swift](#lib-swift)
 	- [OCaml](#lib-ocaml)
+	- [Android](#lib-android)
+	- [iOS](#lib-ios)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -41,6 +43,8 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Python](#example-python)
 	- [Elixir](#example-elixir)
 	- [Java](#example-java)
+	- [Android](#example-android)
+	- [iOS](#example-ios)
 - [Videos](#video)
 - [Blogs](#blogs)
 - [Posts](#post)
@@ -313,6 +317,18 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
 
+<a name="lib-android" />
+
+### Android Libraries
+
+* [apollo-android](https://github.com/apollographql/apollo-android) - 📟 A strongly-typed, caching GraphQL client for Android, written in Java
+
+<a name="lib-ios" />
+
+### iOS Libraries
+
+* [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
+
 <a name="tools" />
 
 ## Tools
@@ -461,6 +477,18 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Java Examples
 
 * [light-java-graphql examples](https://github.com/networknt/light-java-example/tree/master/graphql) - Examples of Light Java GraphQL and [tutorials](https://networknt.github.io/light-java-graphql/tutorials/)
+
+<a name="example-android" />
+
+### Android Examples
+
+* [apollo-frontpage-android-app](https://github.com/rnitame/apollo-frontpage-android-app) - 📄 Apollo "hello world" app, for Android
+
+<a name="example-ios" />
+
+### iOS Examples
+
+* [frontpage-ios-app](https://github.com/apollographql/frontpage-ios-app) - 📄 Apollo "hello world" app, for iOS
 
 <a name="video" />
 
