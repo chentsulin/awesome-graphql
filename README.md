@@ -66,7 +66,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [Slack](https://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/)
 * [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing
-* [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag [#graphql](https://twitter.com/search?q=%23GraphQL)
+* [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag #graphql
 * [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](http://stackoverflow.com/questions/tagged/graphql)
 * [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs
 * [GraphQL World](https://graphql-world.com) - The fastest growing community of GraphQL developers
@@ -75,11 +75,10 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## GraphQL Meetups
 
-* [Bangalore](https://www.meetup.com/GraphQL-Meetup/)
+* [Bangalore](https://www.meetup.com/graphql-bangalore/)
 * [Berlin](https://www.meetup.com/graphql-berlin/)
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
 * [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
-* [Istanbul](https://www.meetup.com/GraphQL-Istanbul/)
 * [London](https://www.meetup.com/GraphQL-London/)
 * [Manchester](https://www.meetup.com/GraphQL-Manchester/)
 * [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
@@ -220,7 +219,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
-* [Light Java GraphQL](https://github.com/networknt/light-java-graphql): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema. 
+* [Light Java GraphQL](https://github.com/networknt/light-java-graphql): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
 
 <a name="lib-c" />
 
@@ -349,7 +348,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
 * [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 * [Insomnia](https://insomnia.rest/) – An full-featured API client with first-party GraphQL query editor
-* [Prisma](https://github.com/graphcool/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
+* [Prisma](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
 * [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
 * [Bit](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project ([example](https://bitsrc.io/giladshoham/github-graphql)).
 * [RAN Toolkit](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
@@ -525,7 +524,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ## Workshoppers
 
 * [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/) - Total beginner tutorial focused on just GraphQL without all the tooling. Alternates between LEARN and PLAY modes roleplaying as Game of Thrones characters.
-* [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more 
+* [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 * [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
 
