@@ -172,7 +172,6 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Ruby Libraries
 
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
-* [graphql-parser](https://github.com/Shopify/graphql-parser) - A small ruby gem wrapping the libgraphqlparser C library for parsing GraphQL.
 * [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 
@@ -188,9 +187,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-mapper](https://github.com/4rthem/graphql-mapper) - This library allows to build a GraphQL schema based on your model.
 * [graphql-bundle](https://github.com/hoticeking/GraphQLBundle) - GraphQL Bundle for Symfony 2.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
-* [GraphQL](https://github.com/youshido-php/GraphQL) – Well documented PHP implementation with no dependencies.
-* [GraphQL Symfony Bundle](https://github.com/youshido-php/GraphQLBundle) – GraphQL Bundle for the Symfony 3 (supports 2.6+).
-* [graphql-wp](https://github.com/tim-field/graphql-wp) – a WordPress plugin that exposes a GraphQL endpoint.
+* [GraphQL](https://github.com/youshido-php/GraphQL) â€“Â Well documented PHP implementation with no dependencies.
+* [GraphQL Symfony Bundle](https://github.com/youshido-php/GraphQLBundle) â€“Â GraphQL Bundle for the Symfony 3 (supports 2.6+).
+* [graphql-wp](https://github.com/tim-field/graphql-wp) â€“ a WordPress plugin that exposes a GraphQL endpoint.
 * [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms) - GraphQL Bundle for the eZ Platform Symfony CMS.
 * [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) - GraphQL Psr7 Middleware
 * [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) - GraphiQL extension for zend expressive
@@ -324,13 +323,13 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Android Libraries
 
-* [apollo-android](https://github.com/apollographql/apollo-android) - 📟 A strongly-typed, caching GraphQL client for Android, written in Java
+* [apollo-android](https://github.com/apollographql/apollo-android) - ðŸ“Ÿ A strongly-typed, caching GraphQL client for Android, written in Java
 
 <a name="lib-ios" />
 
 ### iOS Libraries
 
-* [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
+* [apollo-ios](https://github.com/apollographql/apollo-ios) - ðŸ“± A strongly-typed, caching GraphQL client for iOS, written in Swift
 
 <a name="tools" />
 
@@ -358,7 +357,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 * [GraphQL Docs](https://graphql-docs.com) - Instantly create beautiful GraphQL API docs hosted online.
-* [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
+* [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - ðŸŽ² Mock or extend your GraphQL API with faked data. No coding required.
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 * [Apollo Launchpad](https://launchpad.graphql.com/) - Like JSFiddle for GraphQL server code, write and deploy a GraphQL API directly from your browser.
 * [Apollo Tracing](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
@@ -367,7 +366,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Metrics](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
 * [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
-* [Insomnia](https://insomnia.rest/) – An full-featured API client with first-party GraphQL query editor
+* [Insomnia](https://insomnia.rest/) â€“Â An full-featured API client with first-party GraphQL query editor
 * [Prisma](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
 * [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
 * [Bit](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project ([example](https://bitsrc.io/giladshoham/github-graphql)).
@@ -454,7 +453,6 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Go Examples
 
 * [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
-* [golang-graphql-playground](https://github.com/graphql-go/playground) - An example Golang GraphQL server written with graphql-go and graphql-relay-go. Try live demo at: http://golanggraphqlplayground-sogko.rhcloud.com
 * [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
 <a name="example-scala" />
@@ -474,26 +472,25 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 ### Elixir Examples
 
-* [absinthe_example](https://github.com/absinthe-graphql/absinthe_example) - Example usage of Absinthe GraphQL
 * [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - [View demo online](http://playground.graphql-elixir.org).
 
 <a name="example-java" />
 
 ### Java Examples
 
-* [light-java-graphql examples](https://github.com/networknt/light-java-example/tree/master/graphql) - Examples of Light Java GraphQL and [tutorials](https://networknt.github.io/light-java-graphql/tutorials/)
+* [light-java-graphql examples](https://github.com/networknt/light-java-example/tree/master/graphql) - Examples of Light Java GraphQL and tutorials.
 
 <a name="example-android" />
 
 ### Android Examples
 
-* [apollo-frontpage-android-app](https://github.com/rnitame/apollo-frontpage-android-app) - 📄 Apollo "hello world" app, for Android
+* [apollo-frontpage-android-app](https://github.com/rnitame/apollo-frontpage-android-app) - ðŸ“„ Apollo "hello world" app, for Android
 
 <a name="example-ios" />
 
 ### iOS Examples
 
-* [frontpage-ios-app](https://github.com/apollographql/frontpage-ios-app) - 📄 Apollo "hello world" app, for iOS
+* [frontpage-ios-app](https://github.com/apollographql/frontpage-ios-app) - ðŸ“„ Apollo "hello world" app, for iOS
 
 <a name="video" />
 
