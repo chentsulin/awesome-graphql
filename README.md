@@ -457,6 +457,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - [View demo online](http://playground.graphql-elixir.org).
 
 <a name="example-java" />
+
 ### Java Examples
 
 * [light-java-graphql examples](https://github.com/networknt/light-java-example/tree/master/graphql) - Examples of Light Java GraphQL and [tutorials](https://networknt.github.io/light-java-graphql/tutorials/)
