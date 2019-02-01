@@ -380,6 +380,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Databases
 
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
+* [Firegraph](https://github.com/sejr/firegraph) - GraphQL Superpowers for Google Cloud Firestore; no GraphQL server required.
 
 <a name="services" />
 
