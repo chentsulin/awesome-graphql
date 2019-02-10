@@ -374,6 +374,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
 * [GRAPHQL DESIGNER](http://graphqldesigner.com/) - A developer's web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
 * [GraphQL Inspector](https://graphql-inspector.com/) - Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage.
+* [graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)
 
 <a name="databases" />
 
