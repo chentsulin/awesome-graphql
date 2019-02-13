@@ -151,6 +151,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [GRelDAL](https://gql-dal.github.io/greldal/) - A simple micro-framework for bidirectional mapping between relational datastores and GraphQL APIs.
+* [GraphiteJS](https://github.com/graphitejs/server) - Framework NodeJS for GraphQl.
 
 #### Relay Related
 
