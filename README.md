@@ -387,7 +387,6 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
-* [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
 
 <a name="example" />
 
