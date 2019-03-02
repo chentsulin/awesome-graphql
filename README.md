@@ -185,9 +185,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL](https://github.com/youshido-php/GraphQL) (*abandoned*) - Well documented PHP implementation with no dependencies.
 * [graphql-relay-php](https://github.com/ivome/graphql-relay-php) - Relay helpers for webonyx/graphql-php implementation of GraphQL.
 * [lighthouse](https://github.com/nuwave/lighthouse) - A PHP package that allows to serve a GraphQL endpoint from your Laravel application.
-* [laravel-graphql](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5.
+* [laravel-graphql](https://github.com/Folkloreatelier/laravel-graphql) (*abandoned*) - Facebook GraphQL for Laravel 5.
 * [laravel-graphql-relay](https://github.com/nuwave/laravel-graphql-relay) - A Laravel library to help construct a server supporting react-relay.
-* [graphql-mapper](https://github.com/4rthem/graphql-mapper) - This library allows to build a GraphQL schema based on your model.
+* [graphql-mapper](https://github.com/4rthem/graphql-mapper) (*abandoned*) - This library allows to build a GraphQL schema based on your model.
 * [graphql-bundle](https://github.com/hoticeking/GraphQLBundle) - GraphQL Bundle for Symfony 2.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
 * [GraphQL Symfony Bundle](https://github.com/youshido-php/GraphQLBundle) - GraphQL Bundle for the Symfony 3 (supports 2.6+).
