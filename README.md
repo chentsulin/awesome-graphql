@@ -114,13 +114,15 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux.
 * [Grafoo](https://github.com/grafoojs/grafoo) - A tiny yet fully fledged cache based GraphQL client
 
+#### HTTP Server Bindings
+* [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
+* [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
+* [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
+* [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
+
 #### Miscellaneous
 
 * [GraphQL.js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
-* [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
-* [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
-* [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
-* [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
 * [codemirror-graphql](https://github.com/graphql/codemirror-graphql) - GraphQL mode and helpers for CodeMirror.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
