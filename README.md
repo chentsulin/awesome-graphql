@@ -31,6 +31,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [OCaml](#lib-ocaml)
 	- [Android](#lib-android)
 	- [iOS](#lib-ios)
+	- [ClojureScript](#lib-clojurescript)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -45,6 +46,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Java](#example-java)
 	- [Android](#example-android)
 	- [iOS](#example-ios)
+	- [Clojure](#example-clojure)
 - [Videos](#video)
 - [Blogs](#blogs)
 - [Posts](#post)
@@ -308,6 +310,8 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Clojure Libraries
 
 * [graphql-clj](https://github.com/tendant/graphql-clj) - A Clojure library designed to provide GraphQL implementation.
+* [Lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure.
+* [graphql-query](https://github.com/district0x/graphql-query) - Clojure(Script) GraphQL query generation.
 
 <a name="lib-swift" />
 
@@ -332,6 +336,13 @@ If you want to contribute to this list (please do), send me a pull request.
 ### iOS Libraries
 
 * [apollo-ios](https://github.com/apollographql/apollo-ios) - ðŸ“± A strongly-typed, caching GraphQL client for iOS, written in Swift
+
+<a name="lib-clojurescript" />
+
+### ClojureScript Libraries
+
+* [re-graph](https://github.com/oliyh/re-graph) - A GraphQL client for ClojureScript with bindings for re-frame applications.
+* [graphql-query](https://github.com/district0x/graphql-query) - Clojure(Script) GraphQL query generation.
 
 <a name="tools" />
 
@@ -493,6 +504,12 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### iOS Examples
 
 * [frontpage-ios-app](https://github.com/apollographql/frontpage-ios-app) - ðŸ“„ Apollo "hello world" app, for iOS
+
+<a name="example-clojure" />
+
+### Clojure Examples
+
+* [Clojure Game Geek](https://github.com/walmartlabs/clojure-game-geek) - Example code for the Lacinia GraphQL framework tutorial.
 
 <a name="video" />
 
