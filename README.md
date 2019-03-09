@@ -231,6 +231,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 * [Light Java GraphQL](https://github.com/networknt/light-java-graphql): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
+* [graphql-spqr](https://github.com/leangen/graphql-spqr): Java 8+ API for rapid development of GraphQL services.
 
 <a name="lib-c" />
 
