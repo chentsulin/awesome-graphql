@@ -181,6 +181,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
 * [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
+* [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
 
 <a name="lib-php" />
 
@@ -236,6 +237,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
+* [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 * [Light Java GraphQL](https://github.com/networknt/light-graphql-4j): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
 
 <a name="lib-c" />
@@ -298,7 +300,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
 * [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
-* [PostGraphQL](https://github.com/graphile/postgraphile ) - A GraphQL schema created by reflection over a PostgreSQL schema.
+* [PostGraphile](https://github.com/graphile/postgraphile) - Lightning-fast GraphQL APIs for PostgreSQL: highly customisable; extensible via plugins; realtime.
 * [Hasura](https://github.com/hasura/graphql-engine) - Hasura gives Instant Realtime GraphQL APIs over PostgreSQL. Works with an existing database too.
 
 <a name="lib-lua" />
@@ -469,6 +471,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [relay-on-rails](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
 * [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
 * [to_eat_app] (https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
+* [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql) - Use of the Agoo server to demonstrate a simple GraphQL application.
 
 <a name="example-go" />
 
@@ -519,6 +522,12 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Clojure Examples
 
 * [Clojure Game Geek](https://github.com/walmartlabs/clojure-game-geek) - Example code for the Lacinia GraphQL framework tutorial.
+
+<a name="example-java" />
+
+### Java Examples
+
+* [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and [graphql-spqr](https://github.com/leangen/GraphQL-SPQR)
 
 <a name="video" />
 
