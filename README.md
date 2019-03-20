@@ -457,6 +457,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Apollo React example for Github GraphQL API](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app
 * [Intuitive GraphQL Resolver Example](https://github.com/xpepermint/graphql-example) - GraphQL application example using [contextable.js](https://github.com/rawmodel/framework).
 * [GraphQL Tutorial](https://github.com/rse/graphql-tutorial) - A didactic 12-step introduction to GraphQL, starting from a simple Hello World to a network-based GraphQL server with a built-in GraphQL UI
+* [Serverless Apollo Graphql](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) - Boilerplate to start you Apollo graphql server in AWS using serverless framework
 
 <a name="example-ts" />
 
