@@ -184,6 +184,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 * [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
+* [GQLi](https://github.com/contentful-labs/gqli.rb) - A GraphQL client and DSL. Allowing to write queries in native Ruby.
 
 <a name="lib-php" />
 
