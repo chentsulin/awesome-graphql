@@ -32,6 +32,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Android](#lib-android)
 	- [iOS](#lib-ios)
 	- [ClojureScript](#lib-clojurescript)
+	- [ReasonML](#lib-reasonml)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -357,6 +358,13 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [re-graph](https://github.com/oliyh/re-graph) - A GraphQL client for ClojureScript with bindings for re-frame applications.
 * [graphql-query](https://github.com/district0x/graphql-query) - Clojure(Script) GraphQL query generation.
+
+<a name="lib-reasonml" />
+
+### ReasonML Libraries
+
+* [reason-apollo](https://github.com/apollographql/reason-apollo) - ReasonML binding for Apollo Client
+* [ReasonQL](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL Client for ReasonML developers.
 
 <a name="tools" />
 
