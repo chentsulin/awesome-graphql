@@ -318,7 +318,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Elm Libraries
 
-* [elm-graphql](https://github.com/jahewson/elm-graphql) - GraphQL for Elm.
+* [elm-graphql](https://github.com/dillonkearns/elm-graphql) - GraphQL for Elm.
 
 <a name="lib-clojure" />
 
