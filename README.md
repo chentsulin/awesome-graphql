@@ -244,6 +244,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 * [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 * [Light Java GraphQL](https://github.com/networknt/light-graphql-4j): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
+* [graphql-schema-from-introspection-generator](https://github.com/mstachniuk/graphql-schema-from-introspection-generator) - A Java CLI program that generates a GraphQL schema from Introspection Query result. Useful for migration from Code First.
+* [graphql-braid](https://bitbucket.org/atlassian/graphql-braid) - Schema stitching: combines GraphQL backends into one schema.
 
 <a name="lib-c" />
 
@@ -382,6 +384,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Annotated GraphQL Server](https://github.com/almilo/annotated-graphql-server) - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
 * [Model Visualizer](http://nathanrandal.com/graphql-visualizer/) - A small webapp that generates an ERD-like visualization of a GraphQL endpoint from an introspection query.
 * [GraphQL Network](https://github.com/Ghirro/graphql-network) - A chrome dev-tools extension for debugging GraphQL network requests.
+* [Graphql network](https://chrome.google.com/webstore/detail/graphql-network/heepefiemgemnimbnddkicplokhigneh) - A Chrome Devtool page to debug graphql calls.
 * [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - An ESLint plugin that checks your GraphQL strings against a schema.
 * [AST Explorer](https://astexplorer.net/) - Select "GraphQL" at the top, explore the GraphQL AST and highlight different parts by clicking in the query.
 * [vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
