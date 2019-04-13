@@ -412,6 +412,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GRAPHQL DESIGNER](http://graphqldesigner.com/) - A developer's web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
 * [GraphQL Inspector](https://graphql-inspector.com/) - Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage.
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)
+* [OASGraph](https://github.com/strongloop/oasgraph) - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - One minute video and resources [here](https://v4.loopback.io/oasgraph.html)
 
 <a name="databases" />
 
