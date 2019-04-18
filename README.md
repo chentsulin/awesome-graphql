@@ -32,6 +32,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Android](#lib-android)
 	- [iOS](#lib-ios)
 	- [ClojureScript](#lib-clojurescript)
+	- [ReasonML](#lib-reasonml)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -83,6 +84,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## GraphQL Meetups
 
+* [Amsterdam](https://www.meetup.com/Amsterdam-GraphQL-Meetup/)
 * [Bangalore](https://www.meetup.com/graphql-bangalore/)
 * [Berlin](https://www.meetup.com/graphql-berlin/)
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
@@ -97,7 +99,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Sydney](https://www.meetup.com/GraphQL-Sydney/)
 * [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
 * [Toronto](https://www.meetup.com/GraphQL-Toronto/)
-* [Amsterdam](https://www.meetup.com/Amsterdam-GraphQL-Meetup/)
+* [Wrocław](https://www.meetup.com/GraphQL-Wroclaw/)
 
 <a name="lib" />
 
@@ -207,6 +209,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms) - GraphQL Bundle for the eZ Platform Symfony CMS.
 * [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) - GraphQL Psr7 Middleware
 * [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) - GraphiQL extension for zend expressive
+* [GraphQLite](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
 
 <a name="lib-py" />
 
@@ -318,7 +321,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Elm Libraries
 
-* [elm-graphql](https://github.com/jahewson/elm-graphql) - GraphQL for Elm.
+* [elm-graphql](https://github.com/dillonkearns/elm-graphql) - GraphQL for Elm.
 
 <a name="lib-clojure" />
 
@@ -358,6 +361,13 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [re-graph](https://github.com/oliyh/re-graph) - A GraphQL client for ClojureScript with bindings for re-frame applications.
 * [graphql-query](https://github.com/district0x/graphql-query) - Clojure(Script) GraphQL query generation.
+
+<a name="lib-reasonml" />
+
+### ReasonML Libraries
+
+* [reason-apollo](https://github.com/apollographql/reason-apollo) - ReasonML binding for Apollo Client
+* [ReasonQL](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL Client for ReasonML developers.
 
 <a name="tools" />
 
@@ -403,6 +413,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GRAPHQL DESIGNER](http://graphqldesigner.com/) - A developer's web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
 * [GraphQL Inspector](https://graphql-inspector.com/) - Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage.
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)
+* [OASGraph](https://github.com/strongloop/oasgraph) - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - One minute video and resources [here](https://v4.loopback.io/oasgraph.html)
 
 <a name="databases" />
 
