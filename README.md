@@ -33,6 +33,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [iOS](#lib-ios)
 	- [ClojureScript](#lib-clojurescript)
 	- [ReasonML](#lib-reasonml)
+	- [Dart](#lib-dart)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -368,6 +369,13 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [reason-apollo](https://github.com/apollographql/reason-apollo) - ReasonML binding for Apollo Client
 * [ReasonQL](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL Client for ReasonML developers.
+
+<a name="lib-dart" />
+
+### Dart Libraries
+* [Angel GraphQL](https://github.com/angel-dart/graphql) - GraphQL server implementation with bindings
+for the Angel framework.
+* [graphql-flutter](https://github.com/zino-app/graphql-flutter) - A GraphQL client for Flutter.
 
 <a name="tools" />
 
