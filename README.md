@@ -165,6 +165,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [GraphiteJS](https://github.com/graphitejs/server) - Framework NodeJS for GraphQl.
+* [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - The ultimate GraphQL scaffolding tool.
 
 #### Relay Related
 
