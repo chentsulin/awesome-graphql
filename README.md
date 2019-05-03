@@ -80,6 +80,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs
 * [GraphQL World](https://graphql-world.com) - The fastest growing community of GraphQL developers
 * [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
+* [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 
 <a name="meetups" />
 
