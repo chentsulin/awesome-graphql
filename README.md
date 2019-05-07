@@ -430,6 +430,7 @@ for the Angel framework.
 ## Databases
 
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
+* [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
 
 <a name="services" />
 
