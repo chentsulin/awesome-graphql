@@ -630,6 +630,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Github GraphQL API React Example](https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61)
 * [Testing a GraphQL Server using Jest](https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e)
 * [How to implement viewerCanSee in  GraphQL](https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464)
+* [How to Leverage GraphQL with a Headless CMS [Takeshape Tutorial]](https://snipcart.com/blog/headless-cms-graphql-takeshape-tutorial)
 
 <a name="workshopper" />
 
