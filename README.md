@@ -81,6 +81,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL World](https://graphql-world.com) - The fastest growing community of GraphQL developers
 * [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
 * [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
+* [Bookmarks.dev](https://www.bookmarks.dev/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.bookmarks.dev/tagged/graphql)
 
 <a name="meetups" />
 
