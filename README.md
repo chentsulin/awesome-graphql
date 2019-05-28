@@ -425,6 +425,7 @@ for the Angel framework.
 * [GraphQL Inspector](https://graphql-inspector.com/) - Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage.
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)
 * [OASGraph](https://github.com/strongloop/oasgraph) - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - One minute video and resources [here](https://v4.loopback.io/oasgraph.html)
+* [gqlmerge](https://github.com/mattdamon108/gqlmerge) - A tool to merge & stitch the modularized GraphQL schema files into one schema
 
 <a name="databases" />
 
@@ -509,6 +510,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 * [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
 * [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
+* [go-graphql-api-boilerplate](https://github.com/mattdamon108/go-graphql-api-boilerplate) - A Boilerplate of GraphQL API built in Go with graphql-go, gorm, gqlmerge
 
 <a name="example-scala" />
 
