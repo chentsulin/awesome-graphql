@@ -425,6 +425,7 @@ for the Angel framework.
 * [GraphQL Inspector](https://graphql-inspector.com/) - Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage.
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)
 * [OASGraph](https://github.com/strongloop/oasgraph) - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - One minute video and resources [here](https://v4.loopback.io/oasgraph.html)
+* [SwitchQL](https://github.com/SwitchQL/SwitchQL) - Automated transcription of database schemas into GraphQL schemas, resolvers, queries, and mutations
 
 <a name="databases" />
 
