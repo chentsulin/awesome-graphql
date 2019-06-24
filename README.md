@@ -35,6 +35,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [ReasonML](#lib-reasonml)
 	- [Dart](#lib-dart)
 	- [Rust](#lib-rust)
+	- [D](#lib-d)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -389,6 +390,12 @@ for the Angel framework.
 * [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
+
+< name="lib-d" />
+
+### D (dlang) Libraries
+
+* [graphqld](http://github.com/burner/graphqld) - GraphQL server library for D.
 
 <a name="tools" />
 
