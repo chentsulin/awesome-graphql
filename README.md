@@ -395,7 +395,7 @@ for the Angel framework.
 
 ### D (dlang) Libraries
 
-* [graphqld](http://github.com/burner/graphqld) - GraphQL server library for D.
+* [graphqld](https://github.com/burner/graphqld) - GraphQL server library for D.
 
 <a name="tools" />
 
