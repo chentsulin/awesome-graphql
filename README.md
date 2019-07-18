@@ -36,6 +36,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Dart](#lib-dart)
 	- [Rust](#lib-rust)
 	- [D](#lib-d)
+	- [R](#lib-r)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -393,11 +394,19 @@ for the Angel framework.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
 
-< name="lib-d" />
+<a name="lib-d" />
 
 ### D (dlang) Libraries
 
 * [graphqld](https://github.com/burner/graphqld) - GraphQL server library for D.
+
+<a name="lib-r" />
+
+### R (Rstat) Libraries
+
+* [ghql](https://github.com/ropensci/ghql) - General purpose GraphQL R client
+* [graphql](https://github.com/ropensci/graphql) - Bindings to the 'libgraphqlparser' C++ library. Parses GraphQL syntax and exports the AST in JSON format.
+* [gqlr](https://github.com/schloerke/gqlr) - R GraphQL Implementation
 
 <a name="tools" />
 
