@@ -13,7 +13,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Community](#community)
 - [Libraries](#lib)
 	- [Javascript](#lib-js)
-        - [Typescript](#lib-ts)
+	- [Typescript](#lib-ts)
 	- [Ruby](#lib-rb)
 	- [PHP](#lib-php)
 	- [Python](#lib-py)
