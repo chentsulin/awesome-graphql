@@ -364,6 +364,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### iOS Libraries
 
 * [apollo-ios](https://github.com/apollographql/apollo-ios) - ðŸ“± A strongly-typed, caching GraphQL client for iOS, written in Swift
+* [ApolloDeveloperKit](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client Devtools bridge for [Apollo iOS].
 
 <a name="lib-clojurescript" />
 
