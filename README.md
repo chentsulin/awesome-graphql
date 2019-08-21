@@ -105,6 +105,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
 * [Toronto](https://www.meetup.com/GraphQL-Toronto/)
 * [Wrocław](https://www.meetup.com/GraphQL-Wroclaw/)
+* [Zurich](https://www.meetup.com/GraphQL-Zurich/)
 
 <a name="lib" />
 
@@ -467,6 +468,7 @@ for the Angel framework.
 * [FastQL](https://fastql.io/) - CDN specifically for GraphQL applications
 * [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
+* [FakeQL](https://fakeql.com/) - GraphQL API mocking as a service ... because GraphQL API mocking should be easy!
 
 <a name="example" />
 
