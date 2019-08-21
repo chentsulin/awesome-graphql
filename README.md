@@ -105,6 +105,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
 * [Toronto](https://www.meetup.com/GraphQL-Toronto/)
 * [Wrocław](https://www.meetup.com/GraphQL-Wroclaw/)
+* [Singapore](https://www.meetup.com/GraphQL-SG/)
 * [Zurich](https://www.meetup.com/GraphQL-Zurich/)
 
 <a name="lib" />
