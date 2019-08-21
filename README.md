@@ -171,6 +171,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [GraphiteJS](https://github.com/graphitejs/server) - Framework NodeJS for GraphQl.
 * [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - The ultimate GraphQL scaffolding tool.
+* [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - Implementation of GraphQL based on RxJS and that supports live queries.
 
 #### Relay Related
 
