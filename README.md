@@ -106,6 +106,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Toronto](https://www.meetup.com/GraphQL-Toronto/)
 * [Wrocław](https://www.meetup.com/GraphQL-Wroclaw/)
 * [Singapore](https://www.meetup.com/GraphQL-SG/)
+* [Zurich](https://www.meetup.com/GraphQL-Zurich/)
 
 <a name="lib" />
 
@@ -172,6 +173,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [GraphiteJS](https://github.com/graphitejs/server) - Framework NodeJS for GraphQl.
 * [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - The ultimate GraphQL scaffolding tool.
+* [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - Implementation of GraphQL based on RxJS and that supports live queries.
 
 #### Relay Related
 
@@ -364,6 +366,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### iOS Libraries
 
 * [apollo-ios](https://github.com/apollographql/apollo-ios) - ðŸ“± A strongly-typed, caching GraphQL client for iOS, written in Swift
+* [ApolloDeveloperKit](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client Devtools bridge for [Apollo iOS].
 
 <a name="lib-clojurescript" />
 
@@ -446,6 +449,7 @@ for the Angel framework.
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)
 * [OASGraph](https://github.com/strongloop/oasgraph) - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - One minute video and resources [here](https://v4.loopback.io/oasgraph.html)
 * [SwitchQL](https://github.com/SwitchQL/SwitchQL) - Automated transcription of database schemas into GraphQL schemas, resolvers, queries, and mutations
+* [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 
 <a name="databases" />
 
@@ -465,6 +469,7 @@ for the Angel framework.
 * [FastQL](https://fastql.io/) - CDN specifically for GraphQL applications
 * [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
+* [FakeQL](https://fakeql.com/) - GraphQL API mocking as a service ... because GraphQL API mocking should be easy!
 
 <a name="example" />
 
