@@ -397,18 +397,18 @@ for the Angel framework.
 * [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
-
-<a name="lib-julia" />
-
-### Julia Libraries
-
- * [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  A Julia GraphQL client/server implementation.
  
 <a name="lib-d" />
 
 ### D (dlang) Libraries
 
 * [graphqld](https://github.com/burner/graphqld) - GraphQL server library for D.
+
+<a name="lib-julia" />
+
+### Julia Libraries
+
+ * [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  A Julia GraphQL client/server implementation.
 
 <a name="tools" />
 
