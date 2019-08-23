@@ -35,6 +35,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [ReasonML](#lib-reasonml)
 	- [Dart](#lib-dart)
 	- [Rust](#lib-rust)
+	- [Julia](#lib-julia)
 	- [D](#lib-d)
 - [Tools](#tools)
 - [Services](#services)
@@ -397,7 +398,13 @@ for the Angel framework.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
 
-< name="lib-d" />
+<a name="lib-julia" />
+
+### Julia Libraries
+
+ * [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  A Julia GraphQL client/server implementation.
+ 
+<a name="lib-d" />
 
 ### D (dlang) Libraries
 
