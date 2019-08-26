@@ -84,6 +84,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
 * [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 * [Bookmarks.dev](https://www.bookmarks.dev/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.bookmarks.dev/tagged/graphql)
+* [GraphQL Custom Scalars](https://www.graphqlscalars.com/) - Search graphql custom scalars across Javascript, Java, PHP, Go, Scala, etc...
 
 <a name="meetups" />
 
@@ -671,6 +672,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 * [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
+* [GraphQL Workshops](https://graphqlworkshop.io/) - Learn the new standard for app development in this hands-on workshop.
 
 ## License
 
