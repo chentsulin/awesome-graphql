@@ -388,6 +388,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Angel GraphQL](https://github.com/angel-dart/graphql) - GraphQL server implementation with bindings
 for the Angel framework.
 * [graphql-flutter](https://github.com/zino-app/graphql-flutter) - A GraphQL client for Flutter.
+* [Artemis](https://github.com/comigor/artemis) - A GraphQL type and query generator for Dart/Flutter.
 
 <a name="lib-rust" />
 
