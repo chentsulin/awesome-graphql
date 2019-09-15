@@ -566,6 +566,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Java Examples
 
 * [light-java-graphql examples](https://github.com/networknt/light-example-4j/tree/master/graphql) - Examples of Light Java GraphQL and tutorials.
+* [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR
 
 <a name="example-android" />
 
@@ -584,12 +585,6 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Clojure Examples
 
 * [Clojure Game Geek](https://github.com/walmartlabs/clojure-game-geek) - Example code for the Lacinia GraphQL framework tutorial.
-
-<a name="example-java" />
-
-### Java Examples
-
-* [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR
 
 <a name="book" />
 
