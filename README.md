@@ -381,6 +381,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [reason-apollo](https://github.com/apollographql/reason-apollo) - ReasonML binding for Apollo Client
 * [ReasonQL](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL Client for ReasonML developers.
+* [reason-urql](https://github.com/FormidableLabs/reason-urql) - ReasonML binding for urql Client
 
 <a name="lib-dart" />
 
