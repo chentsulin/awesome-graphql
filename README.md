@@ -71,7 +71,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Foundation
 
-* [GraphQL Foundation](https://gql.foundation/) - GraphQL Foundation under the Linux Foundation
+* [GraphQL Foundation](https://foundation.graphql.org/) - GraphQL Foundation under the Linux Foundation
 
 <a name="community" />
 
