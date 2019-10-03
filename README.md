@@ -499,7 +499,7 @@ for the Angel framework.
 * [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
 * [FakeQL](https://fakeql.com/) - GraphQL API mocking as a service ... because GraphQL API mocking should be easy!
-* [CRM](https://github.com/tungphuong/crm) - A simplified contact management system made in a microservice architecture using [Hot Chocolate GraphQL](https://github.com/ChilliCream/hotchocolate) and .Net Core 3.0
+* [CRM](https://github.com/tungphuong/crm) - A simplified contact management system made in a microservice architecture using [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) GraphQL and .Net Core 3.0
 
 <a name="example" />
 
