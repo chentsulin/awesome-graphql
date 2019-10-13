@@ -234,7 +234,8 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Python Libraries
 
 * [graphql-parser](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python.
-* [graphql-core](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python.
+* [graphql-core](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python based on GraphQL.js v0.6.0 reference implementation
+* [graphql-core-next](https://github.com/graphql-python/graphql-core-next) - Latest GraphQL implementation based on GraphQL.js v14.5.6 reference implementation
 * [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a graphql-py server supporting react-relay.
 * [graphql-parser-python](https://github.com/tallstreet/graphql-parser-python) - A python wrapper around libgraphqlparser.
 * [graphene](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
