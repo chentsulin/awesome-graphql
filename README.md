@@ -693,6 +693,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [REST vs GraphQL](https://www.moesif.com/blog/technical/graphql/REST-vs-GraphQL-APIs-the-good-the-bad-the-ugly/)
 * [Authentication and Authorization for GraphQL APIs](https://www.moesif.com/blog/technical/api-design/Steps-to-Building-Authentication-and-Authorization-For-GraphQL-APIs/)
 * [Build a GraphQL API with Siler on top of Swoole](https://www.swoole.co.uk/article/Build-a-GraphQL-API-on-top-of-Swoole)
+* [GraphQL - A Practical Overview and Hands-On Tutorial](https://codeahoy.com/2019/10/13/graphql-practical-tutorial/)
 
 <a name="workshopper" />
 
