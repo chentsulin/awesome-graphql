@@ -475,6 +475,7 @@ for the Angel framework.
 * [SwitchQL](https://github.com/SwitchQL/SwitchQL) - Automated transcription of database schemas into GraphQL schemas, resolvers, queries, and mutations
 * [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 * [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
+* [graphql-codegen-hasura](https://github.com/ahrnee/graphql-codegen-hasura) - code-generator plugins for hasura/apollo-gql/typescript development
 
 <a name="databases" />
 
