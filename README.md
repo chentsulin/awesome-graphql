@@ -132,6 +132,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux.
 * [Grafoo](https://github.com/grafoojs/grafoo) - A tiny yet fully fledged cache based GraphQL client
 * [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL
+* [offix](https://github.com/aerogear/offix) - Offline support for ApolloGraphQL and URQL
+
 
 #### HTTP Server Bindings
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
@@ -178,6 +180,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphiteJS](https://github.com/graphitejs/server) - Framework NodeJS for GraphQl.
 * [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - The ultimate GraphQL scaffolding tool.
 * [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - Implementation of GraphQL based on RxJS and that supports live queries.
+* [Graphback](https://github.com/aerogear/graphback) - Generate your GraphQL enabled server and client in seconds
 
 #### Relay Related
 
