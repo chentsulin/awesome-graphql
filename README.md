@@ -18,6 +18,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [PHP](#lib-php)
 	- [Python](#lib-py)
 	- [Java](#lib-java)
+	- [Kotlin](#lib-kotlin)
 	- [C/C++](#lib-c)
 	- [Go](#lib-go)
 	- [Scala](#lib-scala)
@@ -272,6 +273,12 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 * [Light Java GraphQL](https://github.com/networknt/light-graphql-4j): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
 * [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database. 
+
+<a name="lib-kotlin" />
+
+### Kotlin Libraries
+
+* [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - GraphQL Kotlin implementation.
 
 <a name="lib-c" />
 
