@@ -132,6 +132,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux.
 * [Grafoo](https://github.com/grafoojs/grafoo) - A tiny yet fully fledged cache based GraphQL client
 * [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL
+* [kikstart-graphql-client](https://github.com/beeman/kikstart-graphql-client) - Small NodeJS Wrapper around apollo-client that provides easy access to running queries, mutations and subscriptions.
 
 #### HTTP Server Bindings
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
