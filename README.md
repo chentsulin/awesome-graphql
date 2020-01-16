@@ -542,6 +542,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Intuitive GraphQL Resolver Example](https://github.com/xpepermint/graphql-example) - GraphQL application example using [contextable.js](https://github.com/rawmodel/framework).
 * [GraphQL Tutorial](https://github.com/rse/graphql-tutorial) - A didactic 12-step introduction to GraphQL, starting from a simple Hello World to a network-based GraphQL server with a built-in GraphQL UI
 * [Serverless Apollo Graphql](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) - Boilerplate to start you Apollo graphql server in AWS using serverless framework
+* [Next.js TypeScript and GraphQL Example](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - A type-protected GraphQL example on Next.js running [graphql-codegen](https://graphql-code-generator.com/) under the hood
 
 <a name="example-ts" />
 
