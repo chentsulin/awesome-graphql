@@ -151,6 +151,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-tools-sequelize](https://github.com/rse/graphql-tools-sequelize) - OO-style schema definition functions and schema resolver functions for GraphQL-Tools using Sequelize ORM
 * [graysql-orm-loader](https://github.com/larsbs/graysql-orm-loader) - A GraysQL extension to load a GraphQL schema from an ORM.
 * [GRelDAL](https://gql-dal.github.io/greldal/) - A simple micro-framework for bidirectional mapping between relational datastores and GraphQL APIs.
+* [fireQL](https://github.com/Illuday/fireQL) - A GraphQL API for Firebase (Firestore database), auto-hosted on cloud functions.
 
 #### Miscellaneous
 
