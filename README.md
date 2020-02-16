@@ -186,6 +186,11 @@ If you want to contribute to this list (please do), send me a pull request.
 * [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - Implementation of GraphQL based on RxJS and that supports live queries.
 * [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Preact integration for urql.
 * [graphql-let](https://github.com/piglovesyou/graphql-let) - A webpack loader to import type-protected codegen results directly from GraphQL documents
+* [GraphQL Config](https://github.com/kamilkisiela/graphql-config): One configuration for all your GraphQL tools (supported by most tools, editors & IDEs).
+* [GraphQL CLI](https://github.com/urigo/graphql-cli): A command line tool for common GraphQL development workflows.
+* [GraphQL Scalars](https://github.com/Urigo/graphql-scalars): A library of custom GraphQL scalar types for creating precise, type-safe GraphQL schemas.
+* [GraphQL Toolkit](https://github.com/ardatan/graphql-toolkit): A set of utils for faster development of GraphQL tools (Schema and documents loading, Schema merging and more).
+* [SOFA](https://github.com/Urigo/sofa): Generate REST API from your GraphQL API.
 
 #### Relay Related
 
@@ -206,6 +211,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### TypeScript Libraries
 
 * [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
+* [GraphQL Code Generator](https://graphql-code-generator.com): GraphQL code generator with flexible support for custom plugins and templates like Typescript (frontend and backend), React Hooks, resolvers signatures and more.
 
 <a name="lib-rb" />
 
