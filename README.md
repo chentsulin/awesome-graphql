@@ -39,6 +39,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Rust](#lib-rust)
 	- [D](#lib-d)
 	- [Julia](#lib-julia)	
+	- [Crystal](#lib-crystal)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
@@ -442,7 +443,13 @@ for the Angel framework.
 
 ### Julia Libraries
 
- * [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  A Julia GraphQL client/server implementation.
+ * [Diana.jl](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
+
+<a name="lib-crystal" />
+
+### Crystal Libraries
+
+* [GraphQL](https://gitlab.com/everbase/graphql) - GraphQL server library for Crystal.
 
 <a name="tools" />
 
