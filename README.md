@@ -38,7 +38,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Dart](#lib-dart)
 	- [Rust](#lib-rust)
 	- [D](#lib-d)
-	- [Julia](#lib-julia)    
+	- [Julia](#lib-julia)
 - [Tools](#tools)
 - [Services](#services)
 - [Databases](#databases)
