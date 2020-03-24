@@ -683,7 +683,6 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [The Guild blog](https://medium.com/the-guild)
 * [Production Ready GraphQL blog](https://productionreadygraphql.com)
 
-
 <a name="post" />
 
 ## Posts
