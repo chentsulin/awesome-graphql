@@ -493,6 +493,7 @@ for the Angel framework.
 * [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 * [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
+* [InQL Scanner](https://blog.doyensec.com/2020/03/26/graphql-scanner.html) - Python Library and Burp Extension able to document and operate on black box APIs.
 
 <a name="databases" />
 
