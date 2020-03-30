@@ -554,6 +554,9 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Modelizr Documentation](https://julienvincent.io/modelizr/) - Documentation and Usage Examples for modelizr
 * [Vue Apollo Example](https://github.com/Akryum/frontpage-vue-app) - Apollo example project for Vue 2.0.
 * [angular2-graphql-rest](https://github.com/kamilkisiela/angular2-graphql-rest) - An example app with REST Api working side by side with GraphQL using Apollo Client with angular2-apollo. Includes step-by-step tutorial how to migrate from REST to GraphQL.
+* [Growing React + Apollo + GraphQL Gitlab Client](https://github.com/ruchika06/QraphQlRoot)
+* [React + GraphQL GitHub Client](https://github.com/ruchika06/react-graphql-apollo-vanilla)
+* [A simple React GraphQL Client](https://github.com/rwieruch/react-apollo-client)
 * [GraphQL-DataLoader-Boilerplate](https://github.com/entria/graphql-dataloader-boilerplate) - Boilerplate to start your GraphQL with DataLoader server
 * [GraphQL-CEP](https://github.com/sibelius/graphql-cep) - Query address by CEP
 * [Apollo React example for Github GraphQL API](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app
@@ -564,6 +567,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 <a name="example-ts" />
 
+@@ -646,6 +652,8 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### TypeScript Examples
 
 * [Basic Apollo Server](https://github.com/DxCx/webpack-graphql-server) - Basic Starter for Apollo Server, Using typescript and Webpack.
