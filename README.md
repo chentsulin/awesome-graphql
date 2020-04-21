@@ -326,6 +326,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
 * [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
+* [graphql-controller](https://github.com/aleGuardiola/Graphql-Controller) - Strong typed .Net for graphql.
 * [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
 
 <a name="lib-elixir" />
