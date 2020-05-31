@@ -138,6 +138,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL
 * [graphql-pino-middleware](https://github.com/addityasingh/graphql-pino-middleware) - GraphQL middleware to augment resolvers with pino logger
 * [graphql-lightstep-middleware](https://github.com/addityasingh/graphql-lightstep-middleware) - GraphQL middleware to instrument resolvers with `lightstep` traces
+* [hasura-om](https://github.com/mrspartak/hasura-om) - A Fragment based ORM client to Hasura Graphql service
 
 #### HTTP Server Bindings
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
