@@ -40,7 +40,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [D](#lib-d)
 	- [Julia](#lib-julia)	
 - [Tools](#tools)
-    - [Security](#security)
+    - [Security](#security-tools)
 - [Services](#services)
 - [Databases](#databases)
 - [Examples](#example)
@@ -496,7 +496,7 @@ for the Angel framework.
 * [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
 
-<a name="security" />
+<a name="security-tools" />
 
 ### Tools - Security
 
