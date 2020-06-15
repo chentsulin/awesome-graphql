@@ -40,6 +40,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [D](#lib-d)
 	- [Julia](#lib-julia)	
 - [Tools](#tools)
+    - [Security](#security)
 - [Services](#services)
 - [Databases](#databases)
 - [Examples](#example)
@@ -58,6 +59,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Books](#book)
 - [Videos](#video)
 - [Blogs](#blogs)
+    - [Security](#security-blog)
 - [Posts](#post)
 - [Workshoppers](#workshopper)
 
@@ -494,6 +496,15 @@ for the Angel framework.
 * [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
 
+<a name="security" />
+
+### Tools - Security
+
+* [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
+* [Tinfoil Security - GraphQL Security Scanner ](https://www.tinfoilsecurity.com/blog/graphql-security-scanning) - [Tinfoil Security](https://www.tinfoilsecurity.com/solutions/api-scanner)
+* [InQL Scanner](https://blog.graphqleditor.com/inql-graphql-security-scanner/) [inql](https://github.com/doyensec/inql)
+* [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) [BurpSuite](https://portswigger.net/burp)
+
 <a name="databases" />
 
 ## Databases
@@ -680,6 +691,15 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Official GraphQL blog](https://graphql.org/blog/)
 * [Building Apollo](https://blog.apollographql.com/)
 * [The Guild blog](https://medium.com/the-guild)
+
+<a name="security-blog" />
+
+### Blogs - Security
+
+* [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
+* [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
+* [How to secure a GraphQL API (The Complete Vulnerability Checklist)](https://leapgraph.com/graphql-api-security)
+* [Security Points to Consider Before Implementing GraphQL](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/)
 
 <a name="post" />
 
