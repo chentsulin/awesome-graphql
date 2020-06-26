@@ -206,6 +206,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### TypeScript Libraries
 
 * [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
+* [GiraphQL](https://github.com/hayes/giraphql) -  A plugin based schema builder for creating code-first GraphQL schemas in typescript.
 
 <a name="lib-rb" />
 
