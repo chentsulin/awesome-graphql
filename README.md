@@ -467,6 +467,7 @@ for the Angel framework.
 * [graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
 * [graphql-autocomplete](https://github.com/orionsoft/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
 * [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator) - GraphQL code generator based on schema and documents.
+* [Snowflaqe](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable](https://github.com/fable-compiler/Fable)
 * [GraphQL IDE](https://github.com/andev-software/graphql-ide) - An extensive IDE for exploring GraphQL API's.
 * [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
