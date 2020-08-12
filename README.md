@@ -359,7 +359,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [ArangoDB](https://www.arangodb.com/) - Multi-model database that supports GraphQL schemas in JavaScript inside the database.
 * [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
-* [FaunaDB](https://fauna.com/blog/graphql-faunadb) - Global consistency, rich queries, NoSQL objects, pay-per-query serverless execution model. Use FaunaDB in the cloud or run it on your servers.
+* [FaunaDB](https://docs.fauna.com/fauna/current/api/graphql/) - Global consistency, rich queries, NoSQL objects, pay-per-query serverless execution model. Use FaunaDB in the cloud or run it on your servers.
 
 <a name="services" />
 
