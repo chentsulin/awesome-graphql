@@ -648,6 +648,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) by Julian Mayorga
 * [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) by Samer Buna
 * [GraphQL in Action](https://www.manning.com/books/graphql-in-action) by Samer Buna
+* [Fullstack GraphQL Applications with GRANDstack](https://www.manning.com/books/fullstack-graphql-applications-with-grandstack) by William Lyon
 
 <a name="video" />
 
