@@ -626,6 +626,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [light-java-graphql examples](https://github.com/networknt/light-example-4j/tree/master/graphql) - Examples of Light Java GraphQL and tutorials.
 * [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR
 * [manifold-graphql sample](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
+* [arcot - spring boot example](https://github.com/daneshzaki/arcot) - Sample Spring Boot microservices code to handle GraphQL queries and mutations
 
 <a name="example-android" />
 
