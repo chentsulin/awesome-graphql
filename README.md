@@ -737,6 +737,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Authentication and Authorization for GraphQL APIs](https://www.moesif.com/blog/technical/api-design/Steps-to-Building-Authentication-and-Authorization-For-GraphQL-APIs/)
 * [Build a GraphQL API with Siler on top of Swoole](https://www.swoole.co.uk/article/Build-a-GraphQL-API-on-top-of-Swoole)
 * [Fluent GraphQL clients: how to write queries like a boss](https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/)
+* [The Rise of Graphql](https://www.loginradius.com/engineering/blog/rise-and-rise-of-graphql/)
 
 <a name="workshopper" />
 
