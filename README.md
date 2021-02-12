@@ -38,7 +38,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [Dart](#lib-dart)
 	- [Rust](#lib-rust)
 	- [D](#lib-d)
-	- [Julia](#lib-julia)	
+	- [Julia](#lib-julia)
 	- [Crystal](#lib-crystal)
 - [Tools](#tools)
     - [Security](#security-tools)
@@ -290,7 +290,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 * [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 * [Light Java GraphQL](https://github.com/networknt/light-graphql-4j): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
-* [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database. 
+* [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database.
 
 <a name="lib-kotlin" />
 
@@ -441,7 +441,7 @@ for the Angel framework.
 * [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
- 
+
 <a name="lib-d" />
 
 ### D (dlang) Libraries
@@ -456,12 +456,12 @@ for the Angel framework.
 
 <a name="lib-crystal" />
 
+### Crystal Libraries
+
 * [graphql](https://github.com/graphql-crystal/graphql) - GraphQL server library
 * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser)
 * [crystal-gql](https://github.com/itsezc/crystal-gql) - GraphQL client shard inspired by Apollo client
 * [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL shard
-
-### Crystal Libraries
 
 <a name="tools" />
 
