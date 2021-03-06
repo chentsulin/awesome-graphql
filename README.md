@@ -537,6 +537,7 @@ for the Angel framework.
 
 ## Services
 
+* [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
 * [AWS AppSync](https://aws.amazon.com/appsync/) - Scalable managed GraphQL service with subscriptions for building real-time and offline-first apps
 * [DatoCMS](https://www.datocms.com/) - CDN-based GraphQL based Headless Content Management System.
 * [FastQL](https://fastql.io/) - CDN specifically for GraphQL applications
