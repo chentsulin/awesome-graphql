@@ -138,7 +138,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [urql](https://github.com/FormidableLabs/urql) - A simple caching GraphQL client for React.
 * [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
 * [Lokka](https://github.com/kadirahq/lokka) - Simple JavaScript client for GraphQL, which you can use anywhere.
-* [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with Graphql through Redux.
+* [react-reach](https://github.com/kennetpostigo/react-reach) - A library to communicate with GraphQL through Redux.
 * [Grafoo](https://github.com/grafoojs/grafoo) - A tiny yet fully fledged cache based GraphQL client
 * [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL
 * [graphql-pino-middleware](https://github.com/addityasingh/graphql-pino-middleware) - GraphQL middleware to augment resolvers with pino logger
@@ -186,7 +186,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Join Monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 * [graphql-factory](https://github.com/graphql-factory) - Create GraphQL types from JSON definitions
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
-* [GraphiteJS](https://github.com/graphitejs/server) - Framework NodeJS for GraphQl.
+* [GraphiteJS](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
 * [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - The ultimate GraphQL scaffolding tool.
 * [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - Implementation of GraphQL based on RxJS and that supports live queries.
 * [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Preact integration for urql.
