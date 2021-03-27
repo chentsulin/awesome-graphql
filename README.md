@@ -131,6 +131,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 * [Apollo Client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 * [Apollo Elements](https://apolloelements.dev) - GraphQL web components that work in any frontend framework.
+* [awesome-graphql-client](https://github.com/lynxtaa/awesome-graphql-client) - Tiny GraphQL client written in Typescript with file upload support for NodeJS and browsers.
 * [aws-amplify](https://github.com/aws-amplify/amplify-js) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
 * [graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client with caching and server-side rendering support.
 * [graphql-request](https://github.com/prisma/graphql-request) - A minimal GraphQL client for Node and browsers.
