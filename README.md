@@ -8,71 +8,62 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <!-- MarkdownTOC depth=4 -->
 
-- [awesome-graphql ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-graphql-)
-	- [Table of Contents](#table-of-contents)
-	- [Specification](#specification)
-	- [Foundation](#foundation)
-	- [Community](#community)
-	- [GraphQL Meetups](#graphql-meetups)
-	- [Libraries](#libraries)
-		- [JavaScript Libraries](#javascript-libraries)
-			- [Clients](#clients)
-			- [HTTP Server Bindings](#http-server-bindings)
-			- [Database & ORM](#database--orm)
-			- [Miscellaneous](#miscellaneous)
-			- [Relay Related](#relay-related)
-		- [TypeScript Libraries](#typescript-libraries)
-		- [Ruby Libraries](#ruby-libraries)
-		- [PHP Libraries](#php-libraries)
-		- [Python Libraries](#python-libraries)
-		- [Java Libraries](#java-libraries)
-		- [Kotlin Libraries](#kotlin-libraries)
-		- [C/C++ Libraries](#cc-libraries)
-		- [Go Libraries](#go-libraries)
-		- [Scala Libraries](#scala-libraries)
-		- [.NET Libraries](#net-libraries)
-		- [Elixir Libraries](#elixir-libraries)
-		- [Haskell Libraries](#haskell-libraries)
-		- [SQL Libraries](#sql-libraries)
-		- [Lua Libraries](#lua-libraries)
-		- [Elm Libraries](#elm-libraries)
-		- [Clojure Libraries](#clojure-libraries)
-		- [Swift Libraries](#swift-libraries)
-		- [OCaml Libraries](#ocaml-libraries)
-		- [Android Libraries](#android-libraries)
-		- [iOS Libraries](#ios-libraries)
-		- [ClojureScript Libraries](#clojurescript-libraries)
-		- [ReasonML Libraries](#reasonml-libraries)
-		- [Dart Libraries](#dart-libraries)
-		- [Rust Libraries](#rust-libraries)
-		- [D (dlang) Libraries](#d-dlang-libraries)
-		- [Julia Libraries](#julia-libraries)
-		- [Crystal Libraries](#crystal-libraries)
-	- [Tools](#tools)
-		- [Tools - Security](#tools---security)
-	- [Databases](#databases)
-	- [Services](#services)
-	- [Examples](#examples)
-		- [JavaScript Examples](#javascript-examples)
-		- [TypeScript Examples](#typescript-examples)
-		- [Ruby Examples](#ruby-examples)
-		- [Go Examples](#go-examples)
-		- [Scala Examples](#scala-examples)
-		- [Python Examples](#python-examples)
-		- [Elixir Examples](#elixir-examples)
-		- [Java Examples](#java-examples)
-		- [Android Examples](#android-examples)
-		- [iOS Examples](#ios-examples)
-		- [Clojure Examples](#clojure-examples)
-		- [PHP Examples](#php-examples)
-	- [Books](#books)
-	- [Videos](#videos)
-	- [Podcasts](#podcasts)
-	- [Blogs](#blogs)
-		- [Blogs - Security](#blogs---security)
-	- [Posts](#posts)
-	- [Workshoppers](#workshoppers)
-	- [License](#license)
+- [Specification](#spec)
+- [Foundation](#foundation)
+- [Community](#community)
+- [Libraries](#lib)
+	- [Javascript](#lib-js)
+	- [Typescript](#lib-ts)
+	- [Ruby](#lib-rb)
+	- [PHP](#lib-php)
+	- [Python](#lib-py)
+	- [Java](#lib-java)
+	- [Kotlin](#lib-kotlin)
+	- [C/C++](#lib-c)
+	- [Go](#lib-go)
+	- [Scala](#lib-scala)
+	- [.NET](#lib-dotnet)
+	- [Elixir](#lib-elixir)
+	- [Haskell](#lib-haskell)
+	- [SQL](#lib-sql)
+	- [Lua](#lib-lua)
+	- [Elm](#lib-elm)
+	- [Clojure](#lib-clojure)
+	- [Swift](#lib-swift)
+	- [OCaml](#lib-ocaml)
+	- [Android](#lib-android)
+	- [iOS](#lib-ios)
+	- [ClojureScript](#lib-clojurescript)
+	- [ReasonML](#lib-reasonml)
+	- [Dart](#lib-dart)
+	- [Rust](#lib-rust)
+	- [D](#lib-d)
+	- [Julia](#lib-julia)
+	- [Crystal](#lib-crystal)
+- [Tools](#tools)
+    - [Security](#security-tools)
+- [Services](#services)
+- [Databases](#databases)
+- [Examples](#example)
+	- [Javascript](#example-js)
+	- [Typescript](#example-ts)
+	- [Ruby](#example-rb)
+	- [Go](#example-go)
+	- [Scala](#example-scala)
+	- [Python](#example-python)
+	- [Elixir](#example-elixir)
+	- [Java](#example-java)
+	- [Android](#example-android)
+	- [iOS](#example-ios)
+	- [Clojure](#example-clojure)
+	- [PHP](#example-php)
+- [Books](#book)
+- [Videos](#video)
+- [Podcasts](#podcasts)
+- [Blogs](#blogs)
+    - [Security](#security-blog)
+- [Posts](#post)
+- [Workshoppers](#workshopper)
 
 <!-- /MarkdownTOC -->
 
@@ -300,7 +291,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 * [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 * [Light Java GraphQL](https://github.com/networknt/light-graphql-4j): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
-* [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database. 
+* [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database.
 
 <a name="lib-kotlin" />
 
@@ -451,7 +442,7 @@ for the Angel framework.
 * [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
- 
+
 <a name="lib-d" />
 
 ### D (dlang) Libraries
@@ -466,12 +457,12 @@ for the Angel framework.
 
 <a name="lib-crystal" />
 
+### Crystal Libraries
+
 * [graphql](https://github.com/graphql-crystal/graphql) - GraphQL server library
 * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser)
 * [crystal-gql](https://github.com/itsezc/crystal-gql) - GraphQL client shard inspired by Apollo client
 * [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL shard
-
-### Crystal Libraries
 
 <a name="tools" />
 
