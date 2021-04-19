@@ -441,6 +441,7 @@ for the Angel framework.
 * [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
+* [async-graphql](https://github.com/async-graphql/async-graphql) - A GraphQL server library implemented in Rust.
 
 <a name="lib-d" />
 
