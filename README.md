@@ -270,6 +270,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Ariadne](https://github.com/mirumee/ariadne) - library for implementing GraphQL servers using schema-first approach. Asynchronous query execution, batteries included for ASGI, WSGI and popular webframeworks, [fully documented](https://ariadnegraphql.org).
 * [pnp-graphql](https://github.com/iashraful/pnp-graphql) - A Django integration for GraphQL with Graphene. It's fully plug and play type. No extra code needed to expose basic api with filtering, pagination and mutations.
 * [django-graphql-auth](https://github.com/PedroBern/django-graphql-auth) - Django registration and authentication with GraphQL.
+* [hypothesis-graphql](https://github.com/Stranger6667/hypothesis-graphql) - Property-based testing tool that generates arbitrary GraphQL queries for the given schema.
 
 <a name="lib-java" />
 
