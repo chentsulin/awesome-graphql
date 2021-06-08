@@ -546,6 +546,7 @@ for the Angel framework.
 * [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - A GraphQL analaytics and monitoring service to find functional and performance issues.
 * [Booster framework](https://booster.cloud/) - An open-source framework that makes you _completely_ forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
 * [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
+* [StepZen](https://stepzen.com/) - A GraphQL API for any data source. Easily connect data from REST, GraphQL, databases, or any backend.
 
 <a name="example" />
 
@@ -718,6 +719,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Official GraphQL blog](https://graphql.org/blog/)
 * [Building Apollo](https://blog.apollographql.com/)
 * [The Guild blog](https://medium.com/the-guild)
+* [The StepZen Blog](https://stepzen.com/blog)
 
 <a name="security-blog" />
 
@@ -761,6 +763,9 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Authentication and Authorization for GraphQL APIs](https://www.moesif.com/blog/technical/api-design/Steps-to-Building-Authentication-and-Authorization-For-GraphQL-APIs/)
 * [Build a GraphQL API with Siler on top of Swoole](https://www.swoole.co.uk/article/Build-a-GraphQL-API-on-top-of-Swoole)
 * [Fluent GraphQL clients: how to write queries like a boss](https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/)
+* [Exploring GraphQL Directives In the Wild](https://stepzen.com/blog/graphql-directives-in-the-wild)
+* [How To Build a GraphQL API Connected to a MySQL Database Using StepZen](https://stepzen.com/blog/how-to-build-a-graphql-api-connected-to-mysql-database-using-stepzen)
+* [How to Connect Your GraphQL API with any REST Backend](https://stepzen.com/blog/how-to-connect-any-rest-backend)
 
 <a name="workshopper" />
 
