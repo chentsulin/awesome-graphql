@@ -320,6 +320,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [tallstreet-graphql](https://github.com/tallstreet/graphql) - GraphQL parser and server for Go that leverages libgraphqlparser
 * [go-graphql](https://github.com/playlyfe/go-graphql) - A powerful GraphQL server implementation for Golang
 * [Super Graph](https://supergraph.dev): Fetch data without code! Super Graph gives you a high performance GraphQL API without you having to write any code. GraphQL is automagically compiled into an efficient SQL query. Use it either as a library or a standalone service.
+* [mjarkk/go-graphql](https://github.com/mjarkk/go-graphql) - GraphQL sever where the Schema is based on your code
 
 <a name="lib-scala" />
 
