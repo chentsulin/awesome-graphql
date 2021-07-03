@@ -715,7 +715,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 <a name="podcast" />
 
 ## Podcasts
-* [GraphQL.FM](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNjE5NmViMC9wb2RjYXN0L3Jzcw==) by Marc-Andre Giroux and Tony Ghita
+* [GraphQL.FM](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNjE5NmViMC9wb2RjYXN0L3Jzcw==) by Marc-Andre Giroux and Tony Ghita 
 
 
 <a name="blogs" />
