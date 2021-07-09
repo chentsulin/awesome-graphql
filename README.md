@@ -59,6 +59,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [PHP](#example-php)
 - [Books](#book)
 - [Videos](#video)
+- [Podcasts](#podcasts)
 - [Blogs](#blogs)
     - [Security](#security-blog)
 - [Posts](#post)
@@ -710,6 +711,11 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Building native mobile apps with GraphQL at react-europe 2016](https://www.youtube.com/watch?v=z5rz3saDPJ8)
 * [Build a GraphQL Server](https://www.youtube.com/watch?v=PEcJxkylcRM&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
 * [GraphQL Tutorial](https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
+
+<a name="podcast" />
+
+## Podcasts
+* [GraphQL.FM](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNjE5NmViMC9wb2RjYXN0L3Jzcw==) by Marc-Andre Giroux and Tony Ghita 
 
 
 <a name="blogs" />
