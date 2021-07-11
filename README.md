@@ -212,7 +212,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### TypeScript Libraries
 
+* [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 * [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
+* [graphql-editor](https://github.com/slothking-online/graphql-editor) - Visual GraphQL editor.
 
 <a name="lib-rb" />
 
