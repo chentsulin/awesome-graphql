@@ -174,7 +174,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraysQL](https://github.com/larsbs/graysql) - A GraphQL manager and loader.
 * [Annotated GraphQL](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
 * [graphql-tools](https://github.com/apollographql/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
-* ~~[graphql-anywhere](https://github.com/apollographql/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.~~
 * [graphql-tag](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
 * [modelizr](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
 * [vue-apollo](https://github.com/Akryum/vue-apollo) - Vue integration for apollo.
