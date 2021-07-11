@@ -299,6 +299,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Kotlin Libraries
 
 * [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - GraphQL Kotlin implementation.
+* [KGraphQL](https://github.com/aPureBase/KGraphQL): Pure Kotlin implementation to setup a GraphQL server.
 
 <a name="lib-c" />
 
