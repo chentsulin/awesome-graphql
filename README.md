@@ -190,6 +190,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphiteJS](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
 * [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - The ultimate GraphQL scaffolding tool.
 * [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - Implementation of GraphQL based on RxJS and that supports live queries.
+* [graphql-shield](https://github.com/maticzav/graphql-shield) - A library that helps creating a permission layer for a graphql api.
 * [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Preact integration for urql.
 * [graphql-let](https://github.com/piglovesyou/graphql-let) - A webpack loader to import type-protected codegen results directly from GraphQL documents
 * [Graphback](https://github.com/aerogear/graphback/) - Framework and CLI to add a GraphQLCRUD API layer to a GraphQL server using data models.
