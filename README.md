@@ -213,13 +213,6 @@ If you want to contribute to this list (please do), send me a pull request.
 ### TypeScript Libraries
 
 * [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
-* [Vesper](http://vesper-framework.com) - NodeJS framework that helps you to create scalable, maintainable, extensible, declarative and fast GraphQL-based server applications.
-* [graphql-strong](https://github.com/calebmer/graphql-strong) - Define your GraphQL schemas with confidence that your values are correct.
-* [graphql-to-typescript](https://github.com/3VLINC/graphql-to-typescript) - Compiles GraphQL files into an importable typescript module with type definitions
-* [graphql-decorator](https://github.com/Quramy/graphql-decorator) - Helps to build GraphQL schema with TypeScript.
-* [graphql-schema-decorator](https://github.com/indigotech/graphql-schema-decorator) - This package makes possible the use of decorators to define a GraphQL schema.
-* [graphql-typescript](https://github.com/vichyssoise/graphql-typescript) - Define and build GraphQL Schemas using typed classes
-* [typegql](https://github.com/prismake/typegql) - Create GraphQL schema with type-safe class decorators.
 * [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
 * [graphql-editor](https://github.com/slothking-online/graphql-editor) - Visual GraphQL editor.
 
