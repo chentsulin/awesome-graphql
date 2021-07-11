@@ -217,7 +217,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 * [batch-loader](https://github.com/exaspark/batch-loader) – A powerful tool to avoid N+1 queries without extra dependencies or primitives.
 * [graphql-guard](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization for the graphql gem.
-* [graphql-cache](https://github.com/stackshareio/graphql-cache) - A dead simple caching plugin for graphql-ruby.a
+* [graphql-cache](https://github.com/stackshareio/graphql-cache) - A dead simple caching plugin for graphql-ruby.
 
 <a name="lib-php" />
 
