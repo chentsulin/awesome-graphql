@@ -4,5 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
-  - awesome_bot temp.md --allow-dupe --white-list medium,jacobwgillespie,wehavefaces,graphql.slack,vimeo,slideshare,getninjas
+  - awesome_bot README.md --allow-ssl --allow-redirect --white-list medium,jacobwgillespie,wehavefaces,graphql,slack,vimeo,slideshare,julienvincent,meetup
