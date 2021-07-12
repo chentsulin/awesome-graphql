@@ -481,6 +481,9 @@ for the Angel framework.
 * [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 * [graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js
+* [GraphQL Proxy API](https://github.com/fasibio/GraphqlDockerProxy) - A generic Graphql API (Docker & Kubernetes). Compare your GraphQL Microservices without code into one API
+* [Graphql for VSCode](https://github.com/kumarharsh/graphql-for-vscode) - VSCode extension for GraphQL schema authoring & consumption. Uses the language server protocol to provide first-class editing capabilities for graphql devs.
+* [Relay Playground](http://facebook.github.io/relay/prototyping/playground.html)
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
 * [GraphQLHub](https://www.graphqlhub.com/) - Query public API's schemas (e.g. Reddit, Twitter, Github, etc) using GraphiQL
 * [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
