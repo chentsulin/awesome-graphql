@@ -195,6 +195,11 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-shield](https://github.com/maticzav/graphql-shield) - A library that helps creating a permission layer for a graphql api.
 * [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Preact integration for urql.
 * [graphql-let](https://github.com/piglovesyou/graphql-let) - A webpack loader to import type-protected codegen results directly from GraphQL documents
+* [GraphQL Config](https://github.com/kamilkisiela/graphql-config): One configuration for all your GraphQL tools (supported by most tools, editors & IDEs).
+* [GraphQL CLI](https://github.com/urigo/graphql-cli): A command line tool for common GraphQL development workflows.
+* [GraphQL Scalars](https://github.com/Urigo/graphql-scalars): A library of custom GraphQL scalar types for creating precise, type-safe GraphQL schemas.
+* [GraphQL Toolkit](https://github.com/ardatan/graphql-toolkit): A set of utils for faster development of GraphQL tools (Schema and documents loading, Schema merging and more).
+* [SOFA](https://github.com/Urigo/sofa): Generate REST API from your GraphQL API.
 * [Graphback](https://github.com/aerogear/graphback/) - Framework and CLI to add a GraphQLCRUD API layer to a GraphQL server using data models.
 * [graphql-ably-pubsub](https://www.npmjs.com/package/graphql-ably-pubsub) - Ably PubSub implementation for GraphQL to publish mutation updates and subscribe to the result through a subscription query.
 
@@ -218,6 +223,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 * [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
+* [GraphQL Code Generator](https://graphql-code-generator.com): GraphQL code generator with flexible support for custom plugins and templates like Typescript (frontend and backend), React Hooks, resolvers signatures and more.
 * [graphql-editor](https://github.com/slothking-online/graphql-editor) - Visual GraphQL editor.
 
 <a name="lib-rb" />
