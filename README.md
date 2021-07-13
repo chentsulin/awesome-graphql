@@ -522,6 +522,8 @@ for the Angel framework.
 * [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
 * [gqldoc](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL. 
+* [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - Tooling to help you develop and mock federated schemas using Apollo Federation
+
 
 <a name="security-tools" />
 
