@@ -85,7 +85,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Community
 
 * [Slack](https://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/)
-* [Discord](http://join.reactiflux.com/) - Join #graphql on the ReactiFlux Discord server
+* [Discord](http://join.reactiflux.com/) - Join #help-graphql on the Reactiflux Discord server
 * [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing
 * [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag #graphql
 * [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](https://stackoverflow.com/questions/tagged/graphql)
@@ -106,6 +106,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
 * [Copenhagen](https://www.meetup.com/Copenhagen-GraphQL-Meetup-Group/)
 * [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
+* [Hamburg](https://www.meetup.com/GraphQL-Hamburg/)
 * [London](https://www.meetup.com/GraphQL-London/)
 * [Manchester](https://www.meetup.com/GraphQL-Manchester/)
 * [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
@@ -194,6 +195,11 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-shield](https://github.com/maticzav/graphql-shield) - A library that helps creating a permission layer for a graphql api.
 * [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Preact integration for urql.
 * [graphql-let](https://github.com/piglovesyou/graphql-let) - A webpack loader to import type-protected codegen results directly from GraphQL documents
+* [GraphQL Config](https://github.com/kamilkisiela/graphql-config): One configuration for all your GraphQL tools (supported by most tools, editors & IDEs).
+* [GraphQL CLI](https://github.com/urigo/graphql-cli): A command line tool for common GraphQL development workflows.
+* [GraphQL Scalars](https://github.com/Urigo/graphql-scalars): A library of custom GraphQL scalar types for creating precise, type-safe GraphQL schemas.
+* [GraphQL Toolkit](https://github.com/ardatan/graphql-toolkit): A set of utils for faster development of GraphQL tools (Schema and documents loading, Schema merging and more).
+* [SOFA](https://github.com/Urigo/sofa): Generate REST API from your GraphQL API.
 * [Graphback](https://github.com/aerogear/graphback/) - Framework and CLI to add a GraphQLCRUD API layer to a GraphQL server using data models.
 * [graphql-ably-pubsub](https://www.npmjs.com/package/graphql-ably-pubsub) - Ably PubSub implementation for GraphQL to publish mutation updates and subscribe to the result through a subscription query.
 
@@ -217,6 +223,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 * [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
+* [GraphQL Code Generator](https://graphql-code-generator.com): GraphQL code generator with flexible support for custom plugins and templates like Typescript (frontend and backend), React Hooks, resolvers signatures and more.
 * [graphql-editor](https://github.com/slothking-online/graphql-editor) - Visual GraphQL editor.
 
 <a name="lib-rb" />
@@ -291,7 +298,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
 * [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA. See the [Java example](#example-java) below.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
-* [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
+* [graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 * [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
@@ -299,6 +306,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database.
 * [federation-jvm](https://github.com/apollographql/federation-jvm) - Apollo Federation on the JVM
 * [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java
+* [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - Extended scalars for graphql-java
 
 <a name="lib-kotlin" />
 
@@ -419,6 +427,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
 * [ApolloDeveloperKit](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client Devtools bridge for [Apollo iOS].
+* [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI
 
 <a name="lib-clojurescript" />
 
@@ -632,6 +641,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 * [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
 * [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
+* [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - A GraphQL schema and server that demonstrates GraphQL [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) (over Websocket) to consume [Apache Kafka](https://kafka.apache.org/) messages.
 
 <a name="example-scala" />
 
@@ -659,6 +669,8 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [light-java-graphql examples](https://github.com/networknt/light-example-4j/tree/master/graphql) - Examples of Light Java GraphQL and tutorials.
 * [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR
 * [manifold-graphql sample](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
+* [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects
+* [spring-boot-federation-example](https://github.com/setchy/spring-boot-federation-example) - A GraphQL Java Kickstart federation example
 
 <a name="example-android" />
 
