@@ -582,6 +582,7 @@ for the Angel framework.
 
 ### JavaScript Examples
 
+* [storefront-api](https://github.com/DivanteLtd/storefront-api) - GraphQL eCommerce API you can connect to any eCommerce backend on the one side and Headless/PWA frontends on the other side,
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic web app boilerplate (Node.js/Express, GraphQL, React)
 * [swapi-graphql](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping swapi.co.
 * [graphql-server](https://github.com/RisingStack/graphql-server) - GraphQL server with Mongoose (MongoDB) and Node.js.
