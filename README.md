@@ -148,6 +148,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL
 * [graphql-pino-middleware](https://github.com/addityasingh/graphql-pino-middleware) - GraphQL middleware to augment resolvers with pino logger
 * [graphql-lightstep-middleware](https://github.com/addityasingh/graphql-lightstep-middleware) - GraphQL middleware to instrument resolvers with `lightstep` traces
+* [gqless](https://github.com/samdenty/gqless) - A GraphQL client without queries ✨
+* [GraphQL Zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL Zeus creates autocomplete client library for `JavaScript` or `TypeScript` which provides autocompletion for strongly typed queries.
 
 #### HTTP Server Bindings
 * [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
