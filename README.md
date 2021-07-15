@@ -360,6 +360,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
 * [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
 * [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
+* [Snowflaqe](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable](https://github.com/fable-compiler/Fable)
 
 <a name="lib-elixir" />
 
