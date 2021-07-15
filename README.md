@@ -228,6 +228,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 * [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
 * [GraphQL Code Generator](https://graphql-code-generator.com): GraphQL code generator with flexible support for custom plugins and templates like Typescript (frontend and backend), React Hooks, resolvers signatures and more.
+* [GiraphQL](https://github.com/hayes/giraphql) -  A plugin based schema builder for creating code-first GraphQL schemas in typescript.
 * [graphql-editor](https://github.com/slothking-online/graphql-editor) - Visual GraphQL editor.
 
 <a name="lib-rb" />
