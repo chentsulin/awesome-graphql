@@ -190,6 +190,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [gql-tools](https://github.com/almilo/gql-tools) - Tool library with CLI for schema generation and manipulation.
 * [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date) - A GraphQL date scalar type to be used with GraphQL.js. This scalar represents a date in the ISO 8601 format YYYY-MM-DD.
 * [graphql-compose](https://github.com/graphql-compose/graphql-compose) - Tool which allows you to construct flexible graphql schema from different data sources via plugins.
+* [graphql-modules](https://github.com/Urigo/graphql-modules) - Separate GraphQL server into smaller, reusable parts by modules or features.
 * [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
 * [Join Monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
