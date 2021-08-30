@@ -224,6 +224,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [react-relay-network-layer](https://github.com/relay-tools/react-relay-network-layer) - A network layer for Relay with query batching and middleware support (urlThunk, retryThunk, auth, defer and other).
 * [relay-subscriptions](https://github.com/relay-tools/relay-subscriptions) - Subscription support for Relay.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - An example website that fetches data from various apis and uses Relay and GraphQL to feed the data to React components!
+* [relay-mongo-subscriptions](https://github.com/adam-hanna/relay-mongo-subscriptions) - Turn-key subscriptions support for Relay and MongoDB.
 
 <a name="lib-ts" />
 
