@@ -317,6 +317,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime) - GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.
 * [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java
 * [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - Extended scalars for graphql-java
+* [graphql-calculator](https://github.com/graphql-calculator/graphql-calculator) - A lightweight graphql calculation engine, implemented based on directive.
 
 <a name="lib-kotlin" />
 
