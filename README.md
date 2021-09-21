@@ -821,6 +821,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Fluent GraphQL clients: how to write queries like a boss](https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/)
 * [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 * [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/)
+* ["Why use GraphQL, good and bad reasons"](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons)
 
 <a name="workshopper" />
 
