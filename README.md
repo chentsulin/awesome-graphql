@@ -551,6 +551,7 @@ for the Angel framework.
 * [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 * [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
+* [dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - An opinionated JavaScript library for automatically generating predictable, type safe DataLoaders over a set of resources (e.g. HTTP endpoints).
 * [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector): Compare schemas, validate documents, find breaking changes, find similar types, schema coverage, and more.
 * [gqldoc](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL. 
 * [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
