@@ -558,6 +558,7 @@ for the Angel framework.
 * [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
 * [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - Tooling to help you develop and mock federated schemas using Apollo Federation
 * [GraphQL '98](https://github.com/marcello3d/graphql-98) - A visual GraphQL data browser, like a SQL GUI for GraphQL
+* [Firecamp - GraphQL Playground](https://firecamp.app/graphql) - The fastest collaborative GraphQL playground
 
 <a name="security-tools" />
 
