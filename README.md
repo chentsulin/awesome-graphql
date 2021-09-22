@@ -597,6 +597,7 @@ for the Angel framework.
 * [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
 * [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
 * [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
+* [Stargate](https://stargate.io/docs/stargate/1.0/quickstart/quick_start-graphql.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
 
 <a name="example" />
 
