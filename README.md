@@ -73,7 +73,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Specification
 
-* [facebook/graphql](https://facebook.github.io/graphql/) - Working Draft of the Specification for GraphQL created by Facebook.
+* [facebook/graphql](https://spec.graphql.org/) - Working Draft of the Specification for GraphQL created by Facebook.
 * [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases by Prisma.
 
 <a name="foundation" />
@@ -92,7 +92,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag #graphql
 * [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag [graphql](https://stackoverflow.com/questions/tagged/graphql)
 * [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs
-* [GraphQL World](https://graphql-world.com) - The fastest growing community of GraphQL developers
 * [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
 * [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 * [Bookmarks.dev](https://www.bookmarks.dev/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.bookmarks.dev/tagged/graphql)
@@ -122,7 +121,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Seattle](https://www.meetup.com/Seattle-GraphQL/)
 * [Sydney](https://www.meetup.com/GraphQL-Sydney/)
 * [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
-* [Toronto](https://www.meetup.com/GraphQL-Toronto/)
 * [Wrocław](https://www.meetup.com/GraphQL-Wroclaw/)
 * [Singapore](https://www.meetup.com/GraphQL-SG/)
 * [Zurich](https://www.meetup.com/GraphQL-Zurich/)
@@ -516,7 +514,6 @@ for the Angel framework.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 * [graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
-* [GraphQLHub](https://www.graphqlhub.com/) - Query public API's schemas (e.g. Reddit, Twitter, Github, etc) using GraphiQL
 * [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
 * [gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL.
 * [Annotated GraphQL Server](https://github.com/almilo/annotated-graphql-server) - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
@@ -532,7 +529,6 @@ for the Angel framework.
 * [GraphQL IDE](https://github.com/andev-software/graphql-ide) - An extensive IDE for exploring GraphQL API's.
 * [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
-* [GraphQL Docs](https://graphql-docs.com) - Instantly create beautiful GraphQL API docs hosted online.
 * [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 * [Apollo Tracing](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
@@ -545,7 +541,7 @@ for the Angel framework.
 * [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor
 * [Prisma](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
 * [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
-* [Bit](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project ([example](https://bitsrc.io/giladshoham/github-graphql)), [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
+* [Bit](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project, [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
 * [RAN Toolkit](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 * [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
 * [GRAPHQL DESIGNER](http://graphqldesigner.com/) - A developer's web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
@@ -687,7 +683,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 ### Scala Examples
 
-* [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](https://sangria-graphql.org/)
+* [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](https://sangria-graphql.github.io/)
 * [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
 
 <a name="example-python" />
@@ -848,7 +844,6 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 ## Workshoppers
 
-* [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/) - Total beginner tutorial focused on just GraphQL without all the tooling. Alternates between LEARN and PLAY modes roleplaying as Game of Thrones characters.
 * [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 * [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
