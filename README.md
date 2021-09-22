@@ -586,6 +586,7 @@ for the Angel framework.
 
 ## Services
 
+* [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 * [AWS AppSync](https://aws.amazon.com/appsync/) - Scalable managed GraphQL service with subscriptions for building real-time and offline-first apps
 * [DatoCMS](https://www.datocms.com/) - CDN-based GraphQL based Headless Content Management System.
 * [FastQL](https://fastql.io/) - CDN specifically for GraphQL applications
