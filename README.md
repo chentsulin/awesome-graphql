@@ -595,6 +595,7 @@ for the Angel framework.
 * [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - A GraphQL analaytics and monitoring service to find functional and performance issues.
 * [Booster framework](https://booster.cloud/) - An open-source framework that makes you _completely_ forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
 * [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
+* [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
 * [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
 
 <a name="example" />
