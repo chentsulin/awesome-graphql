@@ -586,7 +586,6 @@ for the Angel framework.
 
 ## Services
 
-* [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 * [AWS AppSync](https://aws.amazon.com/appsync/) - Scalable managed GraphQL service with subscriptions for building real-time and offline-first apps
 * [DatoCMS](https://www.datocms.com/) - CDN-based GraphQL based Headless Content Management System.
 * [FastQL](https://fastql.io/) - CDN specifically for GraphQL applications
@@ -599,6 +598,7 @@ for the Angel framework.
 * [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
 * [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
 * [Stargate](https://stargate.io/docs/stargate/1.0/quickstart/quick_start-graphql.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
+* [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 
 <a name="example" />
 
