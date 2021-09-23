@@ -1,7 +1,0 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot README.md --allow-ssl --allow-redirect --white-list medium,jacobwgillespie,wehavefaces,graphql,slack,vimeo,slideshare,julienvincent,meetup
