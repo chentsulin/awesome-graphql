@@ -73,8 +73,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Specification
 
-* [GraphQL](https://spec.graphql.org/) - Working Draft of the Specification for GraphQL.
+* [GraphQL](https://spec.graphql.org/) - Working draft of the specification for GraphQL.
 * [GraphQL over HTTP](https://github.com/graphql/graphql-over-http) - Working draft of "GraphQL over HTTP" specification.
+* [GraphQL Relay](https://relay.dev/docs/guides/graphql-server-specification/) - Relay-compliant GraphQL server specification.
 * [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases.
 
 <a name="foundation" />
