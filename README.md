@@ -272,6 +272,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQLite](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
 * [Siler](https://github.com/leocavalcante/siler) - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.
 * [GraPHPinator](https://github.com/infinityloop-dev/graphpinator) - Easy-to-use GraphQL server implementation for modern PHP.
+* [GraphQL-Request-Builder](https://github.com/dpauli/php-graphql-request-builder) - Builds request payload in GraphQL structure.
 
 <a name="lib-py" />
 
