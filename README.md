@@ -270,6 +270,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Java Libraries
 
 * [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
+* [DGS Framework](https://github.com/Netflix/dgs-framework) - A GraphQL server framework for Spring Boot, developed by Netflix.
 * [graphql-java-generator](https://github.com/graphql-java-generator) - A [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) and a [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) that can generate both the __Client__ and the __Server__ (POJOs and utility classes). The server part is based on graphql-java, and hides all its boilerplate codes. 
 * [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - Auto-generates types for use with GraphQL Java
 * [schemagen-graphql](https://github.com/bpatters/schemagen-graphql) - Schema generation and execution package that turns POJO's into a GraphQL Java queryable set of objects. Enables exposing any service as a GraphQL service using Annotations.
