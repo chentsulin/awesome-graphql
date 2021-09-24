@@ -1,6 +1,6 @@
 # awesome-graphql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Awesome list of GraphQL & Relay
+> Awesome list of GraphQL
 
 If you want to contribute to this list (please do), send me a pull request.
 
@@ -12,36 +12,36 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Foundations](#foundation)
 - [Communities](#community)
 - [Meetups](#meetup)
-- [Libraries](#lib)
-	- [Javascript](#lib-js)
-	- [Typescript](#lib-ts)
-	- [Ruby](#lib-rb)
-	- [PHP](#lib-php)
-	- [Python](#lib-py)
-	- [Java](#lib-java)
-	- [Kotlin](#lib-kotlin)
-	- [C/C++](#lib-c)
-	- [Go](#lib-go)
-	- [Scala](#lib-scala)
-	- [.NET](#lib-dotnet)
-	- [Elixir](#lib-elixir)
-	- [Haskell](#lib-haskell)
-	- [SQL](#lib-sql)
-	- [Lua](#lib-lua)
-	- [Elm](#lib-elm)
-	- [Clojure](#lib-clojure)
-	- [Swift](#lib-swift)
-	- [OCaml](#lib-ocaml)
-	- [Android](#lib-android)
-	- [iOS](#lib-ios)
-	- [ClojureScript](#lib-clojurescript)
-	- [ReasonML](#lib-reasonml)
-	- [Dart](#lib-dart)
-	- [Rust](#lib-rust)
-	- [D](#lib-d)
-	- [R](#lib-r)
-	- [Julia](#lib-julia)
-	- [Crystal](#lib-crystal)
+- [Implementations](#impl)
+	- [Javascript](#js)
+	- [Typescript](#ts)
+	- [Ruby](#rb)
+	- [PHP](#php)
+	- [Python](#py)
+	- [Java](#java)
+	- [Kotlin](#kotlin)
+	- [C/C++](#c)
+	- [Go](#go)
+	- [Scala](#scala)
+	- [.NET](#dotnet)
+	- [Elixir](#elixir)
+	- [Haskell](#haskell)
+	- [SQL](#sql)
+	- [Lua](#lua)
+	- [Elm](#elm)
+	- [Clojure](#clojure)
+	- [Swift](#swift)
+	- [OCaml](#ocaml)
+	- [Android](#android)
+	- [iOS](#ios)
+	- [ClojureScript](#clojurescript)
+	- [ReasonML](#reasonml)
+	- [Dart](#dart)
+	- [Rust](#rust)
+	- [D](#d)
+	- [R](#r)
+	- [Julia](#julia)
+	- [Crystal](#crystal)
 - [Tools](#tools)
     - [Security](#security-tools)
 - [Services](#services)
@@ -128,13 +128,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Singapore](https://www.meetup.com/GraphQL-SG/)
 * [Zurich](https://www.meetup.com/GraphQL-Zurich/)
 
-<a name="lib" />
+<a name="impl" />
 
-## Libraries
+## Implementations
 
-<a name="lib-js" />
+<a name="js" />
 
-### JavaScript Libraries
+### JavaScript
 
 #### Clients
 
@@ -196,19 +196,19 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-middleware](https://github.com/maticzav/graphql-middleware) - Split up your GraphQL resolvers in middleware functions.
 * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
 
-<a name="lib-ts" />
+<a name="ts" />
 
-### TypeScript Libraries
+### TypeScript
 
 * [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 * [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
 * [GraphQL Code Generator](https://graphql-code-generator.com): GraphQL code generator with flexible support for custom plugins and templates like Typescript (frontend and backend), React Hooks, resolvers signatures and more.
-* [GiraphQL](https://github.com/hayes/giraphql) -  A plugin based schema builder for creating code-first GraphQL schemas in typescript.
+* [GiraphQL](https://github.com/hayes/giraphql) -  A plugin based schema builder for creating code-first GraphQL schemas in TypeScript.
 * [graphql-editor](https://github.com/slothking-online/graphql-editor) - Visual GraphQL editor.
 
-<a name="lib-rb" />
+<a name="rb" />
 
-### Ruby Libraries
+### Ruby
 
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
 * [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
@@ -217,9 +217,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
 * [GQLi](https://github.com/contentful-labs/gqli.rb) - A GraphQL client and DSL. Allowing to write queries in native Ruby.
 
-<a name="lib-php" />
+<a name="php" />
 
-### PHP Libraries
+### PHP
 
 * [graphql-php](https://github.com/webonyx/graphql-php) - A PHP port of GraphQL reference implementation.
 * [Railt](https://github.com/railt/railt) - High quality and loosely coupled framework for developing GraphQL applications using all the modern qualities of the language.
@@ -242,9 +242,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraPHPinator](https://github.com/infinityloop-dev/graphpinator) - Easy-to-use GraphQL server implementation for modern PHP.
 * [GraphQL-Request-Builder](https://github.com/dpauli/php-graphql-request-builder) - Builds request payload in GraphQL structure.
 
-<a name="lib-py" />
+<a name="py" />
 
-### Python Libraries
+### Python
 
 * [graphql-parser](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python.
 * [graphql-core](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python based on GraphQL.js v0.6.0 reference implementation
@@ -265,9 +265,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [pnp-graphql](https://github.com/iashraful/pnp-graphql) - A Django integration for GraphQL with Graphene. It's fully plug and play type. No extra code needed to expose basic api with filtering, pagination and mutations.
 * [django-graphql-auth](https://github.com/PedroBern/django-graphql-auth) - Django registration and authentication with GraphQL.
 
-<a name="lib-java" />
+<a name="java" />
 
-### Java Libraries
+### Java
 
 * [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
 * [DGS Framework](https://github.com/Netflix/dgs-framework) - A GraphQL server framework for Spring Boot, developed by Netflix.
@@ -292,26 +292,26 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java
 * [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - Extended scalars for graphql-java
 
-<a name="lib-kotlin" />
+<a name="kotlin" />
 
-### Kotlin Libraries
+### Kotlin
 
 * [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - GraphQL Kotlin implementation.
 * [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Kotlin example](#example-kotlin) below.
 * [KGraphQL](https://github.com/aPureBase/KGraphQL): Pure Kotlin implementation to setup a GraphQL server.
 
-<a name="lib-c" />
+<a name="c" />
 
-### C/C++ Libraries
+### C/C++
 
 * [Agoo-C](https://github.com/ohler55/agoo-c) - A high performance GraphQL server written in C. [benchmarks](https://github.com/the-benchmarker/graphql-benchmarks)
 * [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
 * [cppgraphqlgen](https://github.com/Microsoft/cppgraphqlgen) - C++ GraphQL schema service generator.
 * [CaffQL](https://github.com/caffeinetv/CaffQL) - Generates C++ client types and request/response serialization from a GraphQL introspection query.
 
-<a name="lib-go" />
+<a name="go" />
 
-### Go Libraries
+### Go
 
 * [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
 * [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use.
@@ -324,27 +324,27 @@ If you want to contribute to this list (please do), send me a pull request.
 * [go-graphql](https://github.com/playlyfe/go-graphql) - A powerful GraphQL server implementation for Golang
 * [Super Graph](https://supergraph.dev): Fetch data without code! Super Graph gives you a high performance GraphQL API without you having to write any code. GraphQL is automagically compiled into an efficient SQL query. Use it either as a library or a standalone service.
 
-<a name="lib-scala" />
+<a name="scala" />
 
-### Scala Libraries
+### Scala
 
 * [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL server implementation.
 * [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
 * [graphql-scala](https://github.com/hrosenhorn/graphql-scala) - An attempt to get GraphQL going with Scala.
 * [caliban](https://github.com/ghostdogpr/caliban) - Caliban is a purely functional library for creating GraphQL backends in Scala.
 
-<a name="lib-dotnet" />
+<a name="dotnet" />
 
-### .NET Libraries
+### .NET
 
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
 * [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
 * [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
 * [Snowflaqe](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable](https://github.com/fable-compiler/Fable)
 
-<a name="lib-elixir" />
+<a name="elixir" />
 
-### Elixir Libraries
+### Elixir
 
 * [absinthe-graphql](https://github.com/absinthe-graphql/absinthe) - Fully Featured Elixir GraphQL Library.
 * [graphql-elixir](https://github.com/graphql-elixir/graphql) - GraphQL Elixir. (No longer maintained)
@@ -354,15 +354,15 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql](https://github.com/asonge/graphql) - Elixir GraphQL parser.
 * [plot](https://github.com/peburrows/plot) - GraphQL parser and resolver for Elixir.
 
-<a name="lib-haskell" />
+<a name="haskell" />
 
-### Haskell Libraries
+### Haskell
 
 * [graphql-haskell](https://github.com/jdnavarro/graphql-haskell) - GraphQL AST and parser for Haskell.
 
-<a name="lib-sql" />
+<a name="sql" />
 
-### SQL Libraries
+### SQL
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
 * [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
@@ -370,108 +370,108 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Hasura](https://github.com/hasura/graphql-engine) - Hasura gives Instant Realtime GraphQL APIs over PostgreSQL. Works with an existing database too.
 * [subZero](https://subzero.cloud/) - GraphQL & REST API for your database
 
-<a name="lib-lua" />
+<a name="lua" />
 
-### Lua Libraries
+### Lua
 
 * [graphql-lua](https://github.com/bjornbytes/graphql-lua) - GraphQL for Lua.
 
-<a name="lib-elm" />
+<a name="elm" />
 
-### Elm Libraries
+### Elm
 
 * [elm-graphql](https://github.com/dillonkearns/elm-graphql) - GraphQL for Elm.
 
-<a name="lib-clojure" />
+<a name="clojure" />
 
-### Clojure Libraries
+### Clojure
 
 * [graphql-clj](https://github.com/tendant/graphql-clj) - A Clojure library designed to provide GraphQL implementation.
 * [Lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure.
 * [graphql-query](https://github.com/district0x/graphql-query) - Clojure(Script) GraphQL query generation.
 
-<a name="lib-swift" />
+<a name="swift" />
 
-### Swift Libraries
+### Swift
 
 * [GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift implementation for GraphQL.
 
-<a name="lib-ocaml" />
+<a name="ocaml" />
 
-### OCaml Libraries
+### OCaml
 
 * [ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
 
-<a name="lib-android" />
+<a name="android" />
 
-### Android Libraries
+### Android
 
 * [apollo-android](https://github.com/apollographql/apollo-android) - 📟 A strongly-typed, caching GraphQL client for Android, written in Java
 * [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Java example](#example-java) below.
 
-<a name="lib-ios" />
+<a name="ios" />
 
-### iOS Libraries
+### iOS
 
 * [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
 * [ApolloDeveloperKit](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client Devtools bridge for [Apollo iOS].
 * [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI
 
-<a name="lib-clojurescript" />
+<a name="clojurescript" />
 
-### ClojureScript Libraries
+### ClojureScript
 
 * [re-graph](https://github.com/oliyh/re-graph) - A GraphQL client for ClojureScript with bindings for re-frame applications.
 * [graphql-query](https://github.com/district0x/graphql-query) - Clojure(Script) GraphQL query generation.
 
-<a name="lib-reasonml" />
+<a name="reasonml" />
 
-### ReasonML Libraries
+### ReasonML
 
 * [reason-apollo](https://github.com/apollographql/reason-apollo) - ReasonML binding for Apollo Client
 * [ReasonQL](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL Client for ReasonML developers.
 * [reason-urql](https://github.com/FormidableLabs/reason-urql) - ReasonML binding for urql Client
 
-<a name="lib-dart" />
+<a name="dart" />
 
-### Dart Libraries
+### Dart
 * [Angel GraphQL](https://github.com/angel-dart/graphql) - GraphQL server implementation with bindings
 for the Angel framework.
 * [graphql-flutter](https://github.com/zino-app/graphql-flutter) - A GraphQL client for Flutter.
 * [Artemis](https://github.com/comigor/artemis) - A GraphQL type and query generator for Dart/Flutter.
 
-<a name="lib-rust" />
+<a name="rust" />
 
-### Rust Libraries
+### Rust
 
 * [async-graphql](https://github.com/async-graphql/async-graphql) - High-performance server-side library that supports all GraphQL specifications.
 * [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
 
-<a name="lib-d" />
+<a name="d" />
 
-### D (dlang) Libraries
+### D (dlang)
 
 * [graphqld](https://github.com/burner/graphqld) - GraphQL server library for D.
 
-<a name="lib-r" />
+<a name="r" />
 
-### R (Rstat) Libraries
+### R (Rstat)
 
 * [ghql](https://github.com/ropensci/ghql) - General purpose GraphQL R client
 * [graphql](https://github.com/ropensci/graphql) - Bindings to the 'libgraphqlparser' C++ library. Parses GraphQL syntax and exports the AST in JSON format.
 * [gqlr](https://github.com/schloerke/gqlr) - R GraphQL Implementation
 
-<a name="lib-julia" />
+<a name="julia" />
 
-### Julia Libraries
+### Julia
 
  * [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  A Julia GraphQL client/server implementation.
 
-<a name="lib-crystal" />
+<a name="crystal" />
 
-### Crystal Libraries
+### Crystal
 
 * [graphql](https://github.com/graphql-crystal/graphql) - GraphQL server library
 * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser)
