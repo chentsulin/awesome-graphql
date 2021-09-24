@@ -8,9 +8,10 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Specification](#spec)
-- [Foundation](#foundation)
-- [Community](#community)
+- [Specifications](#spec)
+- [Foundations](#foundation)
+- [Communities](#community)
+- [Meetups](#meetup)
 - [Libraries](#lib)
 	- [Javascript](#lib-js)
 	- [Typescript](#lib-ts)
@@ -71,7 +72,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <a name="spec" />
 
-## Specification
+## Specifications
 
 * [GraphQL](https://github.com/graphql/graphql-spec) - Working draft of the specification for GraphQL.
 * [GraphQL over HTTP](https://github.com/graphql/graphql-over-http) - Working draft of "GraphQL over HTTP" specification.
@@ -80,13 +81,13 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <a name="foundation" />
 
-## Foundation
+## Foundations
 
 * [GraphQL Foundation](https://graphql.org/foundation/) - GraphQL Foundation under the Linux Foundation
 
 <a name="community" />
 
-## Community
+## Communities
 
 * [Slack](https://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/).
 * [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
@@ -101,9 +102,9 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community.
 * [GraphQL Custom Scalars](https://www.graphqlscalars.com/) - Search graphql custom scalars across Javascript, Java, PHP, Go, Scala, etc....
 
-<a name="meetups" />
+<a name="meetup" />
 
-## GraphQL Meetups
+## Meetups
 
 * [Amsterdam](https://www.meetup.com/Amsterdam-GraphQL-Meetup/)
 * [Bangalore](https://www.meetup.com/graphql-bangalore/)
