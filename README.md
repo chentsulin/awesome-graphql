@@ -613,15 +613,8 @@ for the Angel framework.
 
 ## Tools
 
-* [graphiql](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
-* [GraphiQL.app](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
-* [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
-* [graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js
-* [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
+* [GraphiQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 * [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
-* [gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL.
-* [Annotated GraphQL Server](https://github.com/almilo/annotated-graphql-server) - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
-* [Model Visualizer](http://nathanrandal.com/graphql-visualizer/) - A small webapp that generates an ERD-like visualization of a GraphQL endpoint from an introspection query.
 * [GraphQL Network](https://github.com/Ghirro/graphql-network) - A chrome dev-tools extension for debugging GraphQL network requests.
 * [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - An ESLint plugin that checks your GraphQL strings against a schema.
 * [AST Explorer](https://astexplorer.net/) - Select "GraphQL" at the top, explore the GraphQL AST and highlight different parts by clicking in the query.
@@ -630,7 +623,6 @@ for the Angel framework.
 * [graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
 * [graphql-autocomplete](https://github.com/orionsoft/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
 * [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator) - GraphQL code generator based on schema and documents.
-* [GraphQL IDE](https://github.com/andev-software/graphql-ide) - An extensive IDE for exploring GraphQL API's.
 * [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 * [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
@@ -639,7 +631,6 @@ for the Angel framework.
 * [Altair GraphQL Client](https://github.com/imolorhe/altair) - A beautiful feature-rich GraphQL Client for all platforms.
 * [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
 * [GraphQL Metrics](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
-* [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
 * [GraphQL Test Tool](https://github.com/ohler55/graphql-test-tool) - Run test cases against a GraphQL server. Ideal for scripting CI tests.
 * [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 * [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor
