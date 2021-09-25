@@ -270,24 +270,14 @@ If you want to contribute to this list (please do), send me a pull request.
 ### PHP
 
 * [graphql-php](https://github.com/webonyx/graphql-php) - A PHP port of GraphQL reference implementation.
-* [Railt](https://github.com/railt/railt) - High quality and loosely coupled framework for developing GraphQL applications using all the modern qualities of the language.
-* [digiaonline](https://github.com/digiaonline/graphql-php) - Yet another PHP port of GraphQL reference implementation.
 * [graphql-relay-php](https://github.com/ivome/graphql-relay-php) - Relay helpers for webonyx/graphql-php implementation of GraphQL.
 * [lighthouse](https://github.com/nuwave/lighthouse) - A PHP package that allows to serve a GraphQL endpoint from your Laravel application.
-* [laravel-graphql](https://github.com/folkloreinc/laravel-graphql) (*abandoned*) - Facebook GraphQL for Laravel 5.
-* [laravel-graphql-relay](https://github.com/nuwave/laravel-graphql-relay) - A Laravel library to help construct a server supporting react-relay.
-* [graphql-mapper](https://github.com/4rthem/graphql-mapper) (*abandoned*) - This library allows to build a GraphQL schema based on your model.
-* [graphql-bundle](https://github.com/hoticeking/GraphQLBundle) - GraphQL Bundle for Symfony 2.
+* [graphql-laravel](https://github.com/rebing/graphql-laravel) - Laravel wrapper for Facebook's GraphQL.
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
-* [GraphQL Symfony Bundle](https://github.com/youshido-php/GraphQLBundle) - GraphQL Bundle for the Symfony 3 (supports 2.6+).
 * [graphql-wp](https://github.com/tim-field/graphql-wp) - WordPress plugin that exposes a GraphQL endpoint.
-* [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms) - GraphQL Bundle for the eZ Platform Symfony CMS.
-* [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) - GraphQL Psr7 Middleware
-* [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) - GraphiQL extension for zend expressive
-* [GraphQLite](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
-* [Siler](https://github.com/leocavalcante/siler) - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.
-* [GraPHPinator](https://github.com/infinityloop-dev/graphpinator) - Easy-to-use GraphQL server implementation for modern PHP.
-* [GraphQL-Request-Builder](https://github.com/dpauli/php-graphql-request-builder) - Builds request payload in GraphQL structure.
+* [graphqlite](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
+* [siler](https://github.com/leocavalcante/siler) - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.
+* [graphql-request-builder](https://github.com/dpauli/php-graphql-request-builder) - Builds request payload in GraphQL structure.
 
 <a name="php-example" />
 
