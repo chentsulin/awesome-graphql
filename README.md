@@ -379,14 +379,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
 * [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use.
-* [GQLGen](https://github.com/99designs/gqlgen) - Go generate based graphql server library.
-* [machinebox/graphql](https://github.com/machinebox/graphql) - Simple low-level GraphQL client for Go
+* [gqlgen](https://github.com/99designs/gqlgen) - Go generate based graphql server library.
 * [graphql-relay-go](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
-* [graphql](https://github.com/tmc/graphql) - GraphQL parser and server for Go.
-* [c-graphqlparser](https://github.com/tecbot/c-graphqlparser) - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
-* [tallstreet-graphql](https://github.com/tallstreet/graphql) - GraphQL parser and server for Go that leverages libgraphqlparser
-* [go-graphql](https://github.com/playlyfe/go-graphql) - A powerful GraphQL server implementation for Golang
-* [Super Graph](https://supergraph.dev): Fetch data without code! Super Graph gives you a high performance GraphQL API without you having to write any code. GraphQL is automagically compiled into an efficient SQL query. Use it either as a library or a standalone service.
+* [graphjin](https://github.com/dosco/graphjin): Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 
 <a name="go-example" />
 
