@@ -223,6 +223,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Next.js TypeScript and GraphQL Example](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - A type-protected GraphQL example on Next.js running [graphql-codegen](https://graphql-code-generator.com/) under the hood
 * [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) – A live, editable demo spinning up in about 2 seconds and running in a browser.
 * [NAPERG](https://github.com/alan345/naperg) - Fullstack Boilerplate GraphQL. Made with React & Prisma + authentication & roles.
+* [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 
 <a name="ts" />
 
@@ -506,7 +507,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Android
 
-* [apollo-android](https://github.com/apollographql/apollo-android) - 📟 A strongly-typed, caching GraphQL client for Android, written in Java
+* [apollo-android](https://github.com/apollographql/apollo-android) - 📟 A strongly-typed, caching GraphQL client for Android, written in Java.
 * [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Java example](#example-java) below.
 
 <a name="android-example" />
@@ -519,9 +520,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### iOS
 
-* [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift
+* [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift.
 * [ApolloDeveloperKit](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client Devtools bridge for [Apollo iOS].
-* [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI
+* [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI.
 
 <a name="ios-example" />
 
@@ -540,9 +541,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### ReasonML
 
-* [reason-apollo](https://github.com/apollographql/reason-apollo) - ReasonML binding for Apollo Client
+* [reason-apollo](https://github.com/apollographql/reason-apollo) - ReasonML binding for Apollo Client.
 * [ReasonQL](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL Client for ReasonML developers.
-* [reason-urql](https://github.com/FormidableLabs/reason-urql) - ReasonML binding for urql Client
+* [reason-urql](https://github.com/FormidableLabs/reason-urql) - ReasonML binding for urql Client.
 
 <a name="dart" />
 
@@ -571,9 +572,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### R (Rstat)
 
-* [ghql](https://github.com/ropensci/ghql) - General purpose GraphQL R client
+* [ghql](https://github.com/ropensci/ghql) - General purpose GraphQL R client.
 * [graphql](https://github.com/ropensci/graphql) - Bindings to the 'libgraphqlparser' C++ library. Parses GraphQL syntax and exports the AST in JSON format.
-* [gqlr](https://github.com/schloerke/gqlr) - R GraphQL Implementation
+* [gqlr](https://github.com/schloerke/gqlr) - R GraphQL Implementation.
 
 <a name="julia" />
 
@@ -585,10 +586,10 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Crystal
 
-* [graphql](https://github.com/graphql-crystal/graphql) - GraphQL server library
-* [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser)
-* [crystal-gql](https://github.com/itsezc/crystal-gql) - GraphQL client shard inspired by Apollo client
-* [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL shard
+* [graphql](https://github.com/graphql-crystal/graphql) - GraphQL server library.
+* [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser).
+* [crystal-gql](https://github.com/itsezc/crystal-gql) - GraphQL client shard inspired by Apollo client.
+* [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL shard.
 
 <a name="tools" />
 
@@ -596,6 +597,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphiQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 * [GraphQL Editor](https://github.com/slothking-online/graphql-editor) - Visual Editor & GraphQL IDE.
+* [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 * [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
 * [GraphQL Network](https://github.com/Ghirro/graphql-network) - A chrome dev-tools extension for debugging GraphQL network requests.
 * [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - An ESLint plugin that checks your GraphQL strings against a schema.
@@ -606,12 +608,10 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-autocomplete](https://github.com/orionsoft/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
 * [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator) - GraphQL code generator based on schema and documents.
 * [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes
-* [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 * [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 * [Apollo Tracing](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
 * [Altair GraphQL Client](https://github.com/imolorhe/altair) - A beautiful feature-rich GraphQL Client for all platforms.
-* [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
 * [GraphQL Metrics](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
 * [GraphQL Test Tool](https://github.com/ohler55/graphql-test-tool) - Run test cases against a GraphQL server. Ideal for scripting CI tests.
 * [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
@@ -621,12 +621,11 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Bit](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project, [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
 * [RAN Toolkit](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 * [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
-* [GRAPHQL DESIGNER](http://graphqldesigner.com/) - A developer's web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
+* [GraphQL Designer](http://graphqldesigner.com/) - A developer's web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
 * [GraphQL Inspector](https://graphql-inspector.com/) - Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage.
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client) - A tool that generates a strongly typed client library for any GraphQL endpoint.  The client allows writing GraphQL queries as plain JS objects (with type safety and awesome code completion experience)
 * [OpenAPI-to-GraphQL](https://github.com/ibm/openapi-to-graphql) - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - Two minute video and resources [here](https://developer.ibm.com/open/projects/openapi-to-graphql/)
 * [SwitchQL](https://github.com/SwitchQL/SwitchQL) - Automated transcription of database schemas into GraphQL schemas, resolvers, queries, and mutations
-* [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 * [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 * [GraphQL Birdseye](https://birdseye.novvum.io) – View any GraphQL schema as a dynamic and interactive graph.
 * [Retool](https://retool.com/) – Internal tools builder on top of your GraphQL APIs + GraphQL IDE with a schema explorer.
@@ -635,7 +634,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [gqldoc](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL. 
 * [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
 * [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - Tooling to help you develop and mock federated schemas using Apollo Federation
-* [GraphQL '98](https://github.com/marcello3d/graphql-98) - A visual GraphQL data browser, like a SQL GUI for GraphQL
 * [Firecamp - GraphQL Playground](https://firecamp.app/graphql) - The fastest collaborative GraphQL playground
 
 <a name="security-tools" />
