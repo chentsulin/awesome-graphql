@@ -696,6 +696,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="video" />
 
 ## Videos
+
 * [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8)
 * [Zero to GraphQL in 30 Minutes](https://www.youtube.com/embed/UBGzsb2UkeY)
 * [Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
@@ -787,9 +788,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Workshoppers
 
-* [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more
+* [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more.
+* [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
 * [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
-* [Let's Learn GraphQL](https://learngraphql.com) - Lessons/walkthrough of GraphQL concepts.
 
 ## License
 
