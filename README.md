@@ -768,10 +768,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
 * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 * [GraphQL at The Financial Times](https://www.slideshare.net/LondonReact/graph-ql)
-* [Relay for visual learners](http://sgwilym.github.io/relay-visual-learners/)
-* [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
-* [Learn Golang + GraphQL + Relay, Part 1: Your first Golang GraphQL server](https://wehavefaces.net/learn-golang-graphql-relay-1-e59ea174a902)
-* [Learn Golang + GraphQL + Relay, Part 2: Your first Relay application](https://wehavefaces.net/learn-golang-graphql-relay-2-a56cbcc3e341)
 * [From REST to GraphQL](https://jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b/)
 * [GraphQL: A data query language](https://graphql.org/blog/graphql-a-query-language/ )
 * [Subscriptions in GraphQL and Relay](https://graphql.org/blog/subscriptions-in-graphql-and-relay/ )
@@ -790,7 +786,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Fluent GraphQL clients: how to write queries like a boss](https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/)
 * [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 * [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/)
-* ["Why use GraphQL, good and bad reasons"](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons)
+* [Why use GraphQL, good and bad reasons](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons)
 * [make your graphql api easier to adopt through components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)
 
 <a name="workshopper" />
