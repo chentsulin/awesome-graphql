@@ -13,10 +13,9 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Communities](#community)
 - [Meetups](#meetup)
 - [Implementations](#impl)
-	- [Javascript](#js)
-		- [Examples](#js-example)
-	- [Typescript](#ts)
-		- [Examples](#ts-example)
+	- [JavaScript/TypeScript](#js)
+		- [JavaScript Examples](#js-example)
+		- [TypeScript Examples](#ts-example)
 	- [Ruby](#rb)
 		- [Examples](#rb-example)
 	- [PHP](#php)
@@ -134,7 +133,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <a name="js" />
 
-### JavaScript
+### JavaScript/TypeScript
 
 * [graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
 * [graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
@@ -196,6 +195,13 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-scalars](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 * [graphql-tools-types](https://github.com/rse/graphql-tools-types) - Custom GraphQL types for use with GraphQL-Tools (Void, Int, Float, String, Date, UUID, JSON).
 
+#### Type
+
+* [type-graphql](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
+* [graphql-nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction.
+* [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator with flexible support for custom plugins and templates like TypeScript (frontend and backend), React Hooks, resolvers signatures and more.
+* [giraphql](https://github.com/hayes/giraphql) -  A plugin based schema builder for creating code-first GraphQL schemas in TypeScript.
+
 #### Miscellaneous
 
 * [graphql-tools](https://github.com/apollographql/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
@@ -232,15 +238,6 @@ If you want to contribute to this list (please do), send me a pull request.
 * [NAPERG](https://github.com/alan345/naperg) - Fullstack Boilerplate GraphQL. Made with React & Prisma + authentication & roles.
 * [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 * [RAN Toolkit](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
-
-<a name="ts" />
-
-### TypeScript
-
-* [type-graphql](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
-* [graphql-nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction.
-* [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator with flexible support for custom plugins and templates like Typescript (frontend and backend), React Hooks, resolvers signatures and more.
-* [giraphql](https://github.com/hayes/giraphql) -  A plugin based schema builder for creating code-first GraphQL schemas in TypeScript.
 
 <a name="ts-example" />
 
