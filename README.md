@@ -50,6 +50,7 @@ If you want to contribute to this list (please do), send me a pull request.
 	- [ReasonML](#reasonml)
 	- [Dart](#dart)
 	- [Rust](#rust)
+		- [Examples](#rust-example)
 	- [D](#d)
 	- [R](#r)
 	- [Julia](#julia)
@@ -549,9 +550,15 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Rust
 
 * [async-graphql](https://github.com/async-graphql/async-graphql) - High-performance server-side library that supports all GraphQL specifications.
-* [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
+* [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
 * [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
+
+<a name="rust-example" />
+
+#### Rust Examples
+
+* [Warp GraphQL Juniper Demo](https://github.com/graphql-rust/juniper/tree/master/examples/warp_async)
 
 <a name="d" />
 
