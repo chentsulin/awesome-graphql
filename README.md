@@ -62,6 +62,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Books](#book)
 - [Videos](#video)
 - [Podcasts](#podcasts)
+- [Style Guides](#style-guide)
 - [Blogs](#blogs)
     - [Security](#security-blog)
 - [Posts](#post)
@@ -737,6 +738,13 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Podcasts
 
 * [GraphQL.FM](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNjE5NmViMC9wb2RjYXN0L3Jzcw==) by Marc-Andre Giroux and Tony Ghita.
+
+<a name="style-guide" />
+
+## Style Guides
+
+* [Shopify GraphQL Design Tutorial](https://github.com/Shopify/graphql-design-tutorial) - This tutorial was originally created by Shopify for internal purposes. It's based on lessons learned from creating and evolving production schemas at Shopify over almost 3 years. 
+* [Gitlab GraphQL API Style Guide](https://docs.gitlab.com/ee/development/api_graphql_styleguide.html) - This document outlines the style guide for the GitLab GraphQL API.
 
 <a name="blogs" />
 
