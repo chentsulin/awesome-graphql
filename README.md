@@ -669,6 +669,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [ArangoDB](https://arangodb.com/) - Native multi-model database with [GraphQL integration](https://www.arangodb.com/docs/3.4/foxx-reference-modules-graph-ql.html) via the built-in [Foxx Microservices Framework](https://www.arangodb.com/docs/stable/foxx.html).
 * [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a [GraphQL interface](https://www.semi.technology/developers/weaviate/current/graphql-references/) built to scale your machine learning models.
 * [Back4App](https://www.back4app.com/graphql-database) - Build a Scalable Database with GraphQL API in minutes.
+* [AmazonNeptune](https://aws.amazon.com/neptune) - High-performance graph database engine optimized for storing billions of relationships and querying the graph with milliseconds latency
 
 <a name="services" />
 
