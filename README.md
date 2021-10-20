@@ -705,6 +705,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) by Samer Buna
 * [Practical GraphQL](https://leanpub.com/book-graphql) by Daniel Schmitz
 * [Production Ready GraphQL](https://book.productionreadygraphql.com) by Marc-André Giroux
+* [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon
 
 <a name="video" />
 
