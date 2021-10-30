@@ -176,6 +176,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
 * [graphql-api-koa](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
+* [graphql-koa-scripts](https://github.com/ryanhs/graphql-koa-scripts) - GraphQL Koa 1 file simplified. usefull for quick test
 * [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
 * [mercurius](https://github.com/mercurius-js/mercurius) - GraphQL plugin for Fastify.
 * [graphql-yoga](https://github.com/prisma-labs/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.
