@@ -583,6 +583,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Julia
 
  * [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  A Julia GraphQL client/server implementation.
+ * [GraphQLClient.jl](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) -  A Julia GraphQL client for seamless integration with a server.
 
 <a name="crystal" />
 
