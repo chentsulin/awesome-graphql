@@ -1,0 +1,6 @@
+{
+    "aliveStatusCodes": [
+        429,
+        200
+    ]
+}
