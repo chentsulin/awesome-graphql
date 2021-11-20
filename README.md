@@ -99,6 +99,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL over HTTP](https://github.com/graphql/graphql-over-http) - Working draft of "GraphQL over HTTP" specification.
 - [GraphQL Relay](https://relay.dev/docs/guides/graphql-server-specification/) - Relay-compliant GraphQL server specification.
 - [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases.
+- [Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) - Apollo Federation specification
 
 <a name="foundation" />
 
@@ -203,7 +204,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphitejs](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
 - [graphql-helix](https://github.com/contrawork/graphql-helix) - A highly evolved GraphQL HTTP Server.
 
-
 ##### Databases & ORMs
 
 - [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
@@ -248,7 +248,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
 - [graphql-live-query](https://github.com/n1ru4l/graphql-live-query) - Realtime GraphQL Live Queries with JavaScript.
 - [GraphVinci](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
-
 
 <a name="js-example" />
 
@@ -606,9 +605,8 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Julia
 
-- [Diana.jl](https://github.com/codeneomatrix/Diana.jl) -  A Julia GraphQL client/server implementation.
-- [GraphQLClient.jl](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) -  A Julia GraphQL client for seamless integration with a server.
-
+- [Diana.jl](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
+- [GraphQLClient.jl](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
 
 <a name="crystal" />
 
