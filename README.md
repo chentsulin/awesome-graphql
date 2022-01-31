@@ -640,6 +640,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Tools - Security
 
+- [Escape GraphQL Quickscan](https://escape.tech/quickscan/) - One-click security scan of your GraphQL endpoints. Free, no login required.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
 - [Tinfoil Security - GraphQL Security Scanner](https://www.tinfoilsecurity.com/blog/graphql-security-scanning) - [Tinfoil Security](https://www.tinfoilsecurity.com/solutions/api-scanner)
 - [InQL Scanner](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing
