@@ -667,6 +667,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
 - [gqldoc](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL.
+- [spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
 
 ### Tools - Editor Plugins
 
@@ -732,7 +733,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Books
 
 - [The GraphQL Guide](https://graphql.guide) by John Resig and Loren Sands-Ramshaw
-- [Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/) by Eve Porcello and Alex Banks
+- [Learning GraphQL](https://www.amazon.com/dp/1492030716) by Eve Porcello and Alex Banks
 - [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) by Bruce Williams and Ben Wilson
 - [The Road to GraphQL](https://www.roadtographql.com/)
 - [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) by Julian Mayorga
@@ -834,7 +835,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Fluent GraphQL clients: how to write queries like a boss](https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/)
 - [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 - [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/)
-- [Why use GraphQL, good and bad reasons](https://honest.engineering/posts/why-use-graphql-good-and-bad-reasons)
 - [make your graphql api easier to adopt through components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)
 
 <a name="workshopper" />
