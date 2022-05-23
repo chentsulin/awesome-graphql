@@ -137,7 +137,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
 - [Hamburg](https://www.meetup.com/GraphQL-Hamburg/)
 - [London](https://www.meetup.com/GraphQL-London/)
-- [Manchester](https://www.meetup.com/GraphQL-Manchester/)
 - [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
 - [Montreal](https://www.meetup.com/GraphQL-Montreal/)
 - [Munich](https://www.meetup.com/GraphQL-Munich/)
@@ -475,7 +474,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 #### Elixir Examples
 
-- [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix - [View demo online](http://playground.graphql-elixir.org).
+- [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix
 
 <a name="haskell" />
 
