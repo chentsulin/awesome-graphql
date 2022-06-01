@@ -390,7 +390,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR.
 - [manifold-graphql sample](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
 - [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects.
-- [spring-boot-federation-example](https://github.com/setchy/spring-boot-federation-example) - A GraphQL Java Kickstart federation example.
+- [graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
 
 <a name="kotlin" />
 
