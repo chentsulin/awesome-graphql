@@ -391,6 +391,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [manifold-graphql sample](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
 - [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects.
 - [graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
+- [dgs-federation-example](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
 
 <a name="kotlin" />
 
