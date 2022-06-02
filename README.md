@@ -123,6 +123,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Everything GraphQL - Curated by The Guild](https://discord.gg/xud7bH9) - A Discord server dedicated to GraphQL.
 - [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community.
 - [GraphQL Custom Scalars](https://www.graphqlscalars.com/) - Search graphql custom scalars across Javascript, Java, PHP, Go, Scala, etc....
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 
 <a name="meetup" />
 
@@ -647,7 +648,8 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Tools - Security
 
-- [Escape GraphQL Quickscan](https://escape.tech/quickscan/) - One-click security scan of your GraphQL endpoints. Free, no login required.
+- [Escape - The GraphQL Security Scanner](https://graphql.security/) - One-click security scan of your GraphQL endpoints. Free, no login required.
+- [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
 - [Tinfoil Security - GraphQL Security Scanner](https://www.tinfoilsecurity.com/blog/graphql-security-scanning) - [Tinfoil Security](https://www.tinfoilsecurity.com/solutions/api-scanner)
 - [InQL Scanner](https://github.com/doyensec/inql) - A Burp Extension for GraphQL Security Testing
