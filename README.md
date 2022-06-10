@@ -644,6 +644,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [AST Explorer](https://astexplorer.net/) - Select "GraphQL" at the top, explore the GraphQL AST and highlight different parts by clicking in the query.
 - [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - The fastest collaborative GraphQL playground.
 - [CraftQL](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
+- [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 
 <a name="tool-security" />
 
