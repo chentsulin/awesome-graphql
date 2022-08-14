@@ -460,6 +460,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
 - [Snowflaqe](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable](https://github.com/fable-compiler/Fable)
 - [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
+- [ZeroQL](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
 
 <a name="elixir" />
 
