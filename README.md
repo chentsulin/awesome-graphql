@@ -485,6 +485,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Haskell
 
 - [graphql-haskell](https://github.com/jdnavarro/graphql-haskell) - GraphQL AST and parser for Haskell.
+- [morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api, Client and Tools.
 
 <a name="sql" />
 
