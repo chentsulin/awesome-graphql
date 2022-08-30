@@ -781,6 +781,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Build a GraphQL Server](https://www.youtube.com/watch?v=PEcJxkylcRM&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
 - [GraphQL Tutorial](https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 - [Five years of GraphQL](https://www.youtube.com/watch?v=s8meG38iZAM)
+- [GraphQL is for Everyone by Moon Highway](https://moonhighway.teachable.com/courses/enrolled/1402121)
 
 <a name="podcast" />
 
