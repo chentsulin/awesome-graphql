@@ -377,6 +377,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database.
 - [federation-jvm](https://github.com/apollographql/federation-jvm) - Apollo Federation on the JVM.
 - [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java.
+- [dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases.
 
 #### Custom Scalars
 
