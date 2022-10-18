@@ -44,6 +44,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Scala](#scala)
       - [Scala Examples](#scala-examples)
     - [.NET](#net)
+      - [.NET Examples](#net-examples)
     - [Elixir](#elixir)
       - [Elixir Examples](#elixir-examples)
     - [Haskell](#haskell)
@@ -463,6 +464,12 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Snowflaqe](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable](https://github.com/fable-compiler/Fable)
 - [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
 - [ZeroQL](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
+
+<a name="net-example" />
+
+#### .NET Examples
+
+- [.NET backend tutorial](https://hasura.io/learn/graphql/backend-stack/languages/dotnet/) - A tutorial creating a GraphQL server and client with .NET.
 
 <a name="elixir" />
 
