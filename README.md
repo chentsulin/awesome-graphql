@@ -279,7 +279,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Node.js API Starter](https://github.com/kriasoft/nodejs-api-starter) - Yarn v2 based monorepo template (code-first GraphQL API, PostgreSQL, PnP, Zero-install, serverless).
 - [Next.js Apollo TypeScript Starter](https://github.com/borisowsky/nextjs-apollo-ts-starter) - Next.js starter project focused on developer experience.
 - [GraphQL Starter](https://github.com/cerino-ligutom/GraphQL-Starter) - A boilerplate for TypeScript + Node Express + Apollo GraphQL APIs.
-- [Mocked Managed Federation](https://github.com/setchy/apollo-server-3-mocked-federation) - A mocked managed federation supgraph using Apollo Server 3.x
+- [Mocked Managed Federation - Apollo Server 3](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of how to mock a managed federation Supgraph using Apollo Server 3.x
+- [Mocked Managed Federation - Apollo Server 4](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of how to mock a managed federation Supgraph using Apollo Server 4.x
 
 <a name="rb" />
 
