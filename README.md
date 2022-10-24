@@ -669,7 +669,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Tools - Testing
 
-- [Step CI](https://stepci.com) - Open-Source API Testing and Monitoring for developers (with GraphQL support!)
+- [Step CI](https://stepci.com) - Open-Source API Testing and Monitoring with GraphQL support
 
 <a name="tool-security" />
 
