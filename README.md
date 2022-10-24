@@ -70,6 +70,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Crystal](#crystal)
   - [Tools](#tools)
     - [Tools - Editors & IDEs & Explorers](#tools---editors--ides--explorers)
+    - [Tools - Testing](#tools---testing)
     - [Tools - Security](#tools---security)
     - [Tools - Browser Extensions](#tools---browser-extensions)
     - [Tools - Prototyping](#tools---prototyping)
@@ -662,6 +663,12 @@ If you want to contribute to this list (please do), send me a pull request.
 - [CraftQL](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 - [Graph Proxy](https://graphproxy.com/) - Graph Proxy detects and displays all GraphQL network traffic.
+
+<a name="tool-testing" />
+
+### Tools - Testing
+
+- [Step CI](https://stepci.com) - Open-Source API Testing and Monitoring with GraphQL support
 
 <a name="tool-security" />
 
