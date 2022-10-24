@@ -743,7 +743,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
 - [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
-- [Stargate](https://stargate.io/docs/stargate/1.0/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
+- [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
 
 ### CDN
 
