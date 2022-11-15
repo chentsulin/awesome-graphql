@@ -698,7 +698,8 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
 - [gqldoc](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL.
-- [spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
+- [spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
+- [graphql-markdown](https://graphql-markdown.github.io/) - Flexible documentation for GraphQL powered with Docusaurus.
 
 ### Tools - Editor Plugins
 
