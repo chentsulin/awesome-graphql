@@ -732,6 +732,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Databases
 
+- [Cube](https://cube.dev) - [Headless BI](https://cube.dev/blog/headless-bi) for building data applications with SQL, REST, and [GraphQL API](https://cube.dev/docs/backend/graphql). Connect any database or data warehouse and instantly get a GraphQL API with sub-second latency on top of it. - [Source Code](https://github.com/cube-js/cube.js)
 - [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
 - [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
 - [FaunaDB](https://fauna.com) - Relational NoSQL database with [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) Supports joins, indexes, and multi-region ACID transactions with serverless pay-per-use pricing.
@@ -841,6 +842,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Posts
 
+- [GraphQL federation with Hasura GraphQL Engine and Cube](https://cube.dev/blog/graphql-federation-with-hasura-graphql-engine)
 - [Using DataLoader to batch GraphQL requests](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433)
 - [Introducing Relay and GraphQL](https://reactjs.org/blog/2015/02/20/introducing-relay-and-graphql.html)
 - [GraphQL Introduction](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
