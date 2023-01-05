@@ -2,24 +2,22 @@ name: Awesome Bot
 
 on:
   push:
-    branches: ['*']
+    branches: ["*"]
   pull_request:
-    branches: ['*']
+    branches: ["*"]
   schedule:
-  - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby 2.6
-      uses: actions/setup-ruby@v1
-      with:
-        ruby-version: 2.6.x
-    - name: Checks
-      run: |
-        gem install awesome_bot
-        awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 429
+      - uses: actions/checkout@v3
+      - name: Set up Ruby 2.6
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+      - name: Checks
+        run: |
+          gem install awesome_bot
+          awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 429
