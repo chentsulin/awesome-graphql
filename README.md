@@ -8,7 +8,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 <!-- MarkdownTOC depth=4 -->
 
-- [awesome-graphql ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-graphql-)
+- [awesome-graphql ](#awesome-graphql-)
   - [Table of Contents](#table-of-contents)
   - [Specifications](#specifications)
   - [Foundations](#foundations)
@@ -20,7 +20,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Frontend Framework Integrations](#frontend-framework-integrations)
           - [React](#react)
       - [Servers](#servers)
-        - [Databases & ORMs](#databases--orms)
+        - [Databases \& ORMs](#databases--orms)
         - [PubSub](#pubsub)
       - [Custom Scalars](#custom-scalars)
       - [Type](#type)
@@ -69,7 +69,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Julia](#julia)
     - [Crystal](#crystal)
   - [Tools](#tools)
-    - [Tools - Editors & IDEs & Explorers](#tools---editors--ides--explorers)
+    - [Tools - Editors \& IDEs \& Explorers](#tools---editors--ides--explorers)
     - [Tools - Testing](#tools---testing)
     - [Tools - Security](#tools---security)
     - [Tools - Browser Extensions](#tools---browser-extensions)
@@ -113,7 +113,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Communities
 
-- [Slack](https://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/).
+- [Discord](https://discord.graphql.org/) - Official GraphQL.org discord channel.
 - [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
@@ -122,7 +122,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
 - [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 - [Codever](https://www.codever.land/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.codever.land/bookmarks/t/graphql).
-- [Everything GraphQL - Curated by The Guild](https://discord.gg/xud7bH9) - A Discord server dedicated to GraphQL.
 - [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community.
 - [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 
