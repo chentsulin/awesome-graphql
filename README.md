@@ -115,6 +115,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [Discord - GraphQL](https://discord.graphql.org/) - Official GraphQL.org discord channel.
 - [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community.
+- [Apollo GraphQL Community](https://community.apollographql.com/) - Connect with other developers and share knowledge about every part of the Apollo GraphQL platform.
 - [Discord - Reactiflux](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
