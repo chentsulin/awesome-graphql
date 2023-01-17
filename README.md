@@ -113,8 +113,9 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Communities
 
-- [Discord](https://discord.graphql.org/) - Official GraphQL.org discord channel.
-- [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
+- [Discord - GraphQL](https://discord.graphql.org/) - Official GraphQL.org discord channel.
+- [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community.
+- [Discord - Reactiflux](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag `graphql`.
@@ -122,8 +123,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
 - [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 - [Codever](https://www.codever.land/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.codever.land/bookmarks/t/graphql).
-- [GraphQL Weekly](https://www.graphqlweekly.com/) - A weekly newsletter highlighting resources and news from the GraphQL community.
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 
 <a name="meetup" />
 
@@ -828,6 +827,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Building Apollo](https://blog.apollographql.com/)
 - [The Guild blog](https://medium.com/the-guild)
 - [Production Ready GraphQL blog](https://productionreadygraphql.com)
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 
 <a name="security-blog" />
 
