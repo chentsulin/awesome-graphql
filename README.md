@@ -103,6 +103,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases.
 - [Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) - Apollo Federation specification
 - [GraphQXL](https://gabotechs.github.io/graphqxl/) - GraphQXL is an extension of the GraphQL language with some additional features that help creating big and scalable server-side schemas.
+- [GraphQL Scalars](https://www.graphql-scalars.com/) - hosts community defined custom Scalar specifications for use with @specifiedBy.
 
 <a name="foundation" />
 
