@@ -88,7 +88,7 @@ If you want to contribute to this list (please do), send me a pull request.
   - [Blogs](#blogs)
     - [Blogs - Security](#blogs---security)
   - [Posts](#posts)
-  - [Workshops](#workshops)
+  - [Tutorials](#tutorials)
   - [License](#license)
 
 <!-- /MarkdownTOC -->
@@ -878,9 +878,9 @@ If you want to contribute to this list (please do), send me a pull request.
 - [make your graphql api easier to adopt through components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)
 - [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/)
 
-<a name="workshops" />
+<a name="tutorials" />
 
-## Workshops
+## Tutorials
 
 - [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more.
 - [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
