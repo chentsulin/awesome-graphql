@@ -102,6 +102,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL Relay](https://relay.dev/docs/guides/graphql-server-specification/) - Relay-compliant GraphQL server specification.
 - [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases.
 - [Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) - Apollo Federation specification
+- [GraphQXL](https://gabotechs.github.io/graphqxl/) - GraphQXL is an extension of the GraphQL language with some additional features that help creating big and scalable server-side schemas.
 
 <a name="foundation" />
 
