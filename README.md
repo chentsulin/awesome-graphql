@@ -141,7 +141,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Hamburg](https://www.meetup.com/GraphQL-Hamburg/)
 - [London](https://www.meetup.com/GraphQL-London/)
 - [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
-- [Montreal](https://www.meetup.com/GraphQL-Montreal/)
 - [Munich](https://www.meetup.com/GraphQL-Munich/)
 - [New York City](https://www.meetup.com/GraphQL-NYC/)
 - [Portland](https://www.meetup.com/GraphQLPDX/)
