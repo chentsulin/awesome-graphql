@@ -349,6 +349,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [strawberry](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python.
 - [turms](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
 - [rath](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
+- [sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
 
 <a name="py-example" />
 
