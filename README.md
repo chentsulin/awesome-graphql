@@ -777,7 +777,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [The GraphQL Guide](https://graphql.guide) by John Resig and Loren Sands-Ramshaw
 - [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) by Bruce Williams and Ben Wilson
 - [The Road to GraphQL](https://www.roadtographql.com/)
-- [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) by Julian Mayorga
 - [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) by Samer Buna
 - [Practical GraphQL](https://leanpub.com/book-graphql) by Daniel Schmitz
 - [Production Ready GraphQL](https://book.productionreadygraphql.com) by Marc-André Giroux
