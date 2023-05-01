@@ -674,6 +674,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Tools - Testing
 
 - [Step CI](https://stepci.com) - Open-Source API Testing and Monitoring with GraphQL support
+- [graphql-to-karate](https://github.com/wbaldoumas/graphql-to-karate) - Generate Karate API tests from your GraphQL schemas
 
 <a name="tool-security" />
 
