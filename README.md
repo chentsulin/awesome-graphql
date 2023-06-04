@@ -143,7 +143,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
 - [Munich](https://www.meetup.com/GraphQL-Munich/)
 - [New York City](https://www.meetup.com/GraphQL-NYC/)
-- [Portland](https://www.meetup.com/GraphQLPDX/)
 - [San Francisco](https://www.meetup.com/GraphQL-SF/)
 - [Seattle](https://www.meetup.com/Seattle-GraphQL/)
 - [Sydney](https://www.meetup.com/GraphQL-Sydney/)
@@ -412,7 +411,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Kotlin example](#example-kotlin) below.
 - [KGraphQL](https://github.com/aPureBase/KGraphQL): Pure Kotlin implementation to setup a GraphQL server.
 - [Kobby](https://github.com/ermadmi78/kobby) - Codegen plugin of [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) by GraphQL schema. The generated DSL supports execution of complex GraphQL queries, mutation and subscriptions in Kotlin with syntax similar to native GraphQL syntax.
-- [Graphkt](https://github.com/cufyorg/graphkt) - A DSL based graphql server library for kotlin, backed by graphql-java. 
+- [Graphkt](https://github.com/cufyorg/graphkt) - A DSL based graphql server library for kotlin, backed by graphql-java.
 
 <a name="kotlin-example" />
 
@@ -736,7 +735,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [microfiber](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 - [ILLA Cloud](https://www.illacloud.com/) – Open-source low-code tool building platform provides an easy way to integrate with GraphQL with minimal configurations
 - [DronaHQ](https://www.dronahq.com/) - Build internal tools, dashboards, admin panel on top of GraphQL data in minutes
-<a name="databases" />
+  <a name="databases" />
 
 ## Databases
 
@@ -788,7 +787,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Videos
 
-- [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8)
+- [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP\_\_No8)
 - [Zero to GraphQL in 30 Minutes](https://www.youtube.com/embed/UBGzsb2UkeY)
 - [Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
 - [React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
@@ -798,7 +797,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg)
 - [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?t=643&v=Pxdgu2XIAAg)
 - [Introduction to GraphQL](https://vimeo.com/144817545)
-- [Exploring GraphQL@Scale](https://www.youtube.com/watch?v=_9RgHXqH8J0)
+- [Exploring GraphQL@Scale](https://www.youtube.com/watch?v=\_9RgHXqH8J0)
 - [What's Next for Phoenix by Chris McCord](https://www.youtube.com/watch?v=IMUpYOc9z3c&feature=youtu.be)
 - [GraphQL with Nick Schrock](https://www.youtube.com/watch?v=Ed6oJXKt3-M)
 - [Build a GraphQL server for Node.js using PostgreSQL/MySQL](https://www.youtube.com/watch?v=DNPVqK_woRQ)
