@@ -787,7 +787,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ## Videos
 
-- [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP\_\_No8)
+- [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8)
 - [Zero to GraphQL in 30 Minutes](https://www.youtube.com/embed/UBGzsb2UkeY)
 - [Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
 - [React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU)
@@ -797,7 +797,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg)
 - [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?t=643&v=Pxdgu2XIAAg)
 - [Introduction to GraphQL](https://vimeo.com/144817545)
-- [Exploring GraphQL@Scale](https://www.youtube.com/watch?v=\_9RgHXqH8J0)
+- [Exploring GraphQL@Scale](https://www.youtube.com/watch?v=_9RgHXqH8J0)
 - [What's Next for Phoenix by Chris McCord](https://www.youtube.com/watch?v=IMUpYOc9z3c&feature=youtu.be)
 - [GraphQL with Nick Schrock](https://www.youtube.com/watch?v=Ed6oJXKt3-M)
 - [Build a GraphQL server for Node.js using PostgreSQL/MySQL](https://www.youtube.com/watch?v=DNPVqK_woRQ)
