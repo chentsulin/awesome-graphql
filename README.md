@@ -187,7 +187,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [urql](https://github.com/FormidableLabs/urql) - A simple caching GraphQL client for React.
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client with caching and server-side rendering support.
-- [gqless](https://github.com/samdenty/gqless) - A GraphQL client without queries ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL.
 - [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
 - [@gqty/react](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
