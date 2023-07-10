@@ -170,6 +170,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL Zeus creates autocomplete client library for `JavaScript` or `TypeScript` which provides autocompletion for strongly typed queries.
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [aws-amplify](https://github.com/aws-amplify/amplify-js) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
+- [gqty](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 ##### Frontend Framework Integrations
 
@@ -189,6 +190,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [gqless](https://github.com/samdenty/gqless) - A GraphQL client without queries ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL.
 - [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
+- [@gqty/react](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 
 #### Servers
 
