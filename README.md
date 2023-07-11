@@ -772,7 +772,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [DatoCMS](https://www.datocms.com/) - CDN-based GraphQL based Headless Content Management System.
 - [Apito](https://apito.io/) - A Cloud Based Headless CMS with CDN, Webhooks, Team Collaborations, Content Revision, Cloud Functions.
-- [GraphCMS](https://graphcms.com/) - GraphQL based Headless Content Management System.
+- [Hygraph](https://hygraph.com/) - Build Scalable Content Experiences.
 - [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 
 <a name="book" />
