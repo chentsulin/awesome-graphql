@@ -739,6 +739,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [microfiber](https://github.com/anvilco/graphql-introspection-tools) - Query and manipulate GraphQL introspection query results in useful ways.
 - [ILLA Cloud](https://www.illacloud.com/) – Open-source low-code tool building platform provides an easy way to integrate with GraphQL with minimal configurations
 - [DronaHQ](https://www.dronahq.com/) - Build internal tools, dashboards, admin panel on top of GraphQL data in minutes
+- [Dynaboard](https://dynaboard.com) - Generate low-code web apps from any GraphQL API using AI.
   <a name="databases" />
 
 ## Databases
