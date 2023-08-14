@@ -776,6 +776,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Apito](https://apito.io/) - A Cloud Based Headless CMS with CDN, Webhooks, Team Collaborations, Content Revision, Cloud Functions.
 - [Hygraph](https://hygraph.com/) - Build Scalable Content Experiences.
 - [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
+- [Graphweaver](https://graphweaver.com/) - Turn multiple datasources into a single GraphQL API.
 
 <a name="book" />
 
