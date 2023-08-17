@@ -68,6 +68,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [R (Rstat)](#r-rstat)
     - [Julia](#julia)
     - [Crystal](#crystal)
+    - [Ballerina](#ballerina)
   - [Tools](#tools)
     - [Tools - Editors \& IDEs \& Explorers](#tools---editors--ides--explorers)
     - [Tools - Testing](#tools---testing)
@@ -650,6 +651,16 @@ If you want to contribute to this list (please do), send me a pull request.
 - [crystal-gql](https://github.com/itsezc/crystal-gql) - GraphQL client shard inspired by Apollo client.
 - [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL shard.
 
+### Ballerina
+
+- [graphql](https://github.com/ballerina-platform/module-ballerina-graphql) - Ballerina standard library for GraphQL. This library provides a GraphQL client and server implementations including builtin support for GraphQL subscriptions.
+- [graphql CLI](https://github.com/ballerina-platform/graphql-tools) - A CLI tool to generate Ballerina code from GraphQL schema and GraphQL schema from Ballerina code. It also provides functionality to generate usage-specific GraphQL clients using GraphQL schemas and documents.
+
+#### Ballerina Samples
+
+- [Ballerina GraphQL Examples](https://github.com/ballerina-platform/module-ballerina-graphql/tree/master/examples)
+- [Convert Weather REST API to GraphQL API](https://github.com/ThisaruGuruge/weather-rest-api-to-graphql)
+
 <a name="tools" />
 
 ## Tools
@@ -890,6 +901,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/)
 - [make your graphql api easier to adopt through components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)
 - [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/)
+- [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd)
+
 
 <a name="tutorials" />
 
