@@ -622,7 +622,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 #### Rust Examples
 
-- [Warp GraphQL Juniper Demo](https://github.com/graphql-rust/juniper/tree/master/examples/warp_async)
+- [Warp GraphQL Juniper](https://graphql-rust.github.io/)
 
 <a name="d" />
 
