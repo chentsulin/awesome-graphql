@@ -906,6 +906,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/)
 - [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd)
 - [How to Test your GraphQL Endpoints](https://escape.tech/blog/8-most-common-graphql-vulnerabilities/)
+- [Why Automatic Persisted Queries Don't Scale]https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries
 
 
 
