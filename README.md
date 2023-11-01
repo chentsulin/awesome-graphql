@@ -707,6 +707,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [WAF for graphQL](https://lab.wallarm.com/api-security-solution/) - Web Application Firewall for graphQL APIs
 - [GraphQL Intruder](https://github.com/davinerd/gql_intruder) - Plugin based python script to perform GraphQL vulnerability assessment.
 - [GraphQL Cop](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
+- [GraphQLer](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 
 ### Tools - Browser Extensions
 
