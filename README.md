@@ -226,6 +226,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphql-nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction.
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator with flexible support for custom plugins and templates like TypeScript (frontend and backend), React Hooks, resolvers signatures and more.
 - [pothos](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
+- [garph](https://github.com/stepci/garph) - Garph is full-stack framework for building type-safe GraphQL APIs in TypeScript.
 - [fast-graphql](https://github.com/idurar/fast-graphql) - Graphql Tools to Strucutre , Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server
 - [graphql-to-type](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
 
