@@ -173,6 +173,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [aws-amplify](https://github.com/aws-amplify/amplify-js) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
 - [gqty](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+- [genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
 
 ##### Frontend Framework Integrations
 
