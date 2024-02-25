@@ -20,4 +20,4 @@ jobs:
       - name: Checks
         run: |
           gem install awesome_bot
-          awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 429 --white-list twitter.com,roadmap.sh
+          awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 429 --white-list twitter.com,roadmap.sh,stackoverflow.com
