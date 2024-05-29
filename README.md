@@ -122,11 +122,10 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Apollo GraphQL Community](https://community.apollographql.com/) - Connect with other developers and share knowledge about every part of the Apollo GraphQL platform.
 - [Discord - Reactiflux](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing.
-- [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
+- [X](https://x.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag `graphql`.
 - [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs.
-- [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
-- [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
+- [/r/GraphQL](https://www.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
 - [Codever](https://www.codever.land/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.codever.land/bookmarks/t/graphql).
 
 <a name="meetup" />
@@ -694,7 +693,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - The fastest collaborative GraphQL playground.
 - [CraftQL](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
-- [Graph Proxy](https://graphproxy.com/) - Graph Proxy detects and displays all GraphQL network traffic.
 
 <a name="tool-testing" />
 
@@ -927,7 +925,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more.
 - [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
 - [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
-- [GraphQL Roadmap](https://roadmap.sh/graphql/) - Step by step guide to learn GraphQL.
+- [GraphQL Roadmap](https://roadmap.sh/graphql) - Step by step guide to learn GraphQL.
 - [GraphQL Security Academy](https://escape.tech/academy/) - a free and interactive platform to learn GraphQL security: how to find, exploit and fix GraphQL vulnerabilities.
 
 ## License
