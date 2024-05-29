@@ -12,11 +12,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Ruby 2.6
+      - uses: actions/checkout@v4
+      - name: Set up Ruby 3.3
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6
+          ruby-version: 3.3
       - name: Checks
         run: |
           gem install awesome_bot
