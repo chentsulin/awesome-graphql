@@ -207,6 +207,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphql-yoga](https://github.com/prisma-labs/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.
 - [graphitejs](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
 - [graphql-helix](https://github.com/contrawork/graphql-helix) - A highly evolved GraphQL HTTP Server.
+- [pylon](https://github.com/getcronit/pylon) - Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.
 
 ##### Databases & ORMs
 
