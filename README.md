@@ -630,7 +630,7 @@ If you want to contribute to this list (please do), send me a pull request.
 #### Rust Examples
 
 - [Warp GraphQL Juniper](https://graphql-rust.github.io/)
-- [Tailcall](https://tailcall.run/docs/getting_started/configuration)
+- [Tailcall](https://tailcall.run/docs/)
 
 <a name="d" />
 
