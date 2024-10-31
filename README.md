@@ -206,6 +206,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphitejs](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
 - [graphql-helix](https://github.com/contrawork/graphql-helix) - A highly evolved GraphQL HTTP Server.
 - [pylon](https://github.com/getcronit/pylon) - Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.
+- [modus](https://github.com/hypermodeinc/modus) - Serverless runtime based on WebAssembly that delivers auto-generated GraphQL APIs.
 
 ##### Databases & ORMs
 
