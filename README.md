@@ -202,6 +202,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphql-koa-scripts](https://github.com/ryanhs/graphql-koa-scripts) - GraphQL Koa 1 file simplified. usefull for quick test
 - [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
 - [mercurius](https://github.com/mercurius-js/mercurius) - GraphQL plugin for Fastify.
+- [modus](https://github.com/hypermodeinc/modus) - Serverless runtime based on WebAssembly that delivers auto-generated GraphQL APIs.
 - [graphql-yoga](https://github.com/prisma-labs/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.
 - [graphitejs](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
 - [graphql-helix](https://github.com/contrawork/graphql-helix) - A highly evolved GraphQL HTTP Server.
