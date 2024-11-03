@@ -269,6 +269,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [WunderGraph Cosmo](https://github.com/wundergraph/cosmo) - The Open-Source GraphQL Federation Solution with Full Lifecycle API Management for (Federated) GraphQL. Schema Registry, composition checks, analytics, metrics, tracing and routing.
 - [graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - A graphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance. Supports Federation v1 & v2, Subscriptions & more.
 - [graphql-sunset](https://github.com/sophiabits/graphql-sunset) - Quickly and easily add support for the `Sunset` header to your GraphQL server, to better communicate upcoming breaking changes.
+- [gqlhash](https://github.com/romshark/gqlhash) - Lightning fast GraphQL query hasher that ignores formatting diffs and comments and supports multiple hashing functions.
 
 <a name="js-example" />
 
