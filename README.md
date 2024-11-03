@@ -765,6 +765,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [ILLA Cloud](https://www.illacloud.com/) – Open-source low-code tool building platform provides an easy way to integrate with GraphQL with minimal configurations
 - [DronaHQ](https://www.dronahq.com/) - Build internal tools, dashboards, admin panel on top of GraphQL data in minutes
 - [Dynaboard](https://dynaboard.com) - Generate low-code web apps from any GraphQL API using AI.
+- [gqlhash](https://github.com/romshark/gqlhash) - Lightning fast query hasher that ignores formatting diffs and comments and supports multiple hashing functions.
   <a name="databases" />
 
 ## Databases
