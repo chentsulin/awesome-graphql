@@ -727,7 +727,6 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Tools - Prototyping
 
 - [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
-- [GraphQL Designer](http://graphqldesigner.com/) - A developer's web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
 
 ### Tools - Docs
 
