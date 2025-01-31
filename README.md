@@ -892,6 +892,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
 - [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 - [GraphQL at The Financial Times](https://www.slideshare.net/LondonReact/graph-ql)
+- [Implementing GraphQL RBAC Authorization: A Practical Guide](https://www.permit.io/blog/implementing-graphql-authorization)
 - [From REST to GraphQL](https://jacobwgillespie.com/2015-10-09-from-rest-to-graphql)
 - [GraphQL: A data query language](https://graphql.org/blog/graphql-a-query-language/)
 - [Subscriptions in GraphQL and Relay](https://graphql.org/blog/subscriptions-in-graphql-and-relay/)
