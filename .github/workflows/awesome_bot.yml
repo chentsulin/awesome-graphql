@@ -9,7 +9,7 @@ on:
     - cron: "0 0 * * 0" # Runs every Sunday at midnight UTC. You can customize the schedule using cron syntax.
 
 jobs:
-  build:
+  verify-links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
