@@ -455,7 +455,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphjin](https://github.com/dosco/graphjin): Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 - [graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) - A graphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance. Supports Federation v1 & v2, Subscriptions & more.
 - [vibeGraphql](https://github.com/Raezil/vibeGraphql) - vibeGraphQL is a minimalistic GraphQL library for Go that supports queries, mutations, and subscriptions with a clean and intuitive API. It was vibe coded using ChatGPT o3 model.
-
+- [Thunder](https://github.com/Raezil/Thunder) - A scalable microservices framework powered by Go, gRPC-Gateway, Prisma, and Kubernetes. It exposes REST, gRPC and Graphql
 <a name="go-example" />
 
 #### Go Examples
