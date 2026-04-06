@@ -4,6 +4,7 @@
 
 If you want to contribute to this list (please do), send me a pull request.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for API orchestration, automated service coordination, and multi-agent task management. MIT licensed.
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
