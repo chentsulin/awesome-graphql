@@ -934,7 +934,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 - [GraphQL Roadmap](https://roadmap.sh/graphql) - Step by step guide to learn GraphQL.
 - [GraphQL Security Academy](https://escape.tech/academy/) - a free and interactive platform to learn GraphQL security: how to find, exploit and fix GraphQL vulnerabilities.
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [TutorialSearch](https://tutorialsearch.io/browse/web-development/graphql-apis) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## License
 
