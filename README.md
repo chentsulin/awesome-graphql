@@ -730,6 +730,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL Cop](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 - [GraphQLer](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 - [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
+- [hasura-security](https://github.com/Perufitlife/hasura-security) - Active-probe security auditor for self-hosted Hasura GraphQL Engine: detects open introspection, public-role data leaks and unauthenticated endpoints
 
 ### Tools - Browser Extensions
 
