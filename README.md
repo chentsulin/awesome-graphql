@@ -172,6 +172,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [aws-amplify](https://github.com/aws-amplify/amplify-js) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
 - [gqty](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
 - [genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
+- [zodql](https://github.com/mattiasahlsen/zodql) - Type-safe GraphQL client that uses Zod schemas as the single source of truth to build queries, infer response types, and validate responses at runtime.
 
 ##### Frontend Framework Integrations
 
