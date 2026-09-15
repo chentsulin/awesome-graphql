@@ -1,0 +1,42 @@
+name: Report a list problem
+description: Report a broken, outdated, duplicate, or incorrectly described entry.
+title: "[List]: "
+labels: [maintenance]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping keep the list accurate and useful.
+  - type: input
+    id: resource
+    attributes:
+      label: Resource
+      description: Provide the name and URL of the affected resource.
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - Broken link
+        - Unmaintained, archived, or deprecated resource
+        - Duplicate entry
+        - Inaccurate description or category
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain the problem and include supporting links where useful.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched existing issues for this resource.
+          required: true

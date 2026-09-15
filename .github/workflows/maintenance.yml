@@ -1,0 +1,66 @@
+name: Maintenance
+
+on:
+  schedule:
+    - cron: "0 9 1 */3 *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  dependency-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Create dependency review issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_TITLE: Quarterly dependency review
+        run: |
+          existing="$(gh issue list \
+            --repo "$GITHUB_REPOSITORY" \
+            --state open \
+            --label maintenance \
+            --search "\"$ISSUE_TITLE\" in:title" \
+            --json number \
+            --jq length)"
+
+          if [[ "$existing" -eq 0 ]]; then
+            gh issue create \
+              --repo "$GITHUB_REPOSITORY" \
+              --title "$ISSUE_TITLE" \
+              --label maintenance \
+              --body $'Review manually pinned dependencies and tools.\n\n- [ ] Check versions in `mise.toml`.\n- [ ] Check `awesome-lint` in `package.json` and refresh `pnpm-lock.yaml`.\n- [ ] Check gems in `Gemfile` and refresh `Gemfile.lock`.\n- [ ] Check pinned GitHub Action commits and version comments.\n- [ ] Run `pnpm install --frozen-lockfile` and `pnpm test`.\n- [ ] Run the Awesome Bot workflow manually after updating.'
+          fi
+
+  list-curation-review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Create list curation review issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_TITLE: Quarterly list curation review
+        run: |
+          existing="$(gh issue list \
+            --repo "$GITHUB_REPOSITORY" \
+            --state open \
+            --label maintenance \
+            --search "\"$ISSUE_TITLE\" in:title" \
+            --json number \
+            --jq length)"
+
+          if [[ "$existing" -eq 0 ]]; then
+            gh issue create \
+              --repo "$GITHUB_REPOSITORY" \
+              --title "$ISSUE_TITLE" \
+              --label maintenance \
+              --body $'Review the list for resources that no longer meet its quality bar.\n\n- [ ] Review failed and allowlisted links.\n- [ ] Remove archived, abandoned, deprecated, or undocumented resources.\n- [ ] Verify descriptions remain accurate and objective.\n- [ ] Check that entries remain in the most relevant categories.\n- [ ] Run `pnpm test`.\n- [ ] Run the Awesome Bot workflow manually after updating.'
+          fi

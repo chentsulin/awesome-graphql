@@ -2,17 +2,18 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
+- Read [the Awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
-- A link back to this list from yours, so users can discover more lists, would be appreciated.
-- Make an individual pull request for each suggestion.
-- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-- Use the following format: `[List Name](link)`
+- Only submit resources you have personally evaluated and can recommend.
+- Do not submit unmaintained, archived, deprecated, or undocumented resources.
+- Make one pull request for each suggestion.
+- Use the format `[Name](https://example.com) - Description.`
+- Use title case for names. Start descriptions with an uppercase letter and end them with a period.
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
+- Run `pnpm install` and `pnpm test` before submitting.
+- Ensure your editor removes trailing whitespace.
 - The pull request and commit should have a useful title.
 
 Thank you for your suggestions!

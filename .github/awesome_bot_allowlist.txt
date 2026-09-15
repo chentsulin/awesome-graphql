@@ -1,0 +1,16 @@
+# Exact URLs that reject automated requests. Remove entries when they become checkable.
+https://x.com/search?q=%23GraphQL
+https://stackoverflow.com/questions/tagged/graphql
+https://www.reddit.com/r/graphql/
+
+# Medium returns HTTP 403 to awesome_bot.
+https://medium.com/the-guild
+https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e
+https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433
+https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2
+https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247
+https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6
+https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61
+https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e
+https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464
+https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd
