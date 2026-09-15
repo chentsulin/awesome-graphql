@@ -718,6 +718,7 @@
 - [Vedika](https://vedika.io) - Vedic astrology AI API with GraphQL support for horoscopes, birth charts, kundali matching, and 108+ endpoints.
 - [Grafbase](https://grafbase.com) - Instant GraphQL APIs for any data source.
 - [Unchained Engine](https://github.com/unchainedshop/unchained) - GraphQL-first open-source headless e-commerce framework for Node.js.
+- [Codex](https://www.codex.io) - GraphQL API for real-time and historical on-chain data, including token prices, charts, and holders across 90+ networks.
 
 ### CDN
 
