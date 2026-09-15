@@ -1,0 +1,49 @@
+.github/CODEOWNERS
+  s_165cc30bdbae65::t_5aef451d20a547 1
+.github/ISSUE_TEMPLATE/config.yml
+  s_165cc30bdbae65::t_24e26e1992953b 1-5
+.github/ISSUE_TEMPLATE/list-problem.yml
+  s_165cc30bdbae65::t_aa86a35d9be68b 1-42
+.github/awesome_bot_allowlist.txt
+  s_165cc30bdbae65::t_5809b559a9d5a5 1-16
+.github/pull_request_template.md
+  s_165cc30bdbae65::t_ec988d50d3022b 1,3-16
+.github/workflows/awesome_bot.yml
+  s_165cc30bdbae65::t_87a1c1598e7ebd 6,8-15,18-33,35,37-38,40-45,47-56
+.github/workflows/maintenance.yml
+  s_165cc30bdbae65::t_88201dd3d382c9 1-66
+.gitignore
+  s_165cc30bdbae65::t_7d2b8403adbb8a 1-3
+CONTRIBUTING.md
+  s_165cc30bdbae65::t_1596e68a17bbf7 5,7-11,15-16
+Gemfile
+  s_165cc30bdbae65::t_34e87448746b17 1-3
+Gemfile.lock
+  s_165cc30bdbae65::t_5a019351d0f879 1-15
+LICENSE
+  s_165cc30bdbae65::t_4d820cc4eb76b2 1-41
+mise.toml
+  s_165cc30bdbae65::t_1d2c39bd1de978 1-4
+package.json
+  s_165cc30bdbae65::t_08a0c126663c47 1-11
+pnpm-lock.yaml
+  s_165cc30bdbae65::t_14802a27dcf3ba 1-2962
+README.md
+  s_165cc30bdbae65::t_bbd2bb851b1073 1-21,30-33,39,45,51,60-77,89,97,99,101,115,128,132,155-160,168,170,172-173,177,188,192-195,203,205,208-210,212,222-224,231,243-244,246,261,275,282,287-288,291-292,299-300,308-309,312-314,316,322-323,325,351,353,366,374,376-377,379-382,389,398,414-416,432-433,440,456-457,514,550,557,570,584-585,591-592,596-597,610,615,620,622,630,633,636-637,643,645-654,658,671,678,683-687,689-692,701-702,704-705,711,715,720,739-744,750-772,778,833,845,859,861,863
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "44f627a9624e11bbdbff65e47a6aded83d2ebcd2",
+  "prompts": {},
+  "sessions": {
+    "s_165cc30bdbae65": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "eac8a39e-8135-4c80-95ee-50c91b4553d2",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
