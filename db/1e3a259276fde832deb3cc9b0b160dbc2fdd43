@@ -1,0 +1,24 @@
+.github/ISSUE_TEMPLATE/list-problem.yml
+  s_165cc30bdbae65::t_3e8a64a7319ee8 1-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "db1e3a259276fde832deb3cc9b0b160dbc2fdd43",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  },
+  "sessions": {
+    "s_165cc30bdbae65": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "eac8a39e-8135-4c80-95ee-50c91b4553d2",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
