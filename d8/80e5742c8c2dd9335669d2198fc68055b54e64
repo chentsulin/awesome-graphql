@@ -1,0 +1,26 @@
+Gemfile
+  h_ac004aadb63da9 1-3
+Gemfile.lock
+  s_165cc30bdbae65::t_28066240446046 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d880e5742c8c2dd9335669d2198fc68055b54e64",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  },
+  "sessions": {
+    "s_165cc30bdbae65": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "eac8a39e-8135-4c80-95ee-50c91b4553d2",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
