@@ -1,0 +1,25 @@
+.github/workflows/awesome_bot.yml
+  s_165cc30bdbae65::t_2094538ed40578 24,32,35
+  s_165cc30bdbae65::t_8858b63104fdf3 7-14,17,19,21-22,25-31,33-34,36-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2b1d9642f564e3b1557bdb1f7be725715019e0a0",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  },
+  "sessions": {
+    "s_165cc30bdbae65": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "eac8a39e-8135-4c80-95ee-50c91b4553d2",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
