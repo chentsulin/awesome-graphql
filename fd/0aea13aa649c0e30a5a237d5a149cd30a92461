@@ -1,0 +1,14 @@
+Gemfile.lock
+  h_ac004aadb63da9 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fd0aea13aa649c0e30a5a237d5a149cd30a92461",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
