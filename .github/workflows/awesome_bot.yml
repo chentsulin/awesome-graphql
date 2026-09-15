@@ -2,22 +2,55 @@ name: Awesome Bot
 
 on:
   push:
-    branches: ["*"]
   pull_request:
-    branches: ["*"]
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0" # Runs every Sunday at midnight UTC. You can customize the schedule using cron syntax.
+    - cron: "0 0 * * 0"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: awesome-bot-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  verify-links:
+  lint:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - name: Set up Ruby 3.3
-        uses: ruby/setup-ruby@v1
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          ruby-version: 3.3
-      - name: Checks
+          persist-credentials: false
+      - name: Set up tools
+        uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4.3.0
+      - name: Install lint dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Lint list
+        run: pnpm test
+
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Set up tools
+        uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4.3.0
+      - name: Install awesome_bot
+        run: bundle install --jobs 4 --retry 3
+      - name: Check links
         run: |
-          gem install awesome_bot
-          awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 429 --white-list x.com,stackoverflow.com,reddit.com,drupal.org,medium.com,the-guild.dev/graphql/inspector
+          allowlist="$(grep -Ev '^[[:space:]]*(#|$)' .github/awesome_bot_allowlist.txt | paste -sd,)"
+          bundle exec awesome_bot README.md \
+            --allow-ssl \
+            --allow-dupe \
+            --allow-redirect \
+            --allow-timeout \
+            --allow 429 \
+            --set-timeout 10 \
+            --skip-save-results \
+            --white-list "$allowlist"
