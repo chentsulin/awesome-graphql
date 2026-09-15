@@ -1,0 +1,29 @@
+.github/awesome_bot_allowlist.txt
+  s_165cc30bdbae65::t_7e4ccd652120e4 9
+  s_165cc30bdbae65::t_25f35d890cda7d 1,5-6
+  h_ac004aadb63da9 2-4,7-8,10-16
+.github/workflows/awesome_bot.yml
+  s_165cc30bdbae65::t_13fa19159853ab 34,36-44
+  s_165cc30bdbae65::t_25f35d890cda7d 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4ada0be46c054b6c422211300095f4e50445fac3",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  },
+  "sessions": {
+    "s_165cc30bdbae65": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "eac8a39e-8135-4c80-95ee-50c91b4553d2",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
