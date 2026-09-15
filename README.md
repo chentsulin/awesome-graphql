@@ -548,14 +548,12 @@
 - [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
 - [graphql-client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly support.
 - [graphql-parser](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
-- [tailcall](https://github.com/tailcallhq/tailcall) - A platform for building high-performance GraphQL backends.
 
 <a name="rust-example" />
 
 #### Rust Examples
 
 - [Warp GraphQL Juniper](https://graphql-rust.github.io/) - Warp web framework integration example with a Juniper GraphQL server.
-- [Tailcall](https://tailcall.run/docs/) - GraphQL backend development platform with federation support.
 
 <a name="d" />
 
@@ -856,7 +854,7 @@
 - [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
 - [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 - [GraphQL Roadmap](https://roadmap.sh/graphql) - Step by step guide to learn GraphQL.
-- [OWASP GraphQL Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Security_Cheat_Sheet.html) - Comprehensive guide for securing GraphQL endpoints and preventing vulnerabilities.
+- [OWASP GraphQL Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Comprehensive guide for securing GraphQL endpoints and preventing vulnerabilities.
 
 ## Contributing
 
