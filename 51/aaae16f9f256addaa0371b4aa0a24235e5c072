@@ -1,0 +1,27 @@
+mise.toml
+  s_165cc30bdbae65::t_410808afc66dc9 1
+  s_165cc30bdbae65::t_95e90668ee0741 4
+  s_165cc30bdbae65::t_731613e1e95548 3
+  s_165cc30bdbae65::t_b6aaa2986cd566 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "51aaae16f9f256addaa0371b4aa0a24235e5c072",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  },
+  "sessions": {
+    "s_165cc30bdbae65": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "eac8a39e-8135-4c80-95ee-50c91b4553d2",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
