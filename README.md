@@ -667,6 +667,7 @@
 - [spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
 - [graphql-markdown](https://graphql-markdown.github.io/) - Flexible documentation for GraphQL powered with Docusaurus.
 - [xyd](https://xyd.dev) - Generate GraphQL API docs.
+- [Cortex](https://github.com/cortex-docs/cortex) - Generates interactive API documentation and typed SDKs from GraphQL schemas.
 
 ### Tools - Editor Plugins
 
