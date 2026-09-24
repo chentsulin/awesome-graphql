@@ -11,6 +11,13 @@
   "rangeStrategy": "pin",
   "packageRules": [
     {
+      "description": "Do not pin the Renovate action's version input by digest",
+      "matchFileNames": [".github/workflows/renovate.yml"],
+      "matchPackageNames": ["ghcr.io/renovatebot/renovate"],
+      "matchUpdateTypes": ["pinDigest"],
+      "enabled": false
+    },
+    {
       "matchDepTypes": ["engines"],
       "rangeStrategy": "auto"
     },
