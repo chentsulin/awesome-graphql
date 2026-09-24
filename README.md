@@ -31,12 +31,17 @@
 - [OpenCRUD](https://github.com/opencrud/opencrud) - CRUD API specification for GraphQL databases.
 - [GraphQXL](https://gabotechs.github.io/graphqxl/) - Extension of the GraphQL language for creating large, scalable server-side schemas.
 - [GraphQL Scalars](https://www.graphql-scalars.com/) - Hosts community-defined custom scalar specifications for use with `@specifiedBy`.
+- [Apollo Technical Specifications](https://specs.apollo.dev/) - Registry of Apollo's versioned GraphQL schema and protocol specifications.
+- [Apollo Link](https://specs.apollo.dev/link/v1.0/) - Draft specification for linking a GraphQL schema to external schemas and importing their definitions.
+- [Apollo Incremental Delivery](https://specs.apollo.dev/incremental/v0.2/) - Specification for the response format and client behavior used with `@defer` and `@stream`.
 
 ## Federation & Schema Composition
 
 ### Specification
 
-- [Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) - Specification for composing multiple GraphQL services.
+- [GraphQL Federation](https://graphql.github.io/graphql-federation-spec/) - Prerelease working draft for composing independently developed GraphQL schemas into a unified graph.
+- [Apollo Federation](https://specs.apollo.dev/federation/v2.9/) - Apollo's specification for composing subgraphs into a federated supergraph.
+- [Apollo Join](https://specs.apollo.dev/join/v0.3/) - Specification for describing subgraphs and field resolution in a supergraph schema.
 
 ### Implementations & Platforms
 
