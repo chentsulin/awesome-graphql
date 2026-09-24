@@ -50,7 +50,7 @@
 - [X](https://x.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers using the tag `graphql`.
 - [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs.
-- [/r/GraphQL](https://www.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
+- [/r/GraphQL](https://www.reddit.com/r/graphql/) - A subreddit for GraphQL news, resources, and discussions.
 
 <a name="meetup" />
 
@@ -793,21 +793,21 @@
 
 ## Blogs
 
-- [Official GraphQL blog](https://graphql.org/blog/)
-- [Building Apollo](https://blog.apollographql.com/)
-- [The Guild blog](https://medium.com/the-guild)
-- [Production Ready GraphQL blog](https://productionreadygraphql.com)
+- [Official GraphQL blog](https://graphql.org/blog/) - News and technical articles from the GraphQL project.
+- [Building Apollo](https://blog.apollographql.com/) - Product updates and engineering articles from Apollo GraphQL.
+- [The Guild blog](https://medium.com/the-guild) - Articles from The Guild about GraphQL tools and practices.
+- [Production Ready GraphQL blog](https://productionreadygraphql.com) - Guidance for designing and operating production GraphQL systems.
 
 <a name="security-blog" />
 
 ### Blogs - Security
 
 - [Escape - The GraphQL Security Blog](https://escape.tech/blog) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
-- [9 GraphQL Security Best Practices](https://escape.tech/blog/9-graphql-security-best-practices/)
-- [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
-- [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
-- [Security Points to Consider Before Implementing GraphQL](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/)
-- [Authorization Patterns in GraphQL](https://www.osohq.com/post/graphql-authorization)
+- [9 GraphQL Security Best Practices](https://escape.tech/blog/9-graphql-security-best-practices/) - Practical measures for protecting GraphQL APIs from common attacks.
+- [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e) - Walkthrough of GraphQL endpoint discovery and SQL injection testing.
+- [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/) - Overview of common GraphQL security risks and mitigations.
+- [Security Points to Consider Before Implementing GraphQL](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/) - Security considerations for teams adopting GraphQL.
+- [Authorization Patterns in GraphQL](https://www.osohq.com/post/graphql-authorization) - Comparison of authorization patterns for GraphQL APIs.
 
 <a name="post" />
 
