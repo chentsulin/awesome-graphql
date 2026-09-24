@@ -4,6 +4,10 @@ https://stackoverflow.com/questions/tagged/graphql
 https://www.reddit.com/r/graphql/
 https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/
 
+# Temporary failures observed 2026-09-24. Ratify or remove after manual review.
+https://relaymeetup.com/
+https://subzero.cloud/
+
 # Medium returns HTTP 403 to awesome_bot.
 https://medium.com/the-guild
 https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e
