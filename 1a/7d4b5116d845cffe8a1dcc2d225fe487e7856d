@@ -1,0 +1,14 @@
+renovate.json5
+  h_ac004aadb63da9 3-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1a7d4b5116d845cffe8a1dcc2d225fe487e7856d",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
