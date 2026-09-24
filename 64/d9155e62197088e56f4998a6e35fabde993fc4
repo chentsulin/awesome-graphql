@@ -1,0 +1,19 @@
+.github/awesome_bot_allowlist.txt
+  s_757f0fcbc884ff::t_b6481ed2c5695e 5,17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "64d9155e62197088e56f4998a6e35fabde993fc4",
+  "prompts": {},
+  "sessions": {
+    "s_757f0fcbc884ff": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f2c5b3ec5ffer1OKEfDmjvgq3o",
+        "model": "unknown"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
