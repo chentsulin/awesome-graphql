@@ -1,6 +1,25 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:best-practices", "helpers:pinGitHubActionDigests"],
+  "extends": [
+    "config:best-practices",
+    ":disableRateLimiting",
+    ":enableVulnerabilityAlerts",
+    ":separateMultipleMajorReleases",
+    "helpers:pinGitHubActionDigests",
+  ],
+  "labels": ["dependency"],
+  "rangeStrategy": "pin",
+  "packageRules": [
+    {
+      "matchDepTypes": ["engines"],
+      "rangeStrategy": "auto"
+    },
+    {
+      "description": "Remove word `dependency` from commit messages and PR titles",
+      "matchDatasources": ["npm"],
+      "commitMessageTopic": "{{depName}}"
+    }
+  ],
   "customManagers": [
     {
       "customType": "regex",
