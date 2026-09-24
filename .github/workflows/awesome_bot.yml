@@ -2,6 +2,8 @@ name: Awesome Bot
 
 on:
   push:
+    branches:
+      - master
   pull_request:
   workflow_dispatch:
   schedule:
