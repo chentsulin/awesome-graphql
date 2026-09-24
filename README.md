@@ -13,13 +13,13 @@
 - [Tools](#tools)
 - [Databases & Data Platforms](#databases--data-platforms)
 - [Services](#services)
+- [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Style Guides](#style-guides)
 - [Blogs](#blogs)
 - [Posts](#posts)
-- [Tutorials](#tutorials)
 
 <a name="spec" />
 
@@ -766,6 +766,16 @@
 - [Hygraph](https://hygraph.com/) - Federated content platform for composing and delivering content through GraphQL APIs.
 - [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 
+<a name="tutorials" />
+
+## Tutorials
+
+- [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more.
+- [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
+- [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
+- [GraphQL Roadmap](https://roadmap.sh/graphql) - Step by step guide to learn GraphQL.
+- [OWASP GraphQL Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Comprehensive guide for securing GraphQL endpoints and preventing vulnerabilities.
+
 <a name="book" />
 
 ## Books
@@ -883,16 +893,6 @@
 - [Authentication and Authorization for GraphQL APIs](https://www.moesif.com/blog/technical/api-design/Steps-to-Building-Authentication-and-Authorization-For-GraphQL-APIs/) - Guide to authentication and authorization patterns for GraphQL APIs.
 - [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/) - Guide to hiding selected schema elements from GraphQL introspection.
 - [How to Test your GraphQL Endpoints](https://escape.tech/blog/8-most-common-graphql-vulnerabilities/) - Overview of common GraphQL vulnerabilities and how to test for them.
-
-<a name="tutorials" />
-
-## Tutorials
-
-- [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more.
-- [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
-- [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
-- [GraphQL Roadmap](https://roadmap.sh/graphql) - Step by step guide to learn GraphQL.
-- [OWASP GraphQL Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Comprehensive guide for securing GraphQL endpoints and preventing vulnerabilities.
 
 ## Contributing
 
