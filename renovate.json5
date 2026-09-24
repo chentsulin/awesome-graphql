@@ -19,14 +19,5 @@
       "matchDatasources": ["npm"],
       "commitMessageTopic": "{{depName}}"
     }
-  ],
-  "customManagers": [
-    {
-      "customType": "regex",
-      "managerFilePatterns": ["/^\\.github/workflows/renovate\\.yml$/"],
-      "matchStrings": ["renovate-version: (?<currentValue>\\d+\\.\\d+\\.\\d+)"],
-      "depNameTemplate": "renovate",
-      "datasourceTemplate": "npm"
-    }
   ]
 }
