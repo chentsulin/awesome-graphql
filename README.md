@@ -715,7 +715,7 @@
 
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - A GraphQL analaytics and monitoring service to find functional and performance issues.
 - [Booster framework](https://booster.cloud/) - An open-source framework that makes you _completely_ forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
-- [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL.
+- [Nhost](https://nhost.io/) - Open source backend with a GraphQL API over Postgres, plus auth, storage and functions.
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
 - [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
 - [Vedika](https://vedika.io) - Vedic astrology AI API with GraphQL support for horoscopes, birth charts, kundali matching, and 108+ endpoints.
