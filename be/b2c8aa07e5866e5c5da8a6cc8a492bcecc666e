@@ -1,0 +1,20 @@
+README.md
+  s_a05e96271f8800::t_fb0996e409addf 16,769-777
+  s_a05e96271f8800::t_0927e3cb4648df 778
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "beb2c8aa07e5866e5c5da8a6cc8a492bcecc666e",
+  "prompts": {},
+  "sessions": {
+    "s_a05e96271f8800": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "dc72c308-d6a3-4cb2-9ccd-90d7ec6913ac",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
