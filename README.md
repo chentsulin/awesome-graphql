@@ -603,7 +603,7 @@
 
 ### Tools - Editors & IDEs & Explorers
 
-- [GraphiQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
+- [GraphiQL](https://github.com/graphql/graphiql) - Reference ecosystem for building browser and IDE tools around GraphQL and the GraphQL language server.
 - [GraphQL Editor](https://github.com/graphql-editor/graphql-editor) - Visual Editor & GraphQL IDE.
 - [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 - [Altair GraphQL Client](https://github.com/altair-graphql/altair) - A beautiful feature-rich GraphQL Client for all platforms.
@@ -682,15 +682,13 @@
 - [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 - [apollo-tracing](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
 - [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
-- [Prisma](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
+- [Prisma](https://github.com/prisma/orm) - Type-safe ORM for Node.js and TypeScript that can serve as the data layer for GraphQL APIs.
 - [Typetta](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers and the GraphQL, Node.js, and TypeScript stack.
 - [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any SQLite database.
-- [Bit](https://github.com/teambit/bit) - Organize GraphQL API components for reuse across projects.
 - [openapi-to-graphql](https://github.com/ibm/openapi-to-graphql) - Convert OpenAPI Specification or Swagger definitions to GraphQL interfaces.
 - [Retool](https://retool.com/) - Internal tools builder on top of GraphQL APIs with a GraphQL IDE and schema explorer.
 - [dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - An opinionated JavaScript library for automatically generating predictable, type safe DataLoaders over a set of resources (e.g. HTTP endpoints).
-- [raphql-inspector](https://github.com/kamilkisiela/graphql-inspector) - Validate schemas and operations, get schema change notifications, find breaking changes and similar types, and measure schema coverage.
-- [amplication](https://github.com/amplication/amplication) - Open source low-code development tool that builds database applications with REST and GraphQL APIs.
+- [amplication](https://github.com/amplication/amplication) - Platform for defining golden paths and generating standardized backend services, including GraphQL APIs through plugins.
 - [Blendbase](https://github.com/blendbase/blendbase) - Single open source GraphQL API for connecting CRMs to SaaS applications.
 - [DronaHQ](https://www.dronahq.com/) - Build internal tools, dashboards, and admin panels on top of GraphQL data in minutes.
 - [Dynaboard](https://dynaboard.com) - Generate low-code web apps from any GraphQL API using AI.
@@ -701,11 +699,10 @@
 
 ## Databases
 
-- [Cube](https://github.com/cube-js/cube.js) - Headless BI platform for building data applications with GraphQL, SQL, and REST APIs with sub-second latency.
+- [Cube](https://github.com/cube-js/cube) - Open-source semantic layer for AI, BI, and embedded analytics with GraphQL, SQL, and REST APIs.
 - [Dgraph](https://dgraph.io/) - Scalable, distributed, low-latency, high-throughput graph database with GraphQL as the query language.
-- [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
 - [ArangoDB](https://arangodb.com/) - Native multi-model database with GraphQL support through Foxx microservices.
-- [Weaviate](https://github.com/semi-technologies/weaviate) - Cloud-native, modular, real-time vector search engine with a GraphQL interface that scales machine learning models.
+- [Weaviate](https://github.com/weaviate/weaviate) - Open-source vector database combining vector search, structured filtering, and a GraphQL interface.
 
 <a name="services" />
 
@@ -713,11 +710,11 @@
 
 - [AWS AppSync](https://aws.amazon.com/appsync/) - Scalable managed GraphQL service with subscriptions for building real-time and offline-first apps.
 
-- [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - A GraphQL analaytics and monitoring service to find functional and performance issues.
-- [Booster framework](https://booster.cloud/) - An open-source framework that makes you _completely_ forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
-- [Nhost](https://nhost.io/) - Open source backend with a GraphQL API over Postgres, plus auth, storage and functions.
-- [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
-- [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
+- [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - GraphQL analytics and monitoring service for identifying functional and performance issues.
+- [Booster framework](https://booster.cloud/) - Open-source serverless framework that generates GraphQL queries, mutations, and subscriptions from application models.
+- [Nhost](https://nhost.io/) - Open source backend with a GraphQL API over PostgreSQL, plus auth, storage and functions.
+- [Saleor](https://github.com/saleor/saleor/) - High-performance, composable headless commerce API built with GraphQL.
+- [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open-source data gateway that generates GraphQL APIs for Apache Cassandra and DataStax Enterprise tables.
 - [Vedika](https://vedika.io) - Vedic astrology AI API with GraphQL support for horoscopes, birth charts, kundali matching, and 108+ endpoints.
 - [Grafbase](https://grafbase.com) - Instant GraphQL APIs for any data source.
 - [Unchained Engine](https://github.com/unchainedshop/unchained) - GraphQL-first open-source headless e-commerce framework for Node.js.
@@ -725,13 +722,13 @@
 
 ### CDN
 
-- [GraphCDN](https://graphcdn.io/) - GraphQL CDN for caching GraphQL APIs.
+- [Stellate](https://stellate.co/) - GraphQL edge platform for caching, observability, and API security, formerly known as GraphCDN.
 
 ### CMS
 
-- [DatoCMS](https://www.datocms.com/) - CDN-based GraphQL based Headless Content Management System.
-- [Apito](https://apito.io/) - A Cloud Based Headless CMS with CDN, Webhooks, Team Collaborations, Content Revision, Cloud Functions.
-- [Hygraph](https://hygraph.com/) - Build Scalable Content Experiences.
+- [DatoCMS](https://www.datocms.com/) - Headless content management system with a CDN-backed GraphQL Content Delivery API.
+- [Apito](https://apito.io/) - Cloud-based headless CMS with GraphQL APIs, a CDN, webhooks, collaboration, revisions, and cloud functions.
+- [Hygraph](https://hygraph.com/) - Federated content platform for composing and delivering content through GraphQL APIs.
 - [Cosmic](https://www.cosmicjs.com/) - GraphQL-powered Headless CMS and API toolkit.
 - [Graphweaver](https://graphweaver.com/) - Turn multiple datasources into a single GraphQL API.
 
