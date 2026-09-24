@@ -228,11 +228,11 @@
 
 ### Ruby
 
-- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL with tools for defining schemas, executing queries, and serving subscriptions.
 - [graphql-batch](https://github.com/Shopify/graphql-batch) - Query batching executor for the GraphQL Ruby gem.
 - [graphql-auth](https://github.com/o2web/graphql-auth) - A JWT auth wrapper working with devise.
-- [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
-- [GQLi](https://github.com/contentful-labs/gqli.rb) - A GraphQL client and DSL. Allowing to write queries in native Ruby.
+- [agoo](https://github.com/ohler55/agoo) - High-performance Ruby web server with GraphQL support.
+- [GQLi](https://github.com/contentful-labs/gqli.rb) - A GraphQL client and DSL for writing queries in native Ruby.
 
 <a name="rb-example" />
 
@@ -253,28 +253,28 @@
 - [graphql-php](https://github.com/webonyx/graphql-php) - A PHP port of GraphQL reference implementation.
 - [graphql-relay-php](https://github.com/ivome/graphql-relay-php) - Relay helpers for webonyx/graphql-php implementation of GraphQL.
 - [lighthouse](https://github.com/nuwave/lighthouse) - A PHP package that allows to serve a GraphQL endpoint from your Laravel application.
-- [graphql-laravel](https://github.com/rebing/graphql-laravel) - Laravel wrapper for Facebook's GraphQL.
+- [graphql-laravel](https://github.com/rebing/graphql-laravel) - Laravel package for building GraphQL APIs with webonyx/graphql-php.
 - [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
 - [wp-graphql](https://github.com/wp-graphql/wp-graphql) - GraphQL API for WordPress.
 - [graphqlite](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
 - [siler](https://github.com/leocavalcante/siler) - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.
 - [graphql-request-builder](https://github.com/dpauli/php-graphql-request-builder) - Builds request payload in GraphQL structure.
-- [Drupal GraphQL](https://www.drupal.org/project/graphql) - Craft and expose a GraphQL schema for Drupal 9 and 10.
+- [Drupal GraphQL](https://www.drupal.org/project/graphql) - Drupal module for crafting and exposing GraphQL schemas.
 - [jerowork/graphql-schema-builder](https://github.com/jerowork/graphql-attribute-schema) - Easily build your GraphQL schema for webonyx/graphql-php using PHP attributes instead of large configuration arrays.
 
 <a name="php-example" />
 
 #### PHP Examples
 
-- [siler-graphgl](https://github.com/leocavalcante/siler/tree/main/examples/graphql) - An example GraphQL server written with Siler.
+- [siler-graphql](https://github.com/leocavalcante/siler/tree/main/examples/graphql) - An example GraphQL server written with Siler.
 
 <a name="py" />
 
 ### Python
 
 - [graphql-parser](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python.
-- [graphql-core](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python based on the GraphQL.js v16.3.0 reference implementation.
-- [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a graphql-py server supporting react-relay.
+- [graphql-core](https://github.com/graphql-python/graphql-core) - Python port of the GraphQL.js reference implementation.
+- [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py) - A library for building GraphQL servers that support the Relay server specification.
 - [graphql-parser-python](https://github.com/tallstreet/graphql-parser-python) - A python wrapper around libgraphqlparser.
 - [graphene](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
 - [graphene-gae](https://github.com/graphql-python/graphene-gae) - Adds GraphQL support to Google AppEngine (GAE).
@@ -284,11 +284,11 @@
 - [python-graphjoiner](https://github.com/healx/python-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
 - [graphene-django](https://github.com/graphql-python/graphene-django) - A Django integration for Graphene.
 - [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth) - An authentication library for Flask inspired from flask-jwt-extended.
-- [tartiflette](https://github.com/dailymotion/tartiflette) - GraphQL Implementation, SDL First, for python 3.6+ / asyncio.
-- [tartiflette-aiohttp](https://github.com/dailymotion/tartiflette-aiohttp) - Wrapper of Tartiflette to expose GraphQL API over HTTP based on aiohttp / 3.6+ / asyncio with an official tutorial available on tartiflette.io.
+- [tartiflette](https://github.com/dailymotion/tartiflette) - Schema-first asynchronous GraphQL engine for Python.
+- [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp) - Wrapper for exposing Tartiflette GraphQL APIs over HTTP with aiohttp.
 - [Ariadne](https://github.com/mirumee/ariadne) - Library for implementing GraphQL servers using a schema-first approach. Asynchronous query execution, batteries included for ASGI, WSGI and popular web frameworks with comprehensive documentation.
 - [django-graphql-auth](https://github.com/PedroBern/django-graphql-auth) - Django registration and authentication with GraphQL.
-- [strawberry](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python.
+- [strawberry](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library that uses type annotations to define schemas.
 - [turms](https://github.com/jhnnsrs/turms) - Pythonic GraphQL code generator built around graphql-core and Pydantic.
 - [rath](https://github.com/jhnnsrs/rath) - Apollo-like GraphQL client with asynchronous and synchronous interfaces.
 - [sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
@@ -402,7 +402,7 @@
 
 #### Scala Examples
 
-- [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](https://sangria-graphql.github.io/)
+- [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](https://sangria-graphql.github.io/).
 - [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
 
 <a name="dotnet" />
@@ -411,7 +411,7 @@
 
 - [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
 - [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
-- [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
+- [Hot Chocolate](https://github.com/ChilliCream/graphql-platform) - .NET GraphQL platform containing the Hot Chocolate server, Strawberry Shake client, and Nitro IDE.
 - [Snowflaqe](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and Fable.
 - [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - Library for building a GraphQL API on top of a data model with support for multiple data sources.
 - [ZeroQL](https://github.com/byme8/ZeroQL) - Type-safe GraphQL client with a LINQ-like interface for C#.
@@ -453,7 +453,7 @@
 
 - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
 - [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
-- [PostGraphile](https://github.com/graphile/postgraphile) - Lightning-fast GraphQL APIs for PostgreSQL: highly customisable; extensible via plugins; realtime.
+- [PostGraphile](https://github.com/graphile/crystal) - Extensible, plugin-based tooling for building high-performance GraphQL APIs from PostgreSQL schemas.
 - [Hasura](https://github.com/hasura/graphql-engine) - Provides instant real-time GraphQL APIs over new or existing PostgreSQL databases.
 - [subZero](https://subzero.cloud/) - GraphQL and REST API for databases.
 
@@ -499,7 +499,7 @@
 
 ### Android
 
-- [apollo-android](https://github.com/apollographql/apollo-android) - 📟 A strongly-typed, caching GraphQL client for Android, written in Java.
+- [apollo-kotlin](https://github.com/apollographql/apollo-kotlin) - A strongly typed, caching GraphQL client for the JVM, Android, and Kotlin Multiplatform.
 
 <a name="android-example" />
 
