@@ -327,7 +327,13 @@
 ### Java
 
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
+- [java-dataloader](https://github.com/graphql-java/java-dataloader) - DataLoader implementation that provides batching and caching to avoid N+1 data-fetching problems.
 - [DGS Framework](https://github.com/Netflix/dgs-framework) - A GraphQL server framework for Spring Boot, developed by Netflix.
+- [Spring for GraphQL](https://spring.io/projects/spring-graphql) - Official Spring integration for applications built on GraphQL Java.
+- [MicroProfile GraphQL](https://github.com/microprofile/microprofile-graphql) - Specification for developing portable, code-first GraphQL services with Enterprise Java.
+- [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) - Implementation of MicroProfile GraphQL with server, client, and tooling support.
+- [Micronaut GraphQL](https://github.com/micronaut-projects/micronaut-graphql) - Official Micronaut integration for building GraphQL Java servers.
+- [Vert.x Web GraphQL](https://vertx.io/docs/vertx-web-graphql/java/) - Official GraphQL Java integration for Vert.x Web.
 - [graphql-java-generator](https://github.com/graphql-java-generator) - Maven and Gradle plugins that generate both the **client** and the **server** (POJOs and utility classes). The server part is based on graphql-java and hides its boilerplate code.
 - [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - Automatically generates types for use with GraphQL Java.
 - [schemagen-graphql](https://github.com/bpatters/schemagen-graphql) - Schema generation and execution package that turns POJO's into a GraphQL Java queryable set of objects. Enables exposing any service as a GraphQL service using Annotations.
@@ -344,6 +350,7 @@
 - [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 - [Light Java GraphQL](https://github.com/networknt/light-graphql-4j) - Lightweight, fast microservices framework with cross-cutting concerns addressed and support for GraphQL schemas.
 - [Elide](https://elide.io) - Java library that exposes a JPA-annotated data model as a GraphQL service over a relational database.
+- [GraphQL JPA Query](https://github.com/introproventures/graphql-jpa-query) - Generates GraphQL query APIs from JPA entity models.
 - [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java.
 - [dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases.
 
@@ -360,6 +367,7 @@
 - [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR.
 - [manifold-graphql sample](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
 - [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects.
+- [Building a GraphQL service](https://spring.io/guides/gs/graphql-server) - Official Spring guide to building a GraphQL service.
 - [Spring Boot backend tutorial](https://hasura.io/learn/graphql/backend-stack/languages/java/) - A tutorial creating a GraphQL server and client using Spring Boot and Netflix DGS.
 
 <a name="kotlin" />
