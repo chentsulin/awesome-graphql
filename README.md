@@ -473,7 +473,6 @@
 - [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
 - [PostGraphile](https://github.com/graphile/crystal) - Extensible, plugin-based tooling for building high-performance GraphQL APIs from PostgreSQL schemas.
 - [Hasura](https://github.com/hasura/graphql-engine) - Provides instant real-time GraphQL APIs over new or existing PostgreSQL databases.
-- [subZero](https://subzero.cloud/) - GraphQL and REST API for databases.
 
 <a name="lua" />
 
