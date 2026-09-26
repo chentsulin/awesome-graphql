@@ -8,6 +8,7 @@
     "helpers:pinGitHubActionDigests",
   ],
   "labels": ["dependency"],
+  "prCreation": "immediate",
   "rangeStrategy": "pin",
   "packageRules": [
     {
