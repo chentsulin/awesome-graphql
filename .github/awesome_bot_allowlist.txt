@@ -3,6 +3,7 @@ https://x.com/search?q=%23GraphQL
 https://stackoverflow.com/questions/tagged/graphql
 https://www.reddit.com/r/graphql/
 https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/
+https://escape.tech/blog
 
 # Medium returns HTTP 403 to awesome_bot.
 https://medium.com/the-guild

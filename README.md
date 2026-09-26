@@ -367,7 +367,7 @@
 - [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR.
 - [manifold-graphql sample](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
 - [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects.
-- [Building a GraphQL service](https://spring.io/guides/gs/graphql-server) - Official Spring guide to building a GraphQL service.
+- [Spring for GraphQL reference](https://docs.spring.io/spring-graphql/reference/) - Official reference documentation for building GraphQL services with Spring.
 - [Spring Boot backend tutorial](https://hasura.io/learn/graphql/backend-stack/languages/java/) - A tutorial creating a GraphQL server and client using Spring Boot and Netflix DGS.
 
 <a name="kotlin" />
