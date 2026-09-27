@@ -4,6 +4,7 @@
     "config:best-practices",
     ":disableRateLimiting",
     ":enableVulnerabilityAlerts",
+    ":semanticCommitTypeAll(chore)",
     ":separateMultipleMajorReleases",
     "helpers:pinGitHubActionDigests",
   ],
