@@ -20,6 +20,7 @@ jobs:
       contents: write
       issues: write
       pull-requests: write
+      statuses: write
       vulnerability-alerts: read
     steps:
       - name: Check out repository
@@ -34,5 +35,6 @@ jobs:
           # A PAT lets Renovate-created pull requests trigger CI automatically.
           token: ${{ secrets.RENOVATE_TOKEN || github.token }}
         env:
+          LOG_LEVEL: debug
           RENOVATE_PLATFORM: github
           RENOVATE_REPOSITORIES: ${{ github.repository }}
