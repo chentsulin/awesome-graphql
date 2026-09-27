@@ -37,7 +37,7 @@ jobs:
         uses: renovatebot/github-action@9fea9f0fbf80401026d11d03911d62b1f70fef1f # v46.3.3
         with:
           configurationFile: .github/renovate-config.js
-          renovate-version: 44.112.3
+          renovate-version: 44.115.12
           # A PAT lets Renovate-created pull requests trigger CI automatically.
           token: ${{ secrets.RENOVATE_TOKEN }}
         env:
