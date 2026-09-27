@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 8 * * 1"
   workflow_dispatch:
+  issues:
+    types: [edited]
 
 permissions:
   contents: read
@@ -14,6 +16,10 @@ concurrency:
 
 jobs:
   renovate:
+    if: >-
+      github.event_name != 'issues' ||
+      (github.event.issue.title == 'Dependency Dashboard' &&
+      contains(github.event.issue.body, '- [x] <!--'))
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
@@ -33,7 +39,7 @@ jobs:
           configurationFile: .github/renovate-config.js
           renovate-version: 44.112.3
           # A PAT lets Renovate-created pull requests trigger CI automatically.
-          token: ${{ secrets.RENOVATE_TOKEN || github.token }}
+          token: ${{ secrets.RENOVATE_TOKEN }}
         env:
           LOG_LEVEL: debug
           RENOVATE_PLATFORM: github
