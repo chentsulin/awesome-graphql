@@ -6,7 +6,9 @@ on:
   workflow_dispatch:
   push:
     branches: [master]
-    paths: [renovate.json5]
+    paths:
+      - renovate.json5
+      - .github/workflows/renovate.yml
   issues:
     types: [edited]
 
