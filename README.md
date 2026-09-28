@@ -864,8 +864,8 @@
 ### Posts - General
 
 - [Using DataLoader to batch GraphQL requests](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433) - Guide to batching and caching data access with DataLoader.
-- [Introducing Relay and GraphQL](https://reactjs.org/blog/2015/02/20/introducing-relay-and-graphql.html) - Original announcement introducing Relay and GraphQL.
-- [GraphQL Introduction](https://reactjs.org/blog/2015/05/01/graphql-introduction.html) - Early overview of GraphQL's design and query model.
+- [Introducing Relay and GraphQL](https://legacy.reactjs.org/blog/2015/02/20/introducing-relay-and-graphql.html) - Original announcement introducing Relay and GraphQL.
+- [GraphQL Introduction](https://legacy.reactjs.org/blog/2015/05/01/graphql-introduction.html) - Early overview of GraphQL's design and query model.
 - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Community answers to common questions about Relay.
 - [Your First GraphQL Server](https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2) - Tutorial for creating a basic GraphQL server.
 - [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/) - Introduction to building GraphQL APIs with Node.js.
