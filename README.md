@@ -847,7 +847,7 @@
 ## Blogs
 
 - [Official GraphQL blog](https://graphql.org/blog/) - News and technical articles from the GraphQL project.
-- [Building Apollo](https://blog.apollographql.com/) - Product updates and engineering articles from Apollo GraphQL.
+- [Building Apollo](https://www.apollographql.com/blog/) - Product updates and engineering articles from Apollo GraphQL.
 - [The Guild blog](https://medium.com/the-guild) - Articles from The Guild about GraphQL tools and practices.
 - [Production Ready GraphQL blog](https://productionreadygraphql.com) - Guidance for designing and operating production GraphQL systems.
 
