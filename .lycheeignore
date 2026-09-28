@@ -1,6 +1,7 @@
 # Exact URLs that reject automated requests. Remove entries when they become checkable.
 ^https://x\.com/search\?q=%23GraphQL$
 ^https://stackoverflow\.com/questions/tagged/graphql$
+^https://www\.reddit\.com/r/graphql/$
 
 # Medium returns HTTP 403 to link checkers.
 ^https://medium\.com/the-guild$
