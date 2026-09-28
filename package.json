@@ -3,7 +3,7 @@
   "private": true,
   "packageManager": "pnpm@12.6.0",
   "scripts": {
-    "test": "awesome-lint"
+    "lint": "awesome-lint"
   },
   "devDependencies": {
     "awesome-lint": "2.3.0"

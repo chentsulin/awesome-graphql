@@ -13,4 +13,4 @@
 - [ ] The resource is maintained, documented, and not already listed.
 - [ ] I added the entry to the bottom of the most relevant category.
 - [ ] The name uses title case and the description starts with an uppercase letter and ends with a period.
-- [ ] I ran `pnpm test` locally.
+- [ ] I ran `pnpm lint` locally.
