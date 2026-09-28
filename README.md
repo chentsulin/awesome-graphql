@@ -831,7 +831,7 @@
 
 ## Podcasts
 
-- [GraphQL.FM](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNjE5NmViMC9wb2RjYXN0L3Jzcw==) - Podcast series on GraphQL development and best practices.
+- [GraphQL.FM](https://podcasters.spotify.com/pod/show/graphqlfm) - Podcast series on GraphQL development and best practices.
 
 <a name="style-guide" />
 
