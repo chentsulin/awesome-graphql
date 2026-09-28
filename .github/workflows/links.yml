@@ -1,0 +1,48 @@
+name: Links
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - README.md
+      - .lycheeignore
+      - .github/workflows/links.yml
+  pull_request:
+    paths:
+      - README.md
+      - .lycheeignore
+      - .github/workflows/links.yml
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: links-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Check links
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          args: >-
+            --no-progress
+            --insecure
+            --accept-timeouts
+            --accept "100..=103,200..=299,429"
+            --timeout 10
+            README.md
+          fail: true
+          jobSummary: true
+          token: ${{ github.token }}
