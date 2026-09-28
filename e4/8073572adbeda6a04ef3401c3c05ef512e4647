@@ -1,0 +1,19 @@
+README.md
+  s_4b6f6815c9a83f::t_9f8c2cb23a3cc5 157,163,171,180,189,235,245-247,283,305,308,346,359,408,439,561,567,576,603-604,613,697,699
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e48073572adbeda6a04ef3401c3c05ef512e4647",
+  "prompts": {},
+  "sessions": {
+    "s_4b6f6815c9a83f": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "339790b8-9147-4a4e-b76c-e1f9286d73db",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
