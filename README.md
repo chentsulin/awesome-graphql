@@ -855,7 +855,7 @@
 
 ### Blogs - Security
 
-- [Escape - The GraphQL Security Blog](https://escape.tech/blog) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
+- [Escape - The GraphQL Security Blog](https://escape.tech/blog/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 
 <a name="post" />
 
