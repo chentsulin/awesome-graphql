@@ -1,0 +1,28 @@
+.github/pull_request_template.md
+  s_4b6f6815c9a83f::t_4d30439f95bc25 16
+CONTRIBUTING.md
+  s_4b6f6815c9a83f::t_4d30439f95bc25 15
+package.json
+  s_4b6f6815c9a83f::t_4d30439f95bc25 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e3f1f89e7bc9bc8900779caed64b9ccc25897d30",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  },
+  "sessions": {
+    "s_4b6f6815c9a83f": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "339790b8-9147-4a4e-b76c-e1f9286d73db",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
