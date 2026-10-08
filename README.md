@@ -539,6 +539,7 @@
 - [apollo-ios](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [ApolloDeveloperKit](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client developer tools bridge for Apollo iOS.
 - [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI.
+- [Baton](https://github.com/shergin/baton) - Relay-style GraphQL client for SwiftUI and Jetpack Compose, with a fragment beside each view and a normalized store the UI observes.
 
 <a name="ios-example" />
 
