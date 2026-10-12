@@ -14,3 +14,7 @@
 ^https://medium\.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e$
 ^https://medium\.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464$
 ^https://medium\.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd$
+
+# Wallarm blocks automated requests.
+^https://lab\.wallarm\.com/api-security-solution/$
+^https://lab\.wallarm\.com/securing-graphql-api/$
