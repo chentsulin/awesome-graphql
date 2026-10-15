@@ -17,6 +17,11 @@
       "enabled": false
     },
     {
+      "description": "Explain why workflow updates cannot be created automatically",
+      "matchFileNames": [".github/workflows/**"],
+      "dependencyDashboardCategory": ":warning: Workflow updates require a token with `workflows` permission"
+    },
+    {
       "description": "Remove word `dependency` from commit messages and PR titles",
       "matchDatasources": ["npm"],
       "commitMessageTopic": "{{depName}}"
