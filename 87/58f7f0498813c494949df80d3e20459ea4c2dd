@@ -1,0 +1,14 @@
+.github/workflows/renovate.yml
+  h_ac004aadb63da9 10-12,55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8758f7f0498813c494949df80d3e20459ea4c2dd",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
