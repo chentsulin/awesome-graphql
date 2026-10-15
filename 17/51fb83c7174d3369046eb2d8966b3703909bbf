@@ -1,0 +1,16 @@
+.github/workflows/lint.yml
+  h_ac004aadb63da9 39,43
+.github/workflows/renovate.yml
+  h_ac004aadb63da9 43,46,52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1751fb83c7174d3369046eb2d8966b3703909bbf",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
