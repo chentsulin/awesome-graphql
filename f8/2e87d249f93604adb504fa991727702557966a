@@ -1,0 +1,28 @@
+renovate.json5
+  s_a05e96271f8800::t_e3d790a68c7cf1 30
+  h_ac004aadb63da9 19
+  h_ac004aadb63da9 20-23
+.github/workflows/renovate.yml
+  h_ac004aadb63da9 10-12,55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f82e87d249f93604adb504fa991727702557966a",
+  "prompts": {},
+  "humans": {
+    "h_ac004aadb63da9": {
+      "author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  },
+  "sessions": {
+    "s_a05e96271f8800": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "dc72c308-d6a3-4cb2-9ccd-90d7ec6913ac",
+        "model": "copilot/gpt-5.6-sol"
+      },
+      "human_author": "Adam Setch <adam.setch@outlook.com>"
+    }
+  }
+}
