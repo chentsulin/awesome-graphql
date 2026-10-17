@@ -670,6 +670,7 @@
 - [supertest-graphql](https://github.com/alexstrat/supertest-graphql) - Extends supertest to easily test a GraphQL endpoint.
 - [schemathesis](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 - [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Local, stateful twin of the Jobber GraphQL API, with its documented query costs, throttling, and webhooks, for testing integrations and AI agents.
+- [MockForge](https://github.com/SaaSy-Solutions/mockforge) - Open-source mock server that serves a GraphQL API from an SDL schema with generated data, alongside REST, gRPC, WebSocket, and Kafka mocks.
 
 <a name="tool-security" />
 
