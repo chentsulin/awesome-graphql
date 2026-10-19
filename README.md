@@ -893,6 +893,7 @@
 - [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/) - Detailed introduction to Relay's architecture and data-fetching model.
 - [Make Your GraphQL API Easier to Adopt Through Components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1) - Guide to packaging GraphQL schemas and resolvers as reusable components.
 - [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd) - Tutorial for streaming Kafka messages through Ballerina GraphQL subscriptions.
+- [HTTP 200 and Partial GraphQL Data](https://gist.github.com/CedarProof/bafa0065eb3bf57b3dbd30b61abb4094) - Reproducible offline Python example showing a successful HTTP status alongside a failed GraphQL field.
 
 ### Posts - Security
 
