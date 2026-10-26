@@ -1,7 +1,7 @@
 {
   "name": "awesome-graphql",
   "private": true,
-  "packageManager": "pnpm@12.14.0",
+  "packageManager": "pnpm@12.15.0",
   "scripts": {
     "lint": "awesome-lint"
   },
