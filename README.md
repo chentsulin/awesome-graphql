@@ -744,6 +744,7 @@
 - [Dgraph](https://dgraph.io/) - Scalable, distributed, low-latency, high-throughput graph database with GraphQL as the query language.
 - [ArangoDB](https://arangodb.com/) - Native multi-model database with GraphQL support through Foxx microservices.
 - [Weaviate](https://github.com/weaviate/weaviate) - Open-source vector database combining vector search, structured filtering, and a GraphQL interface.
+- [TerminusDB](https://github.com/terminusdb/terminusdb) - Open-source knowledge graph database with git-like version control and a built-in GraphQL API.
 
 <a name="services" />
 
