@@ -7,11 +7,13 @@ on:
     paths:
       - README.md
       - .lycheeignore
+      - lychee.toml
       - .github/workflows/links.yml
   pull_request:
     paths:
       - README.md
       - .lycheeignore
+      - lychee.toml
       - .github/workflows/links.yml
   workflow_dispatch:
   schedule:
@@ -36,13 +38,7 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
-          args: >-
-            --no-progress
-            --insecure
-            --accept-timeouts
-            --accept "100..=103,200..=299,429"
-            --timeout 10
-            README.md
+          args: --config lychee.toml README.md
           fail: true
           jobSummary: true
           token: ${{ github.token }}
