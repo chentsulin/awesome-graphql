@@ -1,0 +1,5 @@
+no_progress = true
+insecure = true
+accept_timeouts = true
+accept = ["100..=103", "200..=299", "429"]
+timeout = 10
