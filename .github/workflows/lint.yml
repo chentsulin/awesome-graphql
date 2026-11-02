@@ -36,7 +36,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Set up tools
-        uses: jdx/mise-action@08ae2a091c038e1e05ec6f5115dc5c69d5a2a6b8 # v5.1.2
+        uses: jdx/mise-action@6612f0ef07ed2a736cd1e00a94a065522dd41195 # v5.2.5
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
       - name: Lint list
