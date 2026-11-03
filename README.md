@@ -295,6 +295,7 @@
 
 - [graphql-parser](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python.
 - [graphql-core](https://github.com/graphql-python/graphql-core) - Python port of the GraphQL.js reference implementation.
+- [graphql-codegen](https://github.com/tibdex/graphql-codegen) - Typed Python client generator with no imposed transport, no runtime dependencies, and no redundant validation.
 - [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py) - A library for building GraphQL servers that support the Relay server specification.
 - [graphql-parser-python](https://github.com/tallstreet/graphql-parser-python) - A python wrapper around libgraphqlparser.
 - [graphene](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
