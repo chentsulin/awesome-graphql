@@ -313,7 +313,7 @@
 - [turms](https://github.com/jhnnsrs/turms) - Pythonic GraphQL code generator built around graphql-core and Pydantic.
 - [rath](https://github.com/jhnnsrs/rath) - Apollo-like GraphQL client with asynchronous and synchronous interfaces.
 - [sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client makes working with GraphQL API responses easier in Python.
-- [spartan-graphql](https://github.com/tibdex/spartan-graphql) - Typed Python client generator with no imposed transport, no runtime dependencies, and no redundant validation.
+- [Spartan GraphQL](https://github.com/tibdex/spartan-graphql) - Typed Python client generator with no imposed transport, no runtime dependencies, and no redundant validation.
 
 <a name="py-example" />
 
