@@ -650,6 +650,7 @@
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 - [Mongrel](https://www.visorcraft.com/) - Desktop workbench with a GraphQL client, plus HTTP, WebSocket, and gRPC, inside a multi-database GUI.
 - [GalleonQL](https://galleonql.com/) - A desktop API client built specifically for GraphQL (macOS, Windows, Linux), pairing an introspected schema browser with an incremental query builder and switchable endpoint profiles.
+- [Gostman](https://github.com/kunalgoesbyken/gostman) - Open source desktop and web API client with a schema browser, query validation, file uploads and subscriptions over WebSocket or server-sent events, plus REST, gRPC and more.
 
 
 <a name="tool-testing" />
