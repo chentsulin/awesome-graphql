@@ -762,6 +762,7 @@
 
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - GraphQL analytics and monitoring service for identifying functional and performance issues.
 - [Stellate](https://stellate.co/) - GraphQL edge platform for caching, observability, and API security, formerly known as GraphCDN.
+- [GraphPilot](https://graphpilot.io/) - Managed GraphQL edge cache on Fastly's network that derives caching and invalidation from the schema and purges cached responses when a mutation returns a changed object.
 
 ### Data APIs & Gateways
 
