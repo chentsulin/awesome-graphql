@@ -445,6 +445,7 @@
 #### .NET Examples
 
 - [.NET backend tutorial](https://hasura.io/learn/graphql/backend-stack/languages/dotnet/) - A tutorial creating a GraphQL server and client with .NET.
+- [Clean GraphQL API](https://github.com/LeanMeanCleanApps/CleanGraphQLApi) - A `dotnet new` template for a Hot Chocolate GraphQL API on .NET 10 with Clean Architecture solution structure.
 
 <a name="elixir" />
 
