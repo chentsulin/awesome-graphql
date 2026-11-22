@@ -129,6 +129,7 @@
 - [gqty](https://github.com/gqty-dev/gqty) - No-query-language GraphQL client for TypeScript.
 - [genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
 - [zodql](https://github.com/mattiasahlsen/zodql) - Type-safe GraphQL client that uses Zod schemas as the single source of truth to build queries, infer response types, and validate responses at runtime.
+- [HyperFetch](https://github.com/BetterTyped/hyper-fetch) - Type-safe data fetching framework whose GraphQL adapter sends typed queries and mutations over HTTP and subscriptions over WebSocket, with caching, retries, and React hooks.
 
 ##### Frontend Framework Integrations
 
