@@ -683,7 +683,6 @@
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - Automated GraphQL security scanning and vulnerability detection.
 - [InQL Scanner](https://github.com/doyensec/inql) - Burp extension for GraphQL security testing.
 - [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) - Burp Suite extension for GraphQL security testing.
-- [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web application firewall for GraphQL APIs.
 - [GraphQL Intruder](https://github.com/davinerd/gql_intruder) - Plugin-based Python script for performing GraphQL vulnerability assessments.
 - [GraphQL Cop](https://github.com/dolevf/graphql-cop) - Security audit utility for GraphQL.
 - [GraphQLer](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool.
