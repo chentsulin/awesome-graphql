@@ -690,6 +690,7 @@
 - [hasura-security](https://github.com/Perufitlife/hasura-security) - Active-probe security auditor for self-hosted Hasura GraphQL Engine that detects open introspection, public-role data leaks, and unauthenticated endpoints.
 - [graphql-armor](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
 - [goctopus](https://github.com/Escape-Technologies/goctopus) - Fast GraphQL discovery and fingerprinting toolbox.
+- [Keybrum](https://keybrum.com) - Automated penetration test for live web apps that checks GraphQL endpoints for open introspection, schema-leaking field suggestions, batched and deeply nested queries, and mutations callable without authentication.
 
 ### Tools - Developer Extensions
 
