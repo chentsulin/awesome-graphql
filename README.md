@@ -652,6 +652,7 @@
 - [Mongrel](https://www.visorcraft.com/) - Desktop workbench with a GraphQL client, plus HTTP, WebSocket, and gRPC, inside a multi-database GUI.
 - [GalleonQL](https://galleonql.com/) - A desktop API client built specifically for GraphQL (macOS, Windows, Linux), pairing an introspected schema browser with an incremental query builder and switchable endpoint profiles.
 - [Gostman](https://github.com/kunalgoesbyken/gostman) - Open source desktop and web API client with a schema browser, query validation, file uploads and subscriptions over WebSocket or server-sent events, plus REST, gRPC and more.
+- [Zeno](https://github.com/chmenegatti/zeno) - Open source, local-first desktop API client with a GraphQL editor that autocompletes and validates against the introspected schema, plus REST, gRPC and WebSocket, with collections stored as YAML in git.
 
 
 <a name="tool-testing" />
