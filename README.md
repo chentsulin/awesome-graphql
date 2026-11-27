@@ -687,6 +687,7 @@
 - [GraphQL Cop](https://github.com/dolevf/graphql-cop) - Security audit utility for GraphQL.
 - [GraphQLer](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool.
 - [Vulert](https://vulert.com) - Detects vulnerabilities in open source dependencies without accessing code, with support for JavaScript, PHP, Java, Python, and more.
+- [VibeShield](https://shipbastion.com/) - Passive pre-launch web and GraphQL security auditor checking GraphQL introspection exposure, 52 leaked client JS secret patterns, 10 Observatory HTTP security headers, and CORS credential reflection.
 - [hasura-security](https://github.com/Perufitlife/hasura-security) - Active-probe security auditor for self-hosted Hasura GraphQL Engine that detects open introspection, public-role data leaks, and unauthenticated endpoints.
 - [graphql-armor](https://github.com/Escape-Technologies/graphql-armor) - An instant security layer for production GraphQL Endpoints.
 - [goctopus](https://github.com/Escape-Technologies/goctopus) - Fast GraphQL discovery and fingerprinting toolbox.
